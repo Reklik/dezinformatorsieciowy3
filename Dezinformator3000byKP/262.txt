@@ -1,1 +1,7 @@
 X00101
+Które dwie popularne z podanych poniżej technologii WAN, wykorzystują komutację łączy? (Wybierz dwie odpowiedzi).
+Frame Relay
+DSL
+PSTN
+ATM
+ISDN
