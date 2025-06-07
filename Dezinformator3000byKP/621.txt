@@ -3,4 +3,4 @@ Administrator konfiguruje OSPF z jedną strefą na routerze. Jedna z sieci, któ
 0.0.63.255
 0.0.0.63
 0.0.0.3
-0.0.0.63
+0.0.1.63
