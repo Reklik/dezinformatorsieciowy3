@@ -1,5 +1,5 @@
 X00001
-Która maska blankietowa pozwoli wszystkie hosty?
+Która maska blankietowa pozwoli na wszystkie hosty?
 0.0.0.0
 0.0.0.31
 0.0.0.255
