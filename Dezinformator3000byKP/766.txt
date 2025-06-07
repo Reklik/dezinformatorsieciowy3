@@ -1,6 +1,5 @@
 X000011
-Jakie dwa rodzaje ustawień portów na przełącznikach Cisco służą do ochrony przed atakiem DHCP spoofing (wybierz dwie)
-Wybierz wszystkie poprawne:
+Jakie dwa rodzaje ustawień portów na przełącznikach Cisco służą do ochrony przed atakiem DHCP spoofing (wybierz dwie) Wybierz wszystkie poprawne:
 unknown port
 authorized DHCP port
 established DHCP port
