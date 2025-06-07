@@ -1,0 +1,8 @@
+X010100
+Które dwa stwierdzenia dokładnie opisują przewagę lub wadę podczas wdrażania NAT dla protokołu IPv4 w sieci? (Wybierz dwie odpowiedzi).
+NAT usprawnia obsługę pakietów
+NAT jest rozwiązaniem spowalniającym wyczerpywanie się adresów IPv4
+stosowanie NAT negatywnie wpływa na wydajność przełącznika
+NAT wprowadza problemy dla niektórych aplikacji, które wymagają połączenia typu end-to-end
+NAT powoduje, że tablice routingu zawierają więcej informacji
+NAT dodaje możliwość uwierzytelniania do IPv4

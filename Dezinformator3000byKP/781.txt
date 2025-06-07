@@ -1,0 +1,6 @@
+X0001
+Na podstawie jakiego kosztu interfejsu wyliczana jest metryka trasy w protokole OSPF?
+Koszt = Referencyjna przepustowość / opóźnienie interfejsu
+Koszt = Referencyjne opóźnienie / opóźnienie interfejsu + przepustowość interfejsu
+Koszt = Referencyjna przepustowość / przepustowość interfejsu + opóźnienie interfejsu
+Koszt = Referencyjna przepustowość / przepustowość interfejsu

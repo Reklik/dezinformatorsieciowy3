@@ -1,0 +1,6 @@
+X1000
+Co zawiera obszar OSPF?
+routery mające taką samą informację o stanie łącza w swoich bazach LSDB
+routery, których drzewa SFP są identyczne
+routery o tym samym identyfikatorze numeru
+routery o tym samym identyfikatorze

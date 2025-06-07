@@ -1,0 +1,6 @@
+X1000
+Jakie urządzenie sieciowe jest zazwyczaj odpowiedzialne za egzekwowanie zasad kontroli ruchu między sieciami?
+ruter – router
+serwer bezpieczeństwa – security server
+most – bridge
+przełącznik – switch

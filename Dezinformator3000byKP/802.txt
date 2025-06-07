@@ -1,0 +1,6 @@
+X0101
+Rozszerzone listy dostępu (extended ACLs) umieszczamy na interfejsach i dla właściwego kierunku transmisji, kierując się regułą (wybierz dwie):
+zawsze na pierwszym interfejsie na trasie pakietu dla ruchu wchodzącego (in)
+o ile to możliwe jak najbliżej źródła filtrowanych pakietów na ruchu wchodzącego (in)
+zawsze na ostatnim interfejsie na trasie pakietu dla ruchu wychodzącego (out)
+ze względu na pełną specyfikację ruchu możemy ACL umieścić na dowolnym interfejsie na trasie pakietów

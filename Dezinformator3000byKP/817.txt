@@ -1,0 +1,6 @@
+X0010
+Które z poniższych zdań opisuje poziom istotności (severity) komunikatów syslog?
+komunikat o poziomie istotności 4 i wyższym są domyślnie wysyłane do zewnętrznego serwera syslog
+komunikat o poziomie istotności 7 jest wysyłany wyłącznie na linię terminala (console)
+najbardziej krytyczne są komunikaty o poziomie istotności 0
+alarm syslog o poziomie istotności 7 wskazuje na sytuację awaryjną prowadzącą nawet do uszkodzenia systemu

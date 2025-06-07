@@ -1,0 +1,6 @@
+X0010
+Jaką rolę odgrywają urządzenia sieciowe w modelu QoS IntServ wykorzystując np. protokół RSVP?”
+Urządzenia sieciowe zapewniają najlepsze podejście do przekazywania ruchu.
+Urządzenia sieciowe są skonfigurowane do obsługi wielu klas ruchu i obsługi ruchu w miarę jego nadejścia.
+Urządzenia sieciowe zapewniają dostępność zasobów przed wysłaniem ruchu przez hosta za pośrednictwem sieci.
+Urządzenia sieciowe wykorzystują QoS z przeskoku na przeskok pomiędzy ruterami, aby zapewnić doskonałą skalowalność.

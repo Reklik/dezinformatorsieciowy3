@@ -1,0 +1,6 @@
+X0100
+Który termin jest używany do opisania słabości systemu lub jego konstrukcji, na które mogą być wykorzystane przez zagrożenie?
+Zasób
+Podatność
+Ograniczenie
+Ryzyko

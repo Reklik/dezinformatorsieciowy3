@@ -1,0 +1,7 @@
+X00010
+Które narzędzia są używane przez hakerów w białych kapeluszach do wykrywania wszelkich śladów dowodów istniejących w komputerze?
+Narzędzia szyfrujące
+Sniffery pakietów
+Fuzzery do wykrywania podatności
+Narzędzia kryminalistyczne
+Debuggery

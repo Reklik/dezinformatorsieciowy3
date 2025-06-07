@@ -1,0 +1,6 @@
+X1000
+Co jest używane do tworzenia tablicy sąsiadów OSPF?
+baza danych przyległości
+baza danych stanu łącza
+tablica routingu
+baza danych przekazywania

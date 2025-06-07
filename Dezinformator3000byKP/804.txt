@@ -1,0 +1,4 @@
+X10
+Który z modeli do implementacji QoS w sieciach IP jest najlepiej skalowalny?
+Usługi zróżnicowane (DiffServ)
+Usługi zintegrowane (IntServ)

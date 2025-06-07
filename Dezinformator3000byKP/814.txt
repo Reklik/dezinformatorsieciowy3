@@ -1,0 +1,7 @@
+X10100
+Co się stanie gdy skutecznie użyjemy poniższego polecenia (wybierz dwie odpowiedzi)? R1# copy startup-config tftp
+przesyłane dane są kopiowane z pamięci NVRAM
+konfiguracja zostanie zapisana w pamięci RAM
+konfiguracja startowa zostanie przesłana na serwer TFTP
+aktualna konfiguracja zostanie zapisana w pamięci NVRAM
+konfiguracja startowa zostanie skopiowana z serwera TFTP

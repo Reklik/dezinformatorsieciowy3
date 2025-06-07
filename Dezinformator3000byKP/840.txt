@@ -1,0 +1,8 @@
+X011010
+Wybierz trzy zdania poprawnie opisujące SPAN (Switched Port ANalyzer).
+RSPAN wymaga do wdrożenia uruchomienia usług syslog i SNMP
+RSPAN może być użyty to przesłania ruchu do systemu IPS, który analizuje ruch pod kątem zagrożeń
+SPAN pozwala na kopiowanie ruchu ze źródłowego portu lub VLAN-u do portu docelowego w ramach tego samego przełącznika
+SPAN pozwala na kopiowanie ruchu na port innego przełącznika
+RSPAN jest niezbędny aby kopiować ruch ze źródłowego VLAN-u na port docelowy w ramach tego samego przełącznika
+SPAN pozwala na kopiowanie ruchu na inny port przełącznika, na którym jest uruchomiony

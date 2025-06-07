@@ -1,0 +1,6 @@
+X1000
+Jakich adresów IP używa protokół OSPF do wysyłania pakietów LSA pomiędzy ruterami DR, BDR i DROTHER?
+Multicast
+Loopback
+Broadcast
+Unicast

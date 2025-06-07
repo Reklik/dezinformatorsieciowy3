@@ -1,0 +1,6 @@
+X0011
+Co robi reguła w poprawnie aktywowanej liście kontroli dostępu (ACL)? (Wybierz dwie) access-list 101 permit tcp 192.168.35.1 0.0.0.0 192.168.10.0 0.0.0.255 eq 23
+przepuszcza połączenie z protokołem telnet z adresu 192.168.35.1 wyłącznie do adresów od 192.168.10.1 do 192.168.10.254
+pozwala komputerowi o adresie 192.168.35.1 na dostęp telnetem do sieci 192.168.10.0/27
+przepuszcza połączenie z protokołem telnet z adresu 192.168.35.1 do adresów od 192.168.10.0 do 192.168.10.255
+pozwala komputerowi o adresie 192.168.35.1 na dostęp telnetem do sieci 192.168.10.0/24

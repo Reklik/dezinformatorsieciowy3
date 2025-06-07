@@ -1,0 +1,7 @@
+X10000
+Jakie funkcje wspiera warstwa dostępu w trzywarstwowym modelu, wykorzystywanym w projektowaniu sieci?
+dostęp do sieci
+połączenia do szkieletu
+routing
+implementacja polityk
+połączenia o dużym paśmie

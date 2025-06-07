@@ -1,0 +1,6 @@
+X0010
+Jak nazywa się stan, w którym sąsiadujące routery OSPF są zbieżne i mogą wymieniać aktualizacje routingu?
+Exchange
+ExStart
+Full
+Two-Way

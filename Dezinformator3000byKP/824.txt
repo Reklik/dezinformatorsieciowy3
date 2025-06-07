@@ -1,0 +1,6 @@
+X0010
+Która technologia jest wymagana, gdy sieci przełączane są zaprojektowane tak, aby zawierały łącza nadmiarowe?”
+wirtualne sieci LAN
+agregacja łączy
+protokół Spanning Tree
+wirtualna sieć prywatna
