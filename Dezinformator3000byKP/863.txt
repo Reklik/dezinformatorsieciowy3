@@ -1,0 +1,6 @@
+X0100
+Jakiego typu protokołem jest OSPF?
+Bezklasowym / Bramy zewnętrznej / Wektora odległości
+Bezklasowym / Bramy wewnętrznej / Stanu łącza
+Klasowym / Bramy wewnętrznej / Stanu łącza
+Bezklasowym / Bramy zewnętrznej / Stanu łącza

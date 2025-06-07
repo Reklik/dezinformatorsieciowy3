@@ -1,0 +1,6 @@
+X1000
+Jakie jest przeznaczenie pakietów OSPF Hello?
+wykrycie sąsiadów i ustanowienie z nimi relacji przylegania
+wysyłanie żądań dotyczących stanu konkretnych łączy
+zapewnienie synchronizacji bazy danych topologii pomiędzy routerami
+żądanie przesłania przez routery sąsiadujące informacji o stanie konkretnych łącz

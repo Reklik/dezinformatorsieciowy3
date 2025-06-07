@@ -1,0 +1,7 @@
+X11111
+Dopasuj do każdej operacji SNMP właściwy opis. Zapamiętaj kolejność - poprawna odp to zaznaczenie wszystkiego jak coś...
+set-request
+get-bulk-request
+get-response
+get-next-request
+[img]843.png[/img]

@@ -1,0 +1,6 @@
+X0001
+Który rodzaj NAT pozwala na używanie przez wiele hostów, znajdujących się w sieci prywatnej, jednego wewnętrznego globalnego adresu w celu połączenia się z Internetem?
+dynamiczny NAT
+statyczny NAT
+przekierowanie portu
+PAT

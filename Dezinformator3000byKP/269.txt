@@ -1,6 +1,6 @@
 X0001
 Jaki typ VPN można ustanowić za pomocą przeglądarki internetowej korzystającej z protokołu HTTPS?
 IPsec
-VPN oparty na kliencie
+VPN oCzęśćy na kliencie
 Sieć VPN typu Site-to-Site
 VPN bez klienta

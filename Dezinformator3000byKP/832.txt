@@ -1,0 +1,6 @@
+X0001
+Jaki jest termin używany w obszarze sieci, na który ma wpływ, gdy urządzenie lub usługa sieciowa napotykają problemy?
+domena kolizyjna
+domena rozgłoszeniowa
+domena użytkownika
+obszar awarii

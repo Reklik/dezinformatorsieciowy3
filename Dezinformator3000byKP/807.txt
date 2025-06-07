@@ -1,0 +1,7 @@
+X00101
+Dwa główne powody dla których firma powinna używać VPN to:
+wyeliminowanie potrzeby posiadania zdefiniowanej bramy dostępowej
+zwiększenie przepustowości połączenia
+możliwość bezpiecznego podłączenia się dostawcom i kontrahentom do sieci firmowej
+umożliwienie testowania połączenia do użytkowników zdalnych
+możliwość bezpiecznego podłączenia się telepracowników do sieci firmowej

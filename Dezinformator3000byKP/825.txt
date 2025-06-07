@@ -1,0 +1,6 @@
+X0010
+Która funkcja może być użyta w projekcie sieci, aby zwiększyć przepustowość przez połączenie wielu łączy fizycznych w jedno łącze logiczne?
+Sieci wirtualne (VLANs)
+porty trunk
+EtherChannel
+podinterfejsy

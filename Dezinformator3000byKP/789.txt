@@ -1,0 +1,8 @@
+X011010
+Które mechanizmy są niezbędne do uzyskania poufności danych? (Wybierz 3)
+dostęp – access
+integralność – integrity
+poufność – confidentiality
+skalowalność – scalability
+dostępność – availability
+interwencjonizm – intervention

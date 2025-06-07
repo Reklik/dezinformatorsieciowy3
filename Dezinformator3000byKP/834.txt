@@ -1,0 +1,6 @@
+X1000
+Przy projektowaniu zmian w centrum danych dokonywanych z powodu nowego wdrożenia rozwiązania IoE administrator sieci musi stworzyć schemat nowej topologii fizycznej. Co powinno być zawarte w schemacie topologii fizycznej?
+lokalizacje i długości kabli pomiędzy przełącznikami (switches) i serwerami
+schemat adresowania IP dla wszystkich stacji roboczych pracujących w sieci
+specyfikacje techniczne zapór ogniowych (firewall)
+umowa poziomu serwisowego SLA (service level agreement) zawarta z dostawcą usług internetowych (ISP)

@@ -1,0 +1,7 @@
+X00011
+W której topologii sieci w OSPF, relacja przylegania nie jest jednoznacznie określona i jest potrzeba przeprowadzania elekcji routera desygnowanego DR i zastępczego routera desygnowanego BDR? (Wybierz dwie odpowiedzi):
+Punkt-wielopunkt (point-to-multipoint)
+Połączenia wirtualne (virtual links)
+Punkt-punkt (point-to-point)
+Rozgłoszeniowa wielodostępowa (broadcast multiaccess)
+Nierozgłoszeniowa wielodostępowa NBMA (nonbroadcast multiaccess)

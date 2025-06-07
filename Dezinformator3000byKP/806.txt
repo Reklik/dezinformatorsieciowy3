@@ -1,0 +1,6 @@
+X0001
+Jaki typ sieci VPN jest niewidoczny dla użytkownika końcowego?
+prywatny
+publiczny
+remote-access (dostęp zdalny)
+site-to-site (lokacja–lokacja)

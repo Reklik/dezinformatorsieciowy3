@@ -1,0 +1,6 @@
+X0010
+Jak działa usługa IP NAT?
+zamienia adres MAC na adres IP
+zamienia zawsze tylko adres IP prywatny na publiczny
+zamienia adres IP prywatny na publiczny lub też prywatny na prywatny
+zamienia zawsze tylko adres IP publiczny na prywatny

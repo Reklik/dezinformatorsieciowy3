@@ -1,0 +1,6 @@
+X0100
+Ile wynosi standardowy dystans administracyjny protokołu OSPF dla tras dynamicznych?
+20
+110
+90
+120

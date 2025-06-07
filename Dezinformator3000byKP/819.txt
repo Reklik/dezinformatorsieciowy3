@@ -1,0 +1,6 @@
+X0001
+Klient dzwoni do działu pomocy technicznej i mówi do technika: „Właśnie uruchomiłem komputer i próbowałem sprawdzić pocztę e-mail. Został wyświetlony błąd 0x800ccc0d. Udało mi się jednak połączyć z dyskami sieciowymi i uzyskać dostęp do Internetu”. Które z poniższych zdań opisuje stan tego problemu?
+klient musi przepiąć kabel przed rozpoczęciem przez dział pomocy znajdowania przyczyny
+klient musi zrestartować komputer i po restarcie zgłosić powtórnie zdarzenie w dziale pomocy
+dział pomocy ma zbyt mało informacji aby znaleźć rozwiązanie problemu
+wymagane jest uzyskanie od klienta więcej szczegółowych informacji aby opisać stan problemu

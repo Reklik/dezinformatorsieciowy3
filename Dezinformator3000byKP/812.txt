@@ -1,0 +1,6 @@
+X0100
+Które polecenie na ruterze Cisco użyjemy aby aktywować autorytatywny (stratum 1) serwer Network Time Protocol?”
+ntp broadcast client
+ntp master 1
+clock set 13:15:00 JAN 20 2022
+ntp server 172.31.0.1

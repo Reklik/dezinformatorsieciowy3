@@ -1,0 +1,6 @@
+X0001
+Do czego służą w protokole SNMP (Simple Network Management Protocol) alarmy (komunikaty trap)?
+pozwalają na przesyłanie zmiennych do urządzeń w celu zmiany ich konfiguracji
+pozwalają na cykliczne odpytwanie zarządzanych przez NMS urządzeń
+są używane przez system NMS (Network Management System) do wysyłania zapytań do zarządzanych urządzeń
+są wysyłane przez agenta SNMP i informują NMS o istotnych zdarzeniach w sieci

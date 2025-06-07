@@ -1,0 +1,7 @@
+X11000
+Które z poniższych zdań opisują cechy community strings w protokole SNMP (Simple Network Management Protocol)? (Wybierz dwie odpowiedzi)
+community string SNMP typu read/write może uprawniać do zmiany parametrów zarządzanego urządzenia
+community string typu read uprawnia do odczytywania parametrów zarządzanego urządzenia
+niektóre protokoły SNMPv1, SNMPv2 i SNMPv3 są przesyłane jawnym tekstem community strings
+jeżeli NMS (Network Management System) wyśle community string typu read, jest uprawniony do odczytywania i ustawiania parametrów
+podczas konfiguracji protokołu SNMP należy używać powszechnie znanych wartości community string

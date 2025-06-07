@@ -1,0 +1,6 @@
+X0010
+Inżynier sieci rozwiązuje problem sieci, w którym użytkownicy nie mogą uzyskać dostępu do serwera FTP pod tym samym adresem IP, na którym można pomyślnie uzyskać dostęp do strony internetowej. Którą metodę rozwiązywania problemów najlepiej zastosować w tym przypadku?
+dziel i rządź (divide-and-conquer)
+wstępującą (bottom-up)
+zstępującą (top-down)
+porównanie konfiguracji komputerów użytkowników

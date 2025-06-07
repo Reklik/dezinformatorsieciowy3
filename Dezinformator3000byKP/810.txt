@@ -1,0 +1,6 @@
+X0010
+Co się stanie, gdy bufor pamięci urządzenia się zapełni i zostanie odebrany nowy ruch sieciowy?
+Urządzenie sieciowe odrzuca cały ruch z bufora.
+Urządzenie sieciowe buforuje odebrany ruch podczas wysyłania wcześniej odebranego ruchu.
+Urządzenie sieciowe odrzuci nadchodzące pakiety.
+Urządzenie sieciowe natychmiast wysyła odebrany ruch do sieci.

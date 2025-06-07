@@ -1,0 +1,8 @@
+X110001
+Do utworzenia przyległości sąsiedzkiej pary ruterów z uruchomionym protokołem OSPFv2 wymagana jest zgodność trzech parametrów (Wybierz trzy odpowiedzi):
+Identyfikator obszaru
+Podsieć i maska podsieci
+Priorytet interfejsu
+Rodzaj sieci OSPFv2
+Numer procesu OSPFv2
+Czas hello

@@ -1,0 +1,8 @@
+X010110
+Jakim protokołem rutingu jest OSPF? (Wybierz trzy odp):
+Wektora odległości
+Stanu łącza
+Klasowym
+Bezklasowym
+Wewnątrzobszarowy
+Zewnątrzobszarowy

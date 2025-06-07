@@ -1,0 +1,6 @@
+X0001
+Jakie należy podjąć działanie podczas planowania redundancji w hierarchicznym podejściu do projektowania sieci?
+Natychmiast wymień niedziałający moduł, usługę lub urządzenie w sieci.
+Zakup urządzenia do tworzenia kopii zapasowych dla każdego urządzenia sieciowego na warstwie dystrybucyjnej.
+Zaimplementuj protokół STP PortFast między przełącznikami w sieci.
+Dodaj alternatywne ścieżki fizyczne dla danych, które będą przechodzić przez sieć.

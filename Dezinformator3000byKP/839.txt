@@ -1,0 +1,8 @@
+X001110
+W firmie wdrażany jest system monitorowania sieci w oparciu o SNMPv3. Wybierz trzy opisy dobrze charakteryzujące ten protokół.
+SNMPv3 używa port 514 protokołu UDP do przesyłania komunikatów informujących o zdarzeniach
+SNMPv3 używa płaskiej struktury danych MIB aby przyspieszyć dostęp do informacji
+SNMPv3 używa uwierzytelniania do sprawdzenia czy pakiet pochodzi ze znanego źródła
+SNMPv3 używa kryptografii do szyfrowania zawartości pakietów chroniąc przed nieuprawnionym dostępem
+SNMPv3 zapewnia integralność komunikatów dzięki zapobieganiu podmianie pakietów w czasie transmisji
+SNMPv3 przesyła dane bez uwierzytelnienia źródła

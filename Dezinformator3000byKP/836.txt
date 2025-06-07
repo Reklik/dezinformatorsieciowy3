@@ -1,0 +1,6 @@
+X0100
+Inżynier rozwiązuje problem z działaniem sieci. Test ping pomiędzy dwoma urządzeniami kończy się sukcesem. Niestety nie można zestawić sesji Telnet pomiędzy tymi urządzeniami. Którą warstwę modelu OSI powinien teraz sprawdzić?”
+wszystkie warstwy
+od warstwy sieci do warstwy aplikacji
+od warstwy sieci do warstwy fizycznej
+tylko warstwę sieci

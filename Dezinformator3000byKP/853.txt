@@ -1,0 +1,6 @@
+X0100
+Jaka funkcja jest wykonywana przez router desygnowany OSPF?
+sumaryzowanie tras między obszarami
+rozpowszechnianie LSA
+utrzymywanie bazy danych stanu łącza
+redystrybucja tras zewnętrznych do OSPF

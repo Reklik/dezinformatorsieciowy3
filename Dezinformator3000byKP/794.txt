@@ -1,0 +1,6 @@
+X1000
+Dział IT zgłasza, że firmowy serwer WWW rejestruje nadzwyczaj wysoką liczbę zapytań z wielu różnych lokalizacji jednocześnie. Z jakim typem ataku mamy do czynienia?
+DDoS
+socjotechniczny
+phishing
+spyware

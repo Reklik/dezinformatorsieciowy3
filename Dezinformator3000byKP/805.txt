@@ -1,0 +1,6 @@
+X1000
+Który protokół ramowy IPsec zapewnia integralność danych i uwierzytelnianie danych, ale nie zapewnia poufności danych?
+AH
+IPv6
+ESP
+DH

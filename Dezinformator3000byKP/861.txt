@@ -1,0 +1,6 @@
+X1000
+Co jest identyczne na wszystkich routerach OSPF w jednym obszarze?
+baza danych stanu łącza
+statyczne trasy
+tablica sąsiadów
+tablica routingu

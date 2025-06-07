@@ -1,0 +1,6 @@
+X0010
+W firmie został przeprowadzony atak, źródłem ataku jest host o znanej nazwie. Jakiego polecenia może użyć technik sieci do ustalenia adresu IP przypisanego do nazwy hosta?
+ipconfig /all
+tracert
+nslookup
+net computer
