@@ -1,0 +1,6 @@
+X0001
+Który termin opisuje proces zarządzania zmianami konfiguracji urządzeń sieciowych w uporządkowany sposób?
+kontrola wersji
+autoryzacja
+udostępnianie
+orkiestracja

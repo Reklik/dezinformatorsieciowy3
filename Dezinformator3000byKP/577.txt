@@ -1,0 +1,6 @@
+X1000
+Który znak jest używany do oddzielania par klucz/wartość JSON?
+(przecinek) ,
+(średnik) ;
+(kreska) -
+(ukośnik) /

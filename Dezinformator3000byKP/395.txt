@@ -1,0 +1,6 @@
+X0010
+Która kategoria przełącznika służy do agregowania ruchu na skraju sieci?
+Przełączniki kampusowej sieci LAN
+Przełączniki zarządzane w chmurze
+Przełączniki dostawcy usług internetowych
+Przełączniki dla centrów danych

@@ -1,0 +1,6 @@
+X0010
+Co to jest cecha przetwarzania danych w SDN?
+Kontroler SDN dołącza wpis do każdego pakietu w celu identyfikacji przepływu.
+OpenStack służy do konstruowania wpisu w przełącznikach w celu ułatwienia przekazywania danych.
+Każdy przepływ danych przez sieć musi być najpierw zatwierdzony przez kontroler SDN.
+Kontroler SDN kieruje przepływ danych w pierwszej kolejności, a płaszczyzna danych użyje zasad, aby zezwolić lub odmówić przepływu.

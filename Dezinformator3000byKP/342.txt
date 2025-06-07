@@ -1,0 +1,6 @@
+X0100
+Który algorytm kolejkowania stosuje priorytet lub wagi, aby zidentyfikować ruch i sklasyfikować go?
+FIFO
+WFQ
+CBWFQ
+LLQ

@@ -1,0 +1,5 @@
+X100
+Jaki jest ustalony czas potrzebny na przekazanie ramki z z karty sieciowej do przewodów (okablowania)?
+Opóźnienie serializacji
+Jitter
+Opóźnienie kodu

@@ -1,0 +1,6 @@
+X0001
+Z jakiej technologii należy korzystać w publicznej infrastrukturze WAN, gdy biuro oddziałowe jest podłączone z siecią korporacyjną?
+ATM
+ISDN
+Miejska sieć Wi-Fi
+VPN

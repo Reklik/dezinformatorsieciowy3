@@ -1,0 +1,7 @@
+X11000
+Jakie dwie korzyści zyskuje organizacja, gdy wdraża przetwarzanie w chmurze i wirtualizację? (Wybierz dwie.)
+zapewnia model „płać za zużycie”, pozwalający organizacjom traktować koszty obliczeń i przechowywania danych jak opłaty za media
+umożliwia szybką reakcję na rosnące wymagania dotyczące objętości danych
+rozproszone przetwarzanie dużych zbiorów danych o rozmiarze terabajtów
+eliminacja podatności na cyberataki
+zwiększenie zależności od lokalnych zasobów IT

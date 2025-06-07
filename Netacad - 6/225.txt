@@ -1,0 +1,6 @@
+X0010
+Jakie korzyści zapewnia NAT64?
+Pozwala na korzystanie z adresów prywatnych IPv6 i tłumaczy je na globalne adresy IPv6.
+Pozwala na podłączenie wielu hostów IPv4 do Internetu przy użyciu pojedynczego publicznego adresu IPv4.
+Umożliwia podłączenie hostów IPv6 do sieci IPv4, korzystając z tłumaczenia adresów IPv6 na adresy IPv4.
+Pozwala na używanie prywatnych adresów IPv4, ukrywając wewnętrzną strukturę adresowania przed publicznymi sieciami IPv4.

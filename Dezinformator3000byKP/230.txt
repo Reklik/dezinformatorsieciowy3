@@ -1,0 +1,6 @@
+X0100
+W przedsiębiorstwie sieć została zaprojektowana tak, że komputery w sieci lokalnej pobierają adresy IP z serwera DHCP, natomiast na zewnątrz pakiety wysyłane są przez router z włączoną funkcją NAT. Jaki typ NAT pozwoli routerowi na tłumaczenie adresów na określone w puli adresów publicznych, podczas przesyłania pakietów na zewnątrz?
+Statyczny NAT
+Dynamiczny NAT
+PAT
+ARP

@@ -1,0 +1,6 @@
+X0001
+Jaki typ VPN polega na tym, że nieszyfrowany protokół tunelowania jest enkapsulowany przez IPsec?
+dynamic multipoint VPN
+SSL VPN
+IPsec virtual tunnel interface
+GRE przez IPsec

@@ -1,0 +1,6 @@
+X0001
+Który termin bezpieczeństwa jest używany do opisania środka przeciwdziałania potencjalnemu zagrożeniu lub ryzyku?
+Podatność
+Exploit
+Zasób
+Ograniczanie

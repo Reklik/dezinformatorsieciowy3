@@ -1,0 +1,4 @@
+X01
+Prawda czy fałsz. Hiperwizor typu 1 jest instalowany na istniejącym systemie operacyjnym i jest nazywany podejściem hostowanym.
+Prawda
+Fałsz

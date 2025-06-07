@@ -1,0 +1,6 @@
+X1000
+Który algorytm kolejki jest skuteczny w przypadku dużych łączy, które mają niewielkie opóźnienie i minimalne przeciążenie?
+FIFO
+WFQ
+CBWFQ
+LLQ

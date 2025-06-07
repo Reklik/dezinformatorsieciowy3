@@ -1,0 +1,7 @@
+X01000
+Który z poniższych składników OSPF jest powiązany z tablicą topologii?
+Algorytm Dijkstry
+Baza danych stanu łącza
+Komunikaty protokołu routingu
+Baza danych przyległości
+Baza danych przekazywania

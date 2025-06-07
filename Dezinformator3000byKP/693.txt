@@ -1,0 +1,6 @@
+X1000
+Jaka jest wada sytuacji, gdy obie strony komunikacji używają PAT (Port Address Translation)?
+Tracona jest możliwość pełnego śledzenia połączenia end-to-end w IPv4.
+Elastyczność połączeń z Internetem jest zmniejszona.
+Bezpieczeństwo komunikacji jest osłabione.
+Adresowanie IPv4 hostów staje się bardziej skomplikowane.

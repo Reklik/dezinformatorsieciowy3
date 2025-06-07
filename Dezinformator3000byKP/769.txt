@@ -1,0 +1,6 @@
+X0010
+Która usługa internetowa API może korzystać z wielu formatów danych, w tym JSON, XML i YAML?
+XML-RPC
+JSON-RPC
+REST
+JSON-RPC

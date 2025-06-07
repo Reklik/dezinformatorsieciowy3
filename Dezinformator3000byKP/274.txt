@@ -1,0 +1,9 @@
+X0001111
+W których warstwach OSI IPsec może chronić ruch? (Wybierz cztery odpowiedzi).
+W warstwie 1
+W warstwie 2
+W warstwie 3
+W warstwie 4
+W warstwie 5
+W warstwie 6
+W warstwie 7

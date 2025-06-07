@@ -1,0 +1,10 @@
+X00010110
+Odwołując się do schematu: administrator sieci chce zezwolić tylko hostowi 192.168.1.1/24 na dostęp do serwera 192.168.2.1/24. Które trzy polecenia osiągną ten cel, stosując najlepsze praktyki umieszczania ACL? (Wybierz trzy.)
+R2(config)# interface fastethernet 0/1
+R2(config-if)# ip access-group 101 out
+R2(config)# access-list 101 permit ip 192.168.1.0 255.255.255.0 192.168.2.0 255.255.255.0
+R2(config-if)# ip access-group 101 in
+R2(config)# access-list 101 permit ip any any
+R2(config)# interface fastethernet 0/0
+R2(config)# access-list 101 permit ip host 192.168.1.1 host 192.168.2.1
+[img]643.png[/img]

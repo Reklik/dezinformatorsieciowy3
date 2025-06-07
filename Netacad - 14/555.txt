@@ -1,0 +1,6 @@
+X0100
+Określ termin dla następującej definicji w stosunku do narzędzi do zarządzania konfiguracją: Programowe wykonywanie zadania w systemie, takie jak konfigurowanie interfejsu lub wdrażanie sieci VLAN.
+Kontrola wersji
+Automatyzacja
+Orkiestracja
+Zarządzanie siecią

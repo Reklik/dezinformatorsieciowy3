@@ -1,0 +1,7 @@
+X00011
+Jakie są dwie cechy łańcuchów społeczności SNMP? (Wybierz dwie odpowiedzi).
+Słabością protokołów SNMPv1, SNMPv2 i SNMPv3 jest to, że wysyłają one łańcuchy społeczności w postaci zwykłego tekstu.
+Podczas konfigurowania bezpiecznego protokołu SNMP należy używać powszechnie znanych ciągów społecznościowych.
+Jeśli menedżer wyśle jeden z poprawnych ciągów wspólnoty tylko do odczytu, może uzyskać informacje i ustawić je w agencie.
+Łańcuchy wspólnoty tylko do odczytu SNMP mogą służyć do pobierania informacji z urządzenia obsługującego protokół SNMP.
+Łańcuchy wspólnoty SNMP do odczytu i zapisu mogą służyć do ustawiania informacji na urządzeniu obsługującym SNMP.

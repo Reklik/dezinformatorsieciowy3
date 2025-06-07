@@ -1,0 +1,7 @@
+X00100
+Rozważ następujące dane wyjściowe dla listy ACL, która została zastosowana do routera za pomocą polecenia access-class in. Co administrator sieci może określić na podstawie wyświetlanego wyjścia?
+Dwa urządzenia podłączone do routera mają adresy IP z sieci 192.168.10.x.
+Ruch z jednego urządzenia nie mógł wejść do jednego portu routera i zostać skierowany do innego portu routera.
+Dwa urządzenia mogły korzystać z SSH lub Telnet, aby uzyskać dostęp do routera.
+Ruch z dwóch urządzeń mógł wejść do jednego portu routera i być kierowany do innego portu routera.
+[img]175.png[/img]

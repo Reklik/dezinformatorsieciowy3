@@ -1,0 +1,6 @@
+X1000
+Który protokół lub usługa może być skonfigurowana aby wysyłać niezapowiedziane komunikaty powiadamiające administratora sieci o zdarzeniu w sieci takim, jak na przykład wystąpienie bardzo wysokiego obciążenia procesora na routerze?
+SNMP
+Syslog
+NTP
+NetFlow

@@ -1,0 +1,6 @@
+X0100
+Przyjrzyj się ilustracji. Jeśli żaden identyfikator routera nie został ręcznie skonfigurowany, czego router Branch1 użyłby jako identyfikator routera OSPF?
+10.0.0.1
+192.168.1.100
+209.165.201.1
+10.1.0.1

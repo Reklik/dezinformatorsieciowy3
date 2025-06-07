@@ -1,0 +1,7 @@
+X00011
+Które dwie opcje łączności WAN to technologie komutacji łączy? (Wybierz dwie odpowiedzi).
+ATM
+Ethernet WAN
+Frame Relay
+ISDN
+PSTN

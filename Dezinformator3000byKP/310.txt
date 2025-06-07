@@ -1,0 +1,6 @@
+X0001
+Który protokół tworzy wirtualne połączenie typu punkt-punkt w celu tunelowania niezaszyfrowanego ruchu między routerami Cisco dla różnych protokołów?
+OSPF
+IKE
+IPsec
+GRE

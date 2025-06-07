@@ -1,0 +1,8 @@
+X100100
+Jakie dwa ACE mogą być użyte do odmowy ruchu IP z jednego hosta źródłowego 10.1.1.1 do sieci 192.168.0.0/16? (Wybierz dwie odpowiedzi).
+Access-list 100 deny ip host 10.1.1.1 192.168.0.0 0.0.255.255
+Access-list 100 deny ip 192.168.0.0 0.0.255.255 host 10.1.1.1
+Access-list 100 deny ip 10.1.1.1 255.255.255.255 192.168.0.0 0.0.255.255
+Access-list 100 deny ip 10.1.1.1 0.0.0.0 192.168.0.0 0.0.255.255
+Access-list 100 deny ip 192.168.0.0 0.0.255.255 10.1.1.1 255.255.255.255
+Access-list 100 deny ip 192.168.0.0 0.0.255.255 10.1.1.1 0.0.0.0

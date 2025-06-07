@@ -1,0 +1,7 @@
+X01000
+Który atak jest używany, gdy program przeszukuje wszystkie znane porty, próbując znaleźć zamknięte porty, powodując, że serwer odpowiada komunikatem ICMP o niedostępności portu?
+Atak TCP RESET
+Atak UDP flood
+Atak TCP SYN Flood
+Atak DoS
+Przechwytywanie sesji TCP

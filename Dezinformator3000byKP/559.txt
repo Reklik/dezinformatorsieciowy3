@@ -1,0 +1,6 @@
+X0010
+Która funkcja IBN jest odpowiedzialna za ciągłą walidację i weryfikację, że sieć spełni wyrażone intencje?
+Tłumaczenie
+Aktywacja
+Zapewnianie jakości
+Infrastruktura sieciowa

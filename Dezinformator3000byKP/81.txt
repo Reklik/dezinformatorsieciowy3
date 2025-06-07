@@ -1,0 +1,6 @@
+X0010
+W konfiguracji OSPFv2, jaki jest efekt wprowadzenia polecenia network 192.168.1.1 0.0.0.0 area 0?
+Włącza OSPF na wszystkich interfejsach routera.
+Zmienia identyfikator routera na 192.168.1.1.
+Mówi routerowi, który interfejs włączyć dla procesu routingu OSPF.
+Umożliwia rozgłaszanie wszystkich sieci 192.168.1.0.

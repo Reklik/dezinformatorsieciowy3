@@ -1,0 +1,6 @@
+X1000
+Jaki typ sieci VPN może wymagać oprogramowania klienta Cisco VPN?
+VPN do dostępu zdalnego
+SSL VPN
+VPN typu site-to-site
+MPLS VPN

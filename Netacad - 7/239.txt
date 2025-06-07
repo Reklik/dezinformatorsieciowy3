@@ -1,0 +1,6 @@
+X0101
+Które dwa stwierdzenia o warstwie OSI 1 sieci WAN są prawdziwe? (Wybierz dwie odpowiedzi).
+Opisuje, w jaki sposób dane zostaną enkapsulowane w ramce.
+Opisuje elementy elektryczne, mechaniczne i operacyjne niezbędne do przesyłania bitów.
+Zawiera protokoły, takie jak PPP, HDLC i Ethernet.
+Zawiera protokoły takie jak SDH, SONET i DWDM.

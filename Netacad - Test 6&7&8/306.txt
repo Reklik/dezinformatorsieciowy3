@@ -1,0 +1,7 @@
+X01001
+Które dwie technologie są sklasyfikowane jako prywatne infrastruktury WAN? (Wybierz dwie odpowiedzi).
+technologia kablowa
+MetroEthernet
+DSL
+VPN
+Frame Relay

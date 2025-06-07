@@ -1,0 +1,6 @@
+X1000
+Jak nazywa się gwarancja, że wiadomość nie została sfałszowana i rzeczywiście pochodzi od nadawcy, za którego się podaje?
+uwierzytelnienie źródła
+łagodzenie
+exploit
+niewyparcie się danych (data non-repudiation)

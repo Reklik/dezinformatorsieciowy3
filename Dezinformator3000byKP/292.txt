@@ -1,0 +1,6 @@
+X1000
+Jaki algorytm jest używany w celu zapewnienia integralności danych wiadomości poprzez zastosowanie obliczonej wartości skrótu?
+HMAC
+DH
+RSA
+AES

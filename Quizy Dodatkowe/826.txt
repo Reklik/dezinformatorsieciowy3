@@ -1,0 +1,6 @@
+X1000
+Która cecha projektu sieci ograniczy rozmiar domeny awarii w sieci korporacyjnej?
+zastosowanie bloku przełączników (ang. switch block) w budynku
+zakup sprzętu korporacyjnego przeznaczonego do obsługi dużych wolumenów danych
+użycie architektury zapadniętego szkieletu
+instalacja nadmiarowych źródeł zasilania

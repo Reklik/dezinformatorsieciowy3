@@ -1,0 +1,6 @@
+X0100
+Który typ pakietu OSPFv2 zawiera skróconą listę LSDB routera wysyłającego i jest używany przez routery odbierające do porównywania z lokalnym LSDB?
+aktualizacje stanu łącza
+opis bazy danych
+żądanie stanu łącza
+potwierdzenie stanu łącza

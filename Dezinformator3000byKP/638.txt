@@ -1,0 +1,7 @@
+X10010
+Jakie dwa filtry pakietów może zastosować administrator sieci w rozszerzonej liście ACL dla IPv4? (Wybierz dwie.)
+docelowy numer portu UDP
+typ komputera
+docelowy adres MAC
+typ komunikatu ICMP
+adres hello TCP źródła

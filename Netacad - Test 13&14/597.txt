@@ -1,0 +1,6 @@
+X0100
+Czym jest funkcja klucza zawartego w większości interfejsów API RESTful?
+Jest używany w szyfrowaniu wiadomości przez żądanie API.
+Jest używany do uwierzytelniania źródła żądania.
+Jest to obiekt najwyższego poziomu zapytania API.
+Reprezentuje główne komponenty zapytania w żądaniu API.

@@ -1,0 +1,8 @@
+X100000
+Którą strukturalną metodę rozwiązywania problemów należy zastosować, gdy podejrzewa się problem z okablowaniem?
+Oddolna metoda rozwiązywania problemów
+Metoda rozwiązywania problemów z porównaniem
+Metoda rozwiązywania problemów typu „dziel i rządź”
+Metoda rozwiązywania problemu bazująca na doświadczonym zgadywaniu
+Metoda rozwiązywania problemów według ścieżki
+Odgórna metoda rozwiązywania problemów

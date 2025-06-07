@@ -1,0 +1,7 @@
+X01101
+Jakie są trzy ważne cechy, które należy wziąć pod uwagę przy wdrożeniu w dobrze zaprojektowanej, skalowalnej sieci? (Wybierz trzy odpowiedzi).
+Statyczne trasy
+Łącza nadmiarowe
+Wiele łączy
+Warstwa dostępu z tylko urządzeniami przewodowymi
+Rozszerzalny, modułowy sprzęt

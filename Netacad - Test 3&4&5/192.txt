@@ -1,0 +1,6 @@
+X0001
+Jaki efekt dałoby polecenie Router1(config-ext-nacl)# permit tcp 172.16.4.0 0.0.0.255 any eq www po zaimplementowaniu dla ruchu przychodzącego na interfejsie f0/0?
+Cały ruch z 172.16.4.0/24 jest dozwolony do dowolnego miejsca i dowolnego portu.
+Polecenie jest odrzucone przez router, ponieważ jest niekompletne.
+Cały ruch TCP jest dozwolony, a każdy inny ruch jest odrzucony.
+Ruch pochodzący z 172.16.4.0/24 jest dozwolony do wszystkich miejsc docelowych na porcie TCP 80.

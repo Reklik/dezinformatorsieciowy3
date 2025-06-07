@@ -1,0 +1,6 @@
+X0100
+Który krok w procesie routingu opartego na stanie łącza opisuje sytuację, w której router wysyła pakiety Hello na wszystkie interfejsy z włączonym OSPF?
+wybór routera wyznaczonego
+nawiązywanie sąsiedztwa
+wstrzykiwanie trasy domyślnej
+wymiana reklam stanu łącza (LSA)

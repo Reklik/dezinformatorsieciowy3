@@ -1,0 +1,6 @@
+X0100
+Co jest cechą sieci WAN?
+WAN jest zwykle własnością przedsiębiorstwa, które chce połączyć swoje sieci LAN.
+Dostawcy usług WAN obejmują operatorów telefonicznych lub satelitarnych.
+WLAN zawsze używają kabli fizycznych do podłączania sieci LAN.
+Sieć WAN działa w zakresie geograficznym sieci LAN.

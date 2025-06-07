@@ -1,0 +1,7 @@
+X00100
+Odwołując się do schematu: pracownicy w sieci 192.168.11.0/24 pracują z informacjami o wysokim poziomie poufności i nie mają mieć dostępu poza swoją sieć. Jaki typ i umiejscowienie listy ACL będzie najlepszy w tej sytuacji?
+standardowa ACL przychodząca na liniach vty routera R1
+rozszerzona ACL przychodząca na interfejsie G0/0 routera R1
+standardowa ACL przychodząca na interfejsie G0/1 routera R1
+rozszerzona ACL przychodząca na interfejsie S0/0/1 routera R3
+[img]669.png[/img]

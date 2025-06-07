@@ -1,0 +1,7 @@
+X00010
+Odwołując się do schematu: wielu pracowników marnuje czas pracy, uzyskując dostęp do mediów społecznościowych na swoich komputerach służbowych. Firma chce zablokować ten dostęp. Jaki typ i umiejscowienie listy ACL będzie najlepszy w tej sytuacji?
+rozszerzona ACL wychodząca na interfejsie WAN R2 w kierunku Internetu
+standardowa ACL wychodząca na interfejsie WAN R2 w kierunku Internetu
+standardowa ACL wychodząca na interfejsie S0/0/0 routera R2
+rozszerzone ACL przychodzące na interfejsach G0/0 i G0/1 routera R1
+[img]656.png[/img]

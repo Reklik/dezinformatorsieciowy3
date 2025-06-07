@@ -1,0 +1,6 @@
+X0010
+W którym ataku TCP jest cyberprzestępca próbuje przytłoczyć docelowego hosta z półotwartymi połączeniami TCP?
+atak resetowania
+atak skanowania portu
+atak zalewania SYN
+atak przechwytywania sesji

@@ -1,0 +1,7 @@
+X00010
+Administrator sieci konfiguruje router za pomocą sekwencji poleceń: Jaki jest efekt tej sekwencji poleceń?
+Przy następnym uruchomieniu router załaduje obraz IOS z pamięci ROM.
+Router będzie szukał i ładował poprawny obraz IOS w kolejności: flash, TFTP, ROM.
+Router skopiuje obraz IOS z serwera TFTP i następnie zrestartuje system.
+Router załaduje IOS z serwera TFTP. Jeśli ładowanie się nie powiedzie, załaduje obraz IOS z ROM.
+[img]727.png[/img]

@@ -1,0 +1,6 @@
+X0010
+Jaki typ ACL zapewnia większą elastyczność i kontrolę nad dostępem do sieci?
+nazwana standardowa
+elastyczna
+rozszerzona
+numerowana standardowa

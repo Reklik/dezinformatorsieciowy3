@@ -1,0 +1,6 @@
+X0001
+Technik ma za zadanie zabezpieczyć router za pomocą list ACL. Kiedy użyje opcji lub polecenia host?
+aby dodać wpis tekstowy do celów dokumentacyjnych
+aby wygenerować i wysłać komunikat informacyjny, gdy wpis ACE zostanie dopasowany
+aby zidentyfikować dowolny adres IP
+aby zidentyfikować jeden konkretny adres IP

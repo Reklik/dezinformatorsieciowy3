@@ -1,0 +1,6 @@
+X0010
+Jakie jest zastosowanie identyfikatora routera w routingu OSPF?
+Identyfikator routera wskazuje wartość priorytetu routera.
+Identyfikator routera identyfikuje obszar OSPF.
+Identyfikator routera może być używany do rozstrzygnięcia w procesie wyborczym.
+Identyfikator routera wskazuje najwyższy adres IPv4 wszystkich routerów uczestniczących w routingu OSPF.

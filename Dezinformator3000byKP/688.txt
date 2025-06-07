@@ -1,0 +1,6 @@
+X0100
+W jakiej sytuacji przedsiębiorstwo zdecydowałoby się wdrożyć firmową sieć WAN?
+gdy przedsiębiorstwo postanowi zabezpieczyć swoją sieć LAN
+gdy pracownicy zostaną rozproszeni po wielu oddziałach
+gdy liczba pracowników przekroczy pojemność sieci LAN
+gdy sieć będzie obejmować wiele budynków

@@ -1,0 +1,7 @@
+X01001
+Firma autobusowa działająca na terenie kilku miast, chce zaoferować stałą łączność z Internetem dla użytkowników podróżujących w autobusach. Które dwa rodzaje infrastruktury WAN spełniają te wymagania? (Wybierz dwie odpowiedzi).
+Prywatna infrastruktura WAN
+Publiczna infrastruktura WAN
+Sieć dedykowana
+Sieć z komutacją łączy
+Komórkowa

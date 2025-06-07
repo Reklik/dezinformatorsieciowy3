@@ -1,0 +1,7 @@
+X10000
+Przyjrzyj się ilustracji. Jaki jest koszt połączenia OSPF z routerem A, LAN 172.16.1.0/24 z B?
+65
+782
+128
+74
+[img]72.png[/img]

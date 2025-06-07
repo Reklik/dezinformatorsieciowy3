@@ -1,0 +1,6 @@
+X0001
+Który model chmury świadczy usługi dla konkretnej organizacji lub podmiotu?
+chmura publiczna
+chmura społecznościowa
+chmura hybrydowa
+chmura prywatna

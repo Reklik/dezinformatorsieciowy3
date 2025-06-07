@@ -1,0 +1,7 @@
+X00010
+Przyjrzyj się ilustracji. Administrator sieci skonfigurował timery OSPF do wartości pokazanych na ilustracji. Jaki jest wynik tych ręcznie konfigurowanych timerów?
+R1 automatycznie dostosowuje własne timery do zegarów R2.
+Interwał hello na R2 wygasa co dziesięć sekund.
+Utworzyło się przyleganie sąsiadów.
+Licznik czasu R1 dead wygasa między pakietami hello z R2.
+[img]55.png[/img]

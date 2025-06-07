@@ -1,0 +1,6 @@
+X0010
+Który z poniższych warunków jest wymagany w VPN typu site-to-site?
+Wymaga, aby hosty używały oprogramowania VPN klienta do enkapsulacji ruchu.
+Wymaga umieszczenia serwera VPN na brzegu sieci firmowej.
+Wymaga bramy VPN na każdym końcu tunelu do szyfrowania i deszyfrowania ruchu.
+Wymaga architektury klient/serwer.

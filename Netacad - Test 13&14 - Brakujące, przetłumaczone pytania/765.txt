@@ -1,0 +1,6 @@
+X0001
+Które stwierdzenie opisuje VPN?
+VPN używa logicznych połączeń do tworzenia sieci publicznych przez Internet.
+VPN używa oprogramowania open source do wirtualizacji tunelu przez Internet.
+VPN używa dedykowanych połączeń fizycznych do przesyłania danych między zdalnymi użytkownikami.
+VPN używa połączeń wirtualnych do tworzenia sieci prywatnej przez sieć publiczną.

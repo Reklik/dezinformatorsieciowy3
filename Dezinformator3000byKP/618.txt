@@ -1,0 +1,3 @@
+X1
+To pytanie wielokrotnego wyboru, gdzie wybierane są wyrazu zapisane wielkimi literami z listy - zapamiętaj.
+DUAL to algorytm używany przez EIGRP. W wieloobszarowym OSPF, OSPF jest implementowany przy użyciu wielu obszarów, a wszystkie z nich muszą być połączone z obszarem szkieletowym.

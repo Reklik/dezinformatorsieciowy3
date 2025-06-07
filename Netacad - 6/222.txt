@@ -1,0 +1,7 @@
+X01100
+Jakie dwa zadania należy wykonać podczas konfigurowania statycznego NAT? (Wybierz dwie odpowiedzi).
+Skonfiguruj pulę NAT.
+Utwórz mapowanie między wewnętrznymi i zewnętrznymi adresami lokalnymi.
+Zidentyfikuj uczestniczące interfejsy jako interfejsy wewnętrzne lub zewnętrzne.
+Zdefiniuj wewnętrzny adres globalny na serwerze
+Zdefiniuj zewnętrzny adres globalny.

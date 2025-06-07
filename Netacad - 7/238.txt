@@ -1,0 +1,4 @@
+X10
+Który typ połączenia WAN zapewnia nadmiarowość?
+Połączenie WAN z dwoma operatorami
+Połączenie WAN z pojedynczym operatorem

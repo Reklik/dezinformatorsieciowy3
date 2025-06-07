@@ -1,0 +1,7 @@
+X00001
+Która metoda szyfrowania szyfruje tekst jawny jeden bajt lub jeden bit na raz. Przykłady obejmują RC4 i A5?
+Rivest Cipher
+Szyfr blokowy
+Data Encryption Standard
+Software Encryption algorithm
+Szyfr strumieniowy

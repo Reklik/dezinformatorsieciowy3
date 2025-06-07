@@ -1,0 +1,6 @@
+X0100
+Który algorytm kolejkowania ma tylko jedną kolejkę i traktuje wszystkie pakiety jednakowo?
+CBWFQ
+FIFO
+WFQ
+LLQ

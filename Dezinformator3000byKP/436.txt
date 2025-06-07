@@ -1,0 +1,7 @@
+X10000
+Komunikaty dziennika Cisco IOS dzielą się na jeden z ośmiu poziomów. Który poziom rejestrowania syslog jest używany do rejestrowania najwyższego poziomu istotności?
+0
+1
+4
+6
+7

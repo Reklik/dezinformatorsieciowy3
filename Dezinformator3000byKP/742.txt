@@ -1,0 +1,6 @@
+X0010
+Administrator sieci chce upewnić się, że podczas uruchamiania urządzenie zignoruje plik konfiguracyjny startup-config i ominie wymagane hasła. Jakiego polecenia powinien użyć na routerze Cisco?
+copy usbflash0:/R1-Config
+copy running-config tftp
+confreg 0x2142
+config-register 0x2102

@@ -1,0 +1,5 @@
+X100
+Jaki typ ruchu wymaga wyższego priorytetu, jeśli jest interaktywny?
+dane
+głos
+wideo

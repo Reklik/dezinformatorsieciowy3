@@ -1,0 +1,6 @@
+X1000
+Jaki jest najszybszy sposób usunięcia pojedynczego wpisu ACE z nazwanej listy ACL?
+Użyć słowa kluczowego no oraz numeru sekwencyjnego wpisu ACE, który ma zostać usunięty.
+Skopiować listę ACL do edytora tekstu, usunąć wpis ACE, a następnie skopiować ją z powrotem do routera.
+Utworzyć nową listę ACL z innym numerem i przypisać ją do interfejsu routera.
+Użyć polecenia no access-list, aby usunąć całą listę ACL, a następnie odtworzyć ją bez tego wpisu.

@@ -1,0 +1,6 @@
+X0100
+Jaką możliwość rozwiązywania problemów z siecią zapewnia analizator okablowania?
+Wykrywanie konfiguracji sieci VLAN i przeglądanie szczegółów interfejsu przełącznika
+Testowanie i certyfikacja kabli miedzianych i światłowodowych
+Pomiary wartości elektrycznych napięcia, prądu i rezystancji
+Generowanie raportów o ruchu, który pochłania krytyczne zasoby sieciowe

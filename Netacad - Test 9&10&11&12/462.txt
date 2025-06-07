@@ -1,0 +1,6 @@
+X0010
+Jaka jest definicja dwuwarstwowego projektowania sieci LAN?
+warstwy dostępowa i dystrybucyjna są scalone do jednej warstwy a warstwa szkieletowa stanowi oddzielną warstwę
+warstwy dostępowa, dystrybucyjna i szkieletowa są scalone do jednej z wydzieleniem warstwy szkieletowej
+warstwy dystrybucyjna i szkieletowa są scalone do jednej warstwy a warstwa dostępowa stanowi oddzielną warstwę
+warstwy dostępowa i szkieletowa są scalone do jednej warstwy a warstwa dystrybucyjna stanowi oddzielną warstwę

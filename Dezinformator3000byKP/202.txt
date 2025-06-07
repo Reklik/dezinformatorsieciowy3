@@ -1,0 +1,6 @@
+X0010
+Która z części listy dostępu ACL, pozwoli użytkownikom z sieci 192.168.10.0/24 na dostęp do serwera WWW z adresem 172.17.80.1, ale bez możliwości korzystania z protokołu Telnet?
+access-list 103 permit 192.168.10.0 0.0.0.255 host 172.17.80.1 access-list 103 deny tcp 192.168.10.0 0.0.0.255 any eq telnet
+​​access-list 103 deny tcp host 192.168.10.0 any eq 23 access-list 103 permit tcp host 192.168.10.1 eq 80
+access-list 103 permit tcp 192.168.10.0 0.0.0.255 host 172.17.80.1 eq 80 access-list 103 deny tcp ​192.168.10.0 0.0.0.255 any eq 23
+access-list 103 permit tcp 192.168.10.0 0.0.0.255 any eq 80 access-list 103 deny tcp 192.168.10.0 0.0.0.255 any eq 23

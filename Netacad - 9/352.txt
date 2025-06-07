@@ -1,0 +1,5 @@
+X001
+Które zachowuje nadmiar pakietów w kolejce, a następnie planuje nadmiar dla późniejszej transmisji w przyrostach czasu?
+WRED
+Polityka ruchu
+Kształtowanie ruchu

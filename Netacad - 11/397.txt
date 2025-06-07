@@ -1,0 +1,6 @@
+X0100
+Jest to termin używany do opisania przełączników, które mogą być połączone i zarządzane jako jeden większy pojedynczy przełącznik.
+Modułowe
+Piętrowe (stackable)
+Zarządzane w chmurze
+Wielowarstwowe

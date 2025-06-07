@@ -1,0 +1,7 @@
+X10110
+Które trzy zalecenia mogą być zawarte w strategii projektowania sieci, która koncentruje się na skalowalności? (Wybierz trzy odpowiedzi).
+Zaprojektuj hierarchiczną sieć.
+Użyj urządzeń warstwy 2 do filtrowania i zmniejszania ruchu sieciowego w rdzeniu.
+Wybierz routery lub przełączniki wielowarstwowe, aby ograniczyć rozgłaszanie i odfiltrować inny niepożądany ruch z sieci.
+Korzystaj z rozszerzalnego, modułowego sprzętu lub urządzeń w klastrze, które można łatwo zaktualizować w celu zwiększenia możliwości.
+Połącz warstwę dostępu i dystrybucji, aby ułatwić dostęp i ograniczyć rozmiar domeny awarii.

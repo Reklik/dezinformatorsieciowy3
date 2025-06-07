@@ -1,0 +1,7 @@
+X01000
+Jaki algorytm jest używany z IPsec w celu zapewnienia poufności danych?
+MD5
+AES
+SHA
+Diffie-Hellman
+RSA

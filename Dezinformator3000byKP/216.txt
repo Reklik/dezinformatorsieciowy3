@@ -1,0 +1,4 @@
+X10
+Prawda czy fałsz? Efektem ubocznym NAT jest ukrycie wewnętrznego lokalnego adresu IP hosta dla sieci zewnętrznej.
+Prawda
+Fałsz

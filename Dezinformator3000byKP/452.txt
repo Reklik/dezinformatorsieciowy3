@@ -1,0 +1,6 @@
+X0001
+Po którym etapie procesu rozwiązywania problemów, mogą zostać zastosowane metody warstwowe diagnostyki?
+Dokumentacji objawów
+Określaniu własności
+Zawężeniu zakresu poszukiwań/badań
+Zebraniu symptomów z podejrzanych urządzeń

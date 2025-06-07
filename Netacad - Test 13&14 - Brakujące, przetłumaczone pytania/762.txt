@@ -1,0 +1,6 @@
+X1000
+Który protokół jest atakowany, gdy cyberprzestępca podaje nieprawidłową bramę w celu przeprowadzenia ataku typu man-in-the-middle?
+DHCP
+ICMP
+DNS
+HTTP lub HTTPS

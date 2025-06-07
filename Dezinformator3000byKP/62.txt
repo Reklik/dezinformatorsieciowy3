@@ -1,0 +1,7 @@
+X01000
+Przyjrzyj się ilustracji. Które polecenie wydał administrator, że otrzymał takie dane wyjściowe?
+R1# show ip ospf neighbor
+R1# show ip ospf interface serial0/0/1
+R1# show ip route ospf
+R1# show ip ospf
+[img]62.png[/img]

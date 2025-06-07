@@ -1,0 +1,7 @@
+X00100
+Jakie złośliwe oprogramowanie jest wykorzystywane do zbierania informacji o użytkowniku, a następnie, bez zgody użytkownika, przesyła je innemu podmiotowi?
+Adware
+Rootkit
+Spyware
+Wirus
+Ransomware

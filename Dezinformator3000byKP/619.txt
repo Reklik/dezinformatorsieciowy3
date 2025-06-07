@@ -1,0 +1,8 @@
+X010101
+Które trzy stany OSPF są zaangażowane, gdy dwa routery nawiązują sąsiedztwo? (Wybierz trzy.)
+Exchange
+Init
+ExStart
+Two-way
+Loading
+Down

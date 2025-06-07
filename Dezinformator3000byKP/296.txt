@@ -1,0 +1,7 @@
+X00100
+Spójrz na zamieszczony rysunek. Co należy wykonać aby w pełni skonfigurować statyczny NAT na R1?
+Na R1 należy wykonać polecenie ip nat inside source static 209.165.200.200 192.168.11.11.
+Interfejs Fa0/0 powinien zostać skonfigurowany przy użyciu polecenia: no ip nat inside.
+Interfejs S0/0/0 powinien zostać skonfigurowany następującym poleceniem ip nat outside.
+Na R1 należy wykonać polecenie ip nat inside source static 209.165.200.1 192.168.11.11.
+[img]296.png[/img]

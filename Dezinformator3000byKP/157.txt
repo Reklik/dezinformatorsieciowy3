@@ -1,0 +1,7 @@
+X00101
+Które z dwóch, podanych poniżej, kryterium musi zaistnieć aby router odrzucił pakiet ? (Wybierz dwie odpowiedzi).
+Brak listy ACL w kierunku wejściowym (inbound) na interfejsie, gdzie dane pakiety zostają odebrane przez router.
+Lista ACL odnosząca się do danego pakietu, nie zawiera ani jednego wpisu blokującego (deny).
+Adres źródłowy pakietu, nie pasuje do żadnego wpisu, oznaczonego jako dozwolony, w standardowej liście wejściowej ACL.
+Brak listy ACL w kierunku wyjściowym (outband) na interfejsie, gdzie dany pakiet zostaje wysłany z routera.
+Nie istnieje pozycja tablicy routingu dla miejsca docelowego pakietu, ale pakiet pasuje do dozwolonego adresu na wychodzącej liście ACL.

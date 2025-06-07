@@ -1,0 +1,7 @@
+X00010
+Jaka jest najwyższa warstwa OSI, którą należy wziąć pod uwagę podczas rozwiązywania problemów z routerami i przełącznikami warstwy 3?
+Warstwa 1
+Warstwa 2
+Warstwa 3
+Warstwa 4
+Warstwa 7

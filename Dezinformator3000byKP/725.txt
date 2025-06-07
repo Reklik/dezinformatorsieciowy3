@@ -1,0 +1,7 @@
+X00011
+Jakie są dwie cechy modelu QoS typu best-effort? (Wybierz dwie)
+Pozwala hostom końcowym sygnalizować swoje potrzeby QoS do sieci.
+Używa podejścia połączeniowego (connection-oriented) z QoS.
+Zapewnia preferencyjne traktowanie pakietów głosowych.
+Nie zapewnia gwarancji dostarczenia pakietów.
+Traktuje wszystkie pakiety sieciowe w ten sam sposób.

@@ -1,0 +1,6 @@
+X1000
+W jakim rodzaju ataku cyberprzestępca próbuje uniemożliwić uprawnionym użytkownikom dostęp do usług sieciowych?
+DoS
+MITM
+przechwytywanie sesji
+fałszowanie adresów

@@ -1,0 +1,6 @@
+X0010
+Jaki jest domyślny koszt OSPF dla dowolnego łącza o przepustowości 100 Mb/s lub większej?
+100000000
+10000
+1
+100

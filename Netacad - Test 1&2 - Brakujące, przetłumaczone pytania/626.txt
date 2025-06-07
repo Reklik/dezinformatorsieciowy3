@@ -1,0 +1,6 @@
+X0010
+Który krok w procesie routingu opartego na stanie łącza opisuje sytuację, w której router rozsyła informacje o stanie łącza i koszcie dla każdego bezpośrednio podłączonego łącza?
+budowanie tabeli topologii
+wybór identyfikatora routera
+wymiana reklam stanu łącza (LSA)
+wstrzykiwanie trasy domyślnej

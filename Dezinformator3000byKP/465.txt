@@ -1,0 +1,6 @@
+X0001
+Na routerze wydano polecenie ntp server 10.1.1.1. Jaki ma ono skutek?
+identyfikuje serwer, na którym przechowywane są konfiguracje zapasowe
+zapewnia, że wszystkie rejestrowane informacje będą miały znacznik czasowy skojarzony z nim
+określa serwer, do którego mają być wysyłane pliki dziennika systemowego
+synchronizuje zegar systemowy ze źródłem czasu pod adresem IP 10.1.1.1

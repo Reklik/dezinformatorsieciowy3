@@ -1,0 +1,6 @@
+X0010
+Jaki rodzaj sieci VPN korzysta z infrastruktury klucza publicznego i certyfikatów cyfrowych?
+Interfejs wirtualnego tunelu IPsec
+Dynamiczne wielopunktowe sieci VPN
+SSL VPN
+GRE przez IPsec

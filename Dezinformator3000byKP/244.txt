@@ -1,0 +1,6 @@
+X1100
+Które dwie opcje łączności WAN to technologie przełączania pakietów? (Wybierz dwie odpowiedzi).
+Ethernet WAN
+Frame Relay
+ISDN
+PSTN

@@ -1,0 +1,7 @@
+X00101
+Jakie są dwa powody, dla których organizacja może korzystać z chmury obliczeniowej? (Wybierz dwie odpowiedzi).
+Zwiększa wykorzystanie zasobów technologicznych w korporacji
+Skraca czas potrzebny na konserwację
+Umożliwia globalny dostęp do danych korporacyjnych
+Umożliwia łączność między różnymi sieciami
+Zapewnia moc i fizyczne instalacje zdolne sprostać podwyższonym wymaganiom

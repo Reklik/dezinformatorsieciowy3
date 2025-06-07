@@ -1,0 +1,6 @@
+X0001
+Które z narzędzi może być użyte do określenie odległości, na której występuje przerwa w okablowaniu ?
+Multimetr cyfrowy
+Analizator sieciowy
+Moduł analizowania sieci
+Tester okablowania

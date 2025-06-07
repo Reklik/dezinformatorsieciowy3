@@ -1,0 +1,7 @@
+X01000
+Odwołując się do schematu: administrator sieci ma adres IP 192.168.11.10 i potrzebuje dostępu do zarządzania routerem R1. Jaki typ ACL i jej umiejscowienie będzie najlepsze w tej sytuacji?
+extended ACL outbound na interfejsie WAN R2 w kierunku internetu
+standard ACL inbound na liniach vty routera R1
+rozszerzone ACL inbound na interfejsach G0/0 i G0/1 routera R1
+extended ACL outbound na interfejsie S0/0/1 routera R2
+[img]645.png[/img]

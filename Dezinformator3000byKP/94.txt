@@ -1,0 +1,5 @@
+X100
+Jaki typ hakera jest opisany w scenariuszu: Podczas moich poszukiwań exploitów bezpieczeństwa natknąłem się na podatność sieci firmowej, do której mam dostęp.
+Haker w białym kapeluszu
+Haker w szarym kapeluszu
+Haker w czarnym kapeluszu

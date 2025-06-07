@@ -1,0 +1,6 @@
+X0100
+Jaka jest najlepsza definicja złośliwego oprogramowania typu koń trojański (Trojan horse)?
+Jest to złośliwe oprogramowanie, które można rozprowadzać tylko przez Internet.
+Wygląda jak przydatne oprogramowanie, ale ukrywa złośliwy kod.
+To oprogramowanie, które powoduje irytujące, ale nie groźne problemy z komputerem.
+To najłatwiej wykrywalna forma złośliwego oprogramowania.

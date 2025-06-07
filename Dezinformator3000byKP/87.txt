@@ -1,0 +1,6 @@
+X1000
+Który termin bezpieczeństwa jest używany do opisania mechanizmu, który wykorzystuje podatność?
+Exploit
+Zagrożenie
+Ryzyko
+Ograniczanie

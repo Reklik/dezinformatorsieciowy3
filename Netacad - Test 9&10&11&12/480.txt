@@ -1,0 +1,8 @@
+X100101
+Jakie trzy warstwy zaliczamy do hierarchicznego modelu przełączania? (Wybierz trzy.)
+szkieletu
+dostępu do sieci
+łącza danych
+dystrybucji
+przedsiębiorstwa
+dostępowa

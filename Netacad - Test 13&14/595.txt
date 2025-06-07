@@ -1,0 +1,7 @@
+X00101
+Które dwa narzędzia do zarządzania konfiguracją są opracowywane przy użyciu Ruby? (Wybierz dwie odpowiedzi).
+RESTCONF
+SaltStack
+Puppet
+Ansible
+Chef

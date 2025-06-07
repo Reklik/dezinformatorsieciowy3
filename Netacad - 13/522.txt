@@ -1,0 +1,6 @@
+X0001
+Która usługa przetwarzania w chmurze byłaby najlepsza dla nowej organizacji, której nie stać na fizyczne serwery i sprzęt sieciowy i która musi kupować usługi sieciowe na żądanie?
+PaaS
+SaaS
+ITaaS
+IaaS

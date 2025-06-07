@@ -1,0 +1,5 @@
+X100
+Co dodaje wartość do nagłówka pakietu?
+Znakowanie
+Klasyfikacja
+802.1Q

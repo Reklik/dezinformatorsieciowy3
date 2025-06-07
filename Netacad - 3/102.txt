@@ -1,0 +1,7 @@
+X00010
+Który rodzaj złośliwego oprogramowania nie jest samoreplikującym się typem złośliwego oprogramowania? Często zawiera złośliwy kod, który ma wyglądać jak coś innego, na przykład legalna aplikacja lub plik. Atakuje urządzenie od wewnątrz.
+Adware
+Rootkit
+Spyware
+Koń trojański
+Robak

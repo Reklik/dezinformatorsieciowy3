@@ -1,0 +1,4 @@
+X10
+Jaki typ adresu reprezentuje 128.107.240.239?
+Public
+Private

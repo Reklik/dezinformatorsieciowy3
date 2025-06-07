@@ -1,0 +1,6 @@
+X0010
+Które stwierdzenie opisuje fizyczną topologię sieci LAN?
+Przedstawia schemat adresowania, który jest zastosowany w sieci LAN.
+Opisuje, czy sieć LAN jest siecią rozgłoszeniową, czy z przekazywaniem tokenu.
+Definiuje jak hosty i urządzenia sieciowe są podłączone do sieci LAN.
+Pokazuje, w jakiej kolejności hosty uzyskują dostęp do sieci.

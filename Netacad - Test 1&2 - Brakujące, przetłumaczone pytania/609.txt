@@ -1,0 +1,8 @@
+X101010
+Które trzy stwierdzenia opisują cechy tabeli topologii OSPF? (Wybierz trzy.)
+Jest to baza danych stanu łącza, która reprezentuje topologię sieci.
+Jej zawartość jest wynikiem działania algorytmu SPF.
+Po zbieżności wszystkie routery w obszarze mają identyczne tabele topologii.
+Tabela topologii zawiera trasy zapasowe (feasible successors).
+Tabelę można wyświetlić za pomocą polecenia show ip ospf database.
+Po zbieżności tabela zawiera tylko trasy o najniższym koszcie dla wszystkich znanych sieci.

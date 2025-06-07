@@ -1,0 +1,6 @@
+X0001
+Którą komendę należy użyć do sprawdzenia, czy OSPF jest uruchomiony oraz do wyświetlenia listy sieci rozgłaszanych przez sieć?
+show ip interface brief
+show ip route ospf
+show ip ospf interface
+show ip protocols

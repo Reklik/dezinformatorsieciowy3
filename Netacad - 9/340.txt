@@ -1,0 +1,6 @@
+X0100
+Który algorytm kolejkowania klasyfikuje ruch do różnych przepływów na podstawie adresowania nagłówka pakietów?
+FIFO
+WFQ
+CBWFQ
+LLQ

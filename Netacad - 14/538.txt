@@ -1,0 +1,4 @@
+X01
+Otwierasz drzwi samochodu za pomocą pilota zdalnego sterowania.
+Automatyzacja
+Brak automatyzacji

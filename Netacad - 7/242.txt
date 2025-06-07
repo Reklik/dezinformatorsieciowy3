@@ -1,0 +1,6 @@
+X0001
+Która metoda komunikacji jest stosowana we wszystkich połączeniach WAN?
+Komutacja łączy
+Przełączanie pakietów
+Równoległa
+Szeregowa

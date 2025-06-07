@@ -1,0 +1,7 @@
+X10100
+Jakie są dwa podstawowe typy tuneli dynamicznych wielopunktowych VPN? (Wybierz dwie odpowiedzi).
+Spoke-to-spoke
+Site-to-site (lokacja-lokacja)
+Hub-to-spoke
+Client-to-site (klient-lokacja)
+Serwer do klienta (server-to-client)

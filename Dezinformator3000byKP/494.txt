@@ -1,0 +1,5 @@
+X001
+Która usługa w chmurze zapewnia menedżerom IT dostęp do sprzętu sieciowego, usług wirtualizowanych i wspierającej infrastruktury sieciowej?
+SaaS
+PaaS
+IaaS

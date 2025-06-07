@@ -1,0 +1,7 @@
+X00100
+Przyjrzyj się ilustracji. Nazwana lista ACL „Menagers” już istnieje na routerze. Co się stanie, gdy administrator sieci wyda polecenia pokazane w przykładzie?
+Administrator sieci otrzymuje błąd informujący, że ACL już istnieje.
+Polecenia są dodawane na początku istniejącej listy ACL o nazwie Managers.
+Polecenia są dodawane na końcu istniejącej listy ACL o nazwie Managers.
+Polecenia zastępują istniejącą listę ACL o nazwie Managers.
+[img]199.png[/img]

@@ -1,0 +1,7 @@
+X11100
+Które z poniższych elementów stanowią część zapytania żądania RESTful? (Wybierz trzy odpowiedzi)
+Klucz
+Format
+Parametry
+Zasoby
+Serwer API

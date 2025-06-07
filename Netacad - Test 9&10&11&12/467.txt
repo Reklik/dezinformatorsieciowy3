@@ -1,0 +1,6 @@
+X0100
+Jaki scenariusz konfiguracji zapewniłby największą ochronę komunikatów SNMP get i set?
+Łańcuchy SNMP community
+SNMPv3 skonfigurowany z poziomem bezpieczeństwa Auth
+SNMPv2 do zarządzania w paśmie z łańcuchami community read-write
+SNMPv1 z zarządzaniem poza pasmem w prywatnej podsieci

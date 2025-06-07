@@ -1,0 +1,7 @@
+X00010
+Przyjrzyj się ilustracji. Z punktu widzenia użytkowników za routerem NAT, jaki typ adresu NAT to 209.165.201.1?
+zewnętrzny lokalny
+wewnętrzny lokalny
+zewnętrzny globalny
+wewnętrzny globalny
+[img]304.png[/img]

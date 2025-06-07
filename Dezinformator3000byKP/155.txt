@@ -1,0 +1,6 @@
+X0100
+Gdzie należy umieścić standardową ACL?
+Lokalizacja standardowej ACL nie jest ważna.
+Standardowe ACL powinny znajdować się jak najbliżej miejsca docelowego.
+Standardowe ACL powinny znajdować się jak najbliżej źródła.
+Standardowe ACL powinny być umieszczone na interfejsach szeregowych.

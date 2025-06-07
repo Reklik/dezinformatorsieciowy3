@@ -1,0 +1,6 @@
+X0001
+Co zdarzy się zaraz po wymianie przez dwa routery OSPF pakietów hello i utworzeniu przyległości?
+Wymienią pakiety DBD, aby rozgłosić swoje parametry, takie jak interwały Hello i Dead.
+Negocjują proces elekcji, jeśli są podłączone do sieci wielodostępowej.
+Żądają więcej informacji o swoich bazach danych.
+Wymieniają skrócone listy swoich baz LSDB.

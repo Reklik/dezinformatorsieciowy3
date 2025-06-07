@@ -1,0 +1,9 @@
+X1100010
+Jakie opcje są dostępne dla funkcji Poufność w ramach IPsec? (Wybierz trzy odpowiedzi).
+3DES
+AES
+AH
+DH24
+PSK
+SEAL
+SHA

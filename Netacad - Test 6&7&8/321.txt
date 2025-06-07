@@ -1,0 +1,7 @@
+X00010
+Które stwierdzenie opisuje ważną cechę VPN typu site-to-site?
+Wymaga użycia klienta VPN na komputerze hosta.
+Idealnie nadaje się do użytku przez pracowników mobilnych.
+Po nawiązaniu połączenia początkowego może dynamicznie zmieniać informacje o połączeniu.
+Musi być ustawiony statycznie.
+Jest on powszechnie realizowany przez dialup i sieci modemów kablowych.

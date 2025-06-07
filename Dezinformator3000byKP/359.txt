@@ -1,0 +1,6 @@
+X0010
+Który model jest jedynym modelem QoS bez mechanizmu klasyfikacji pakietów?
+IntServ
+DiffServ
+Best-effort
+Twarde QoS

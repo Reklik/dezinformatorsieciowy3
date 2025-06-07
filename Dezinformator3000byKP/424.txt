@@ -1,0 +1,4 @@
+X01
+Prawda czy fałsz? Stan odniesienia sieci nigdy się nie kończy i stale gromadzi informacje co roku.
+Prawda
+Fałsz

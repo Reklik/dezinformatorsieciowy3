@@ -1,0 +1,7 @@
+X10010
+Jakie dwa algorytmy skrótu są używane z IPsec AH (Authentication Header) w celu zagwarantowania autentyczności? (Wybierz dwa.)
+SHA
+RSA
+DH
+MD5
+AES

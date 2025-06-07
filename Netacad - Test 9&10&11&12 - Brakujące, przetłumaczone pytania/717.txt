@@ -1,0 +1,7 @@
+X00101
+Administrator chce zastąpić plik konfiguracyjny na routerze Cisco, ładując nowy plik konfiguracyjny z serwera TFTP. Jakie dwie informacje musi znać administrator przed wykonaniem tego zadania? (Wybierz dwie)
+Nazwa pliku konfiguracyjnego aktualnie przechowywanego na routerze
+Wartość rejestru konfiguracyjnego
+Nazwa pliku konfiguracyjnego przechowywanego na serwerze TFTP
+Adres IP routera
+Adres IP serwera TFTP

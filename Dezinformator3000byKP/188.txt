@@ -1,0 +1,8 @@
+X011000
+Przyjrzyj się ilustracji. Które dwie ACL pozwoliłyby tylko dwóm sieciom LAN podłączonym do R1 na dostęp do sieci łączącej się z interfejsem R2 G0/1? (Wybierz dwie odpowiedzi).
+access-list 4 permit 192.168.10.0 0.0.0.255
+access-list 5 permit 192.168.10.0 0.0.0.63 access-list 5 permit 192.168.10.64 0.0.0.63
+access-list 1 permit 192.168.10.0 0.0.0.127
+access-list 2 permit host 192.168.10.9 access-list 2 permit host 192.168.10.69
+access-list 3 permit 192.168.10.128 0.0.0.63
+[img]188.png[/img]

@@ -1,0 +1,6 @@
+X0001
+Które zdanie opisuje API?
+Jest to język programowania do tworzenia aplikacji internetowej.
+Jest to zestaw reguł, które filtrują ruch sieciowy dla aplikacji internetowych.
+Jest to zestaw funkcji i podprogramów do wykorzystania w kompleksowej aplikacji.
+Jest to zestaw funkcji i procedur, które umożliwiają aplikacji klienckiej dostęp do danych aplikacji usługowej.

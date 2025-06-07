@@ -1,0 +1,6 @@
+X1000
+Jakim rodzajem ruchu sieciowego nie można zarządzać za pomocą narzędzi do unikania przeciążeń?
+UDP
+IP
+TCP
+ICMP

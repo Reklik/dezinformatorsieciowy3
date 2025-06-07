@@ -1,0 +1,6 @@
+X0001
+Czym różni się struktura formatu danych YAML od JSON?
+Używa nawiasów i przecinków.
+Wykorzystuje znaczniki końcowe.
+Wykorzystuje hierarchiczne poziomy zagnieżdżania.
+Używa wcięć.

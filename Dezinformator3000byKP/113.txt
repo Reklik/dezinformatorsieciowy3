@@ -1,0 +1,7 @@
+X00001
+Który atak jest używany, gdy podmioty zagrożenia uzyskują dostęp do sieci fizycznej, a następnie używają ataku MITM do przechwytywania i manipulowania uprawnionym ruchem użytkownika?
+Ataki fałszowania adresów
+Ataki wzmacniania i odbijania
+Ataki na ICMP
+Atak MITM
+Przechwytywanie sesji

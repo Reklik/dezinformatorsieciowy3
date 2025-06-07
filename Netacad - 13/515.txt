@@ -1,0 +1,5 @@
+X100
+W tego typu SDN urządzenia są programowalne przez aplikacje działające na samym urządzeniu lub na serwerze w sieci.
+SDN oparte na urządzeniu
+SDN oparte na kontrolerze
+SDN oparte na zasadach

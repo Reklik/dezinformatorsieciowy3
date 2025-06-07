@@ -1,0 +1,6 @@
+X0001
+Który z algorytmów używany jest w protokole OSPF do znalezienia jak najkrótszej drogi od źródła do celu?
+BFS (ang. breadth-first search)
+DFS (ang. depth-first search)
+Floyda-Warshalla
+SPF (ang. shortest path first)

@@ -1,0 +1,8 @@
+X00110
+Przyjrzyj się zamieszczonemu powyżej rysunkowi. Które dwa stwierdzenia są poprawne odnośnie wyniku pokazanego na ilustracji? (Wybierz dwie odpowiedzi)
+Host o adresie 209.165.200.235 odpowie na zapytanie używając adresu źródłowego 209.165.200.235.
+Ruch o adresie docelowym publicznego serwera WWW będzie miał źródłowy adres 192.168.1.10.
+Host o adresie 209.165.200.235 odpowie na zapytanie używając adresu źródłowego 192.168.10.10.
+Wynik jest rezultatem polecenia show ip nat translations.
+Wynik jest rezultatem polecenia show ip nat statistics.
+[img]55.png[/img]

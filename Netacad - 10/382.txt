@@ -1,0 +1,8 @@
+X001010
+Jakie dane zostaną zapisane i gdzie dane zostaną umieszczone, jeśli administrator sieci wydał następujące polecenie? (Wybierz dwie odpowiedzi). R1# copy startup-config tftp
+Dane, które mają być zapisane, to konfiguracja, która jest zmodyfikowana w pamięci RAM.
+Dane, które mają być zapisane to konfiguracja, która jest przechowywana na serwerze TFTP.
+Dane, które mają być zapisane, to konfiguracja przechowywana w pamięci NVRAM.
+Dane zostaną zapisane w pamięci NVRAM.
+Dane zostaną zapisane na serwerze TFTP.
+Dane zostaną zapisane w pamięci RAM.

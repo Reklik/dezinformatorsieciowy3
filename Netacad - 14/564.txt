@@ -1,0 +1,6 @@
+X0100
+Jakie jest ograniczenie architektoniczne, które musi spełniać prawdziwa usługa sieciowa interfejsu API RESTful?
+Działa jako usługa w chmurze.
+Działa jako model klient/serwer.
+Wykorzystuje HTTPS do transportu danych.
+Musi obsługiwać format danych XML.

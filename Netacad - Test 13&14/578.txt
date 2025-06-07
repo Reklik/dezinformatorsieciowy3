@@ -1,0 +1,6 @@
+X0010
+W jaki sposób wirtualizacja pomaga w odzyskiwaniu po awarii w centrum danych?
+gwarancja zasilania
+dostarczanie spójnego przepływu powietrza
+wsparcie migracji na żywo
+doskonalenie praktyk biznesowych

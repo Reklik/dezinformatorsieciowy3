@@ -1,0 +1,6 @@
+X0010
+Który termin bezpieczeństwa jest używany do opisania potencjalnego zagrożenia dla zasobów, danych lub funkcjonalności sieci firmy?
+Podatność
+Exploit
+Zagrożenie
+Ryzyko

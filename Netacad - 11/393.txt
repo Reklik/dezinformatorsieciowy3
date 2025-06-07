@@ -1,0 +1,4 @@
+X10
+Prawda czy fałsz? OSPF jest dobrze nadaje się do większych sieci, ponieważ może być wdrożony przy użyciu hierarchicznego projektu.
+Prawda
+Fałsz

@@ -1,0 +1,4 @@
+X01
+Prawda czy fałsz? W poleceniu router ospf process-id wartość identyfikatora procesu, która może mieć dowolną liczbę od 1 do 65 535, ma znaczenie globalne. Musi być taki sam na wszystkich routerach w obszarze OSPF.
+Prawda
+Fałsz

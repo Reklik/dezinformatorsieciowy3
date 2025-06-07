@@ -1,0 +1,6 @@
+X0001
+Technik ma za zadanie zabezpieczyć router za pomocą list ACL. Kiedy użyje opcji lub polecenia established?
+aby dodać wpis tekstowy do celów dokumentacyjnych
+aby wyświetlić cały zablokowany ruch
+aby zezwolić określonemu ruchowi na przejście przez interfejs
+aby zezwolić na powracający ruch odpowiedzi do sieci wewnętrznej

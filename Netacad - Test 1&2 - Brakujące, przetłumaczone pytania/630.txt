@@ -1,0 +1,4 @@
+X10
+Jakiego typu adresem jest 64.101.198.197?
+publiczny
+prywatny

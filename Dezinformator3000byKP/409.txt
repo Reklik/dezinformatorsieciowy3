@@ -1,0 +1,6 @@
+X1000
+Który typ routera wykorzysta firma, aby umożliwić klientom dostęp do zawartości wszędzie i w każdej chwili, niezależnie od tego, czy są oni w domu czy w pracy?
+Routery brzegowe
+Routery oddziałowe
+Routery modułowe
+Routery dostawców usług sieciowych

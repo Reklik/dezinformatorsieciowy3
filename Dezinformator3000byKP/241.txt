@@ -1,0 +1,7 @@
+X10100
+Które dwa urządzenia działają podobnie do modemu głosowego, ale używają wyższych częstotliwości i prędkości transmisji. (Wybierz dwie odpowiedzi).
+Modem kablowy
+CSU/DSU
+Modem DSL
+Konwerter optyczny
+Modem analogowy

@@ -1,0 +1,6 @@
+X0100
+Administrator konfiguruje jednoobszarowy OSPF na routerze. Jedna z sieci, która musi być rozgłaszana to 192.168.223.0 255.255.254.0. Jakiej maski blankietowej użyłby administrator w instrukcji network protokołu OSPF?
+0.0.15.255
+0.0.1.255
+0.0.7.255
+0.0.31.255

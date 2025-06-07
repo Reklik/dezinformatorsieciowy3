@@ -1,0 +1,7 @@
+X10001
+Jakie są dwie cechy ruchu głosowego (voice traffic)? (Wybierz dwie)
+Opóźnienie (latency) w ruchu głosowym nie powinno przekraczać 150 ms.
+Ruch głosowy jest nieprzewidywalny i niespójny.
+Ruch głosowy wymaga co najmniej 384 kb/s przepustowości.
+Ruch głosowy zużywa dużo zasobów sieciowych.
+Utracone pakiety głosowe nie są retransmitowane.

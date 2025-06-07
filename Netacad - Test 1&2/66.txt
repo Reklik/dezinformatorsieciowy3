@@ -1,0 +1,6 @@
+X0010
+Jakie polecenie zostanie użyte do ustalenia, czy nawiązano relację zainicjowaną przez protokół routingu z sąsiednim routerem?
+show ip protocols
+ping
+show ip ospf neighbor
+show ip interface brief

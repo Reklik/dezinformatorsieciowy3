@@ -1,0 +1,5 @@
+X100
+Która usługa w chmurze zapewnia użytkownikom dostęp do usług, takich jak poczta e-mail, komunikacja i Office 365, dostarczanych przez Internet?
+SaaS
+PaaS
+IaaS

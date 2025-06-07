@@ -1,0 +1,7 @@
+X00010
+Z którą warstwą OSI rozwiązujesz problemy, gdy przyczyną błędów transmisji w sieci są późne kolizje, krótkie ramki i jabber?
+Aplikacji
+Łącza danych
+Sieci
+Fizyczna
+Transportowa

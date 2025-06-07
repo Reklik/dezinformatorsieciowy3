@@ -1,0 +1,4 @@
+X01
+Prawda czy fałsz: Podkład ogranicza liczbę urządzeń, które administrator sieci musi zaprogramować. Zapewnia również usługi i alternatywne metody przekazywania, które nie są kontrolowane przez podstawowe urządzenia fizyczne.
+Prawda
+Fałsz

@@ -1,0 +1,6 @@
+X0100
+Która lokalizacja jest zalecana dla rozszerzonych numerowanych lub rozszerzonych nazwanych list ACL?
+Lokalizacja jak najbliżej miejsca docelowego ruchu, jak to możliwe
+Lokalizacja jak najbliżej źródła ruchu
+Lokalizacja skupiona między miejscami docelowymi a źródłami ruchu, aby filtrować jak najwięcej ruchu
+Jeśli używasz słowa kluczowego established, lokalizacja blisko miejsca docelowego, aby upewnić się, że ruch powrotny jest dozwolony

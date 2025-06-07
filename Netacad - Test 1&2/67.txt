@@ -1,0 +1,9 @@
+X1011000
+Przyjrzyj się ilustracji. Które trzy stwierdzenia opisują wyniki procesu elekcji OSPF w topologii pokazanej w ilustracji? (Wybierz trzy odpowiedzi).
+R3 zostanie wybrany jako BDR.
+Identyfikator routera R2 jest interfejs pętli zwrotnej.
+Identyfikator routera R4 to 172.16.1.1.
+R2 zostanie wybrany jako DR.
+R1 zostanie wybrany jako BDR.
+Priorytetem R4 Fastethernet 0/0 jest 128.
+[img]67.png[/img]

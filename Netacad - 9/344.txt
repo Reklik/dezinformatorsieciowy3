@@ -1,0 +1,5 @@
+X100
+Który model QoS nie wymaga specjalnych mechanizmów QoS?
+Najlepszych starań (best-effort)
+Usługi zintegrowane (IntServ)
+Usługi zróżnicowane (DiffServ)

@@ -1,0 +1,7 @@
+X11000
+Które dwie tradycyjne opcje łączności WAN to technologie przełączania pakietów? (Wybierz dwie odpowiedzi).
+ATM
+Frame Relay
+ISDN
+Łącze dzierżawione
+PSTN

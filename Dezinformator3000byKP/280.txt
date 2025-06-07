@@ -1,0 +1,9 @@
+X0001100
+Jakie opcje są dostępne dla funkcji Uwierzytelnianie w ramach protokołu IPsec? (Wybierz dwie odpowiedzi).
+AES
+AH
+DH24
+PSK
+RSA
+SEAL
+SHA

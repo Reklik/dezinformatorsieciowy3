@@ -1,0 +1,7 @@
+X10100
+Nowa korporacja chce zbudować sieć spełniającą określone wymagania. Sieć musi zapewnić niski koszt połączenia do osób zajmujących się sprzedażą i rozproszonych na dużym obszarze geograficznym. Które dwa rodzaje infrastruktury WAN spełniają te wymagania? (Wybierz dwie odpowiedzi).
+Publiczna infrastruktura WAN
+Prywatna infrastruktura WAN
+Internet
+Sieć dedykowana
+Łącze satelitarne

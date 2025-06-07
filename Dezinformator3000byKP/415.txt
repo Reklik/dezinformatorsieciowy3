@@ -1,0 +1,6 @@
+X0100
+Kombinację jakich funkcjonalności zawiera projekt zintegrowanej sieci rdzeniowej?
+Funkcje warstw: dostępu, dystrybucji
+Funkcje warstw: dystrybucji, rdzenia
+Funkcje warstw: dostępu, rdzenia
+Funkcje warstw: dostępu, dystrybucji, szkieletowej

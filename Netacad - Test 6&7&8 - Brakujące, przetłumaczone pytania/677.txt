@@ -1,0 +1,7 @@
+X00100
+Odwołując się do schematu: z perspektywy routera R1 (pełniącego rolę routera NAT), który adres to inside global address?
+192.168.0.10
+192.168.0.1
+209.165.200.225
+209.165.200.254
+[img]677.png[/img]

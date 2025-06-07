@@ -1,0 +1,6 @@
+X0001
+Które wyspecjalizowane urządzenie sieciowe jest odpowiedzialne za egzekwowanie zasad kontroli dostępu między sieciami?
+Przełącznik
+IDS (System wykrywania włamań)
+Most
+Zapora

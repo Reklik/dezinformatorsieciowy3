@@ -1,0 +1,6 @@
+X0010
+Administrator sieci chce wykonać kopię zapasową bieżącej konfiguracji (running-config) na serwerze plików. Jakiego polecenia powinien użyć na routerze Cisco?
+cd usbflash0:
+show file systems
+copy running-config tftp
+dir

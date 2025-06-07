@@ -1,0 +1,8 @@
+X001000
+Przyjrzyj się zamieszczonemu powyżej schematowi. Który z trzech wyświetlonych obrazów IOS Cisco zostanie załadowany do pamięci RAM?
+Router wybierze drugi obraz ISO, ponieważ jest najmniejszy.
+Router wybiera obraz w zależności od wartości rejestru konfiguracyjnego.
+Router wybiera obraz w zależności od: boot system komendy w konfiguracji.
+Router wybierze trzeci obraz IOS Cisco, ponieważ jest to najbardziej najpóźniejszy obraz IOS.
+Router wybierze trzeci obraz IOS Cisco, ponieważ zawiera on obraz advipservicesk9.
+[img]475.png[/img]

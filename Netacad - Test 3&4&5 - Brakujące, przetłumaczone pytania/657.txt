@@ -1,0 +1,7 @@
+X10000
+Sieć 192.168.30.0/24 zawiera wszystkie serwery firmy. Zgodnie z polityką, ruch z serwerów do sieci 192.168.10.0 i 192.168.11.0 powinien być ograniczony tylko do odpowiedzi na pierwotne żądania. Jaki typ listy ACL i jej umiejscowienie będzie najlepsze w tej sytuacji?
+extended ACL inbound na R3 G0/0
+extended ACL inbound na R1 G0/0
+standard ACL inbound na R1 G0/1
+standard ACL inbound na liniach vty R1
+[img]657.png[/img]

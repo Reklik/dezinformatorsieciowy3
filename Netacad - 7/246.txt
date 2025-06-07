@@ -1,0 +1,7 @@
+X00010
+Która tradycyjna opcja łączności WAN wykorzystuje linie T lub E?
+ATM
+Frame Relay
+ISDN
+Łącze dzierżawione
+PSTN

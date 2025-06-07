@@ -1,0 +1,6 @@
+X0100
+Technik ma za zadanie zabezpieczyć router za pomocą list ACL. Kiedy użyje polecenia 40 deny host 192.168.23.8?
+aby usunąć wszystkie listy ACL z routera
+aby utworzyć wpis w numerowanej liście ACL
+aby zastosować listę ACL do wszystkich interfejsów routera
+aby zabezpieczyć dostęp administracyjny do routera

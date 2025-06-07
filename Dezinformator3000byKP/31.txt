@@ -1,0 +1,6 @@
+X0001
+Interwał Hello w OSPF został ustawiony w sieci punkt - punkt na 15 sekund. Jaką wartość domyślną ma interwał Dead?
+15 sekund
+30 sekund
+45 sekund
+60 sekund

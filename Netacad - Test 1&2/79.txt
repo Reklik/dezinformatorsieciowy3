@@ -1,0 +1,7 @@
+X00100
+Jaki jest format identyfikatora routera w routerze obsługującym protokół OSPF?
+unikalne wyrażenie z nie więcej niż 16 znakami
+ciąg znaków bez spacji
+numer 32-bitowy sformatowany jak adres IPv4
+8-bitowa liczba dziesiętna z przedziału od 0 do 255
+unikalna nazwa hosta routera skonfigurowana na routerze

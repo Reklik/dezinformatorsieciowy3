@@ -1,0 +1,6 @@
+X0010
+Jest to termin używany do opisania liczby portów dostępnych na jednym przełączniku.
+Prędkość
+Skalowalność
+Gęstość
+Modułowość

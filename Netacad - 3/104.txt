@@ -1,0 +1,7 @@
+X10000
+Które złośliwe oprogramowanie zazwyczaj wyświetla irytujące wyskakujące okienka, aby generować przychody dla jego autora?
+Adware
+Rootkit
+Spyware
+Wirus
+Robak

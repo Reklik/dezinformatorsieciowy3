@@ -1,0 +1,6 @@
+X0001
+Pakiety głosowe są odbierane przez telefon IP w sposób ciągły, ale z powodu przeciążenia sieci opóźnienie między pakietami jest zmienne, co powoduje przerywane rozmowy. Jak nazywa się to zjawisko?
+buffering
+latency
+queuing
+jitter

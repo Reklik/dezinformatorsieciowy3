@@ -1,0 +1,7 @@
+X01010
+Jakie są dwa powody, dla których firma miałaby używać VPN? (Wybierz dwie odpowiedzi).
+Aby zwiększyć przepustowość
+Aby umożliwić podłączenie się telepracowników do sieci firmowej
+Aby przetestować połączenia do użytkowników zdalnych
+Aby umożliwić dostawcom i kontrahentom dostęp do sieci firmowej
+Aby wyeliminować potrzebę posiadania bramy dostępowej

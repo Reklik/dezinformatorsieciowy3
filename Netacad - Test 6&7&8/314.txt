@@ -1,0 +1,7 @@
+X00110
+Jakie dwa typy sieci VPN są przykładami sieci VPN zdalnego dostępu zarządzanych przez przedsiębiorstwo? (Wybierz dwie odpowiedzi).
+Interfejs wirtualnego tunelu IPsec VPN
+GRE przez IPsec VPN
+IPsec VPN oparty na kliencie
+SSL VPN bez klienta
+IPsec VPN

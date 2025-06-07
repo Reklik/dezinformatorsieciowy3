@@ -1,0 +1,6 @@
+X0001
+Który algorytm kolejkowania umożliwia wysyłanie danych wrażliwych na opóźnienia, takich jak głos przed pakietami w innych kolejkach?
+FIFO
+WFQ
+CBWFQ
+LLQ

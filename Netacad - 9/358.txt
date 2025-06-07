@@ -1,0 +1,6 @@
+X0010
+Jaki typ ruchu zaleca firma Cisco umieszczanie w kolejce ścisłego priorytetu (PQ), gdy używane jest kolejkowanie z małym opóźnieniem (LLQ)?
+Wideo
+Dane
+Głos
+Zarządzania

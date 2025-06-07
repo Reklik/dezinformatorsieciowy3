@@ -1,0 +1,6 @@
+X0001
+W jakiej sytuacji odpowiednie byłoby API partnerskie?
+wyszukiwarka internetowa umożliwiająca programistom integrację wyszukiwarki z własnym oprogramowaniem
+pracownicy sprzedaży firmy uzyskujący dostęp do wewnętrznych danych sprzedaży z urządzeń mobilnych
+osoba tworząca konto w zewnętrznej aplikacji lub witrynie internetowej za pomocą swoich danych uwierzytelniających w mediach społecznościowych
+serwis wakacyjny współpracujący z bazami danych hoteli w celu wyświetlenia informacji ze wszystkich hoteli na swojej stronie internetowej

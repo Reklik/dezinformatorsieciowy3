@@ -1,0 +1,8 @@
+X110010
+Które stwierdzenia opisują przetwarzanie pakietu przez ACL? (Wybierz trzy odpowiedzi).
+Niejawny wpis deny any odrzuca każdy pakiet, który nie pasuje do żadnego poprzedniego wpisu (ACE).
+Pakiet może zostać odrzucony lub przekierowany zgodnie z wpisem ACE, do którego pasuje.
+Pakiet, który został odrzucony przez jeden wpis (ACE) może być dopuszczony przez kolejny ACE.
+Pakiet, które nie pasuje do warunków określonych w dowolnym wpisie ACE będzie przekierowany domyślnie.
+Każdy wpis jest sprawdzany aż wystąpi dopasowanie lub osiągnięty zostanie koniec listy ACL.
+Każdy pakiet jest porównywany z warunkami określonymi w każdym wpisie ACE listy ACL zanim podjęta zostanie ostateczna decyzja o przekierowaniu.

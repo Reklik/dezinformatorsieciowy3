@@ -1,0 +1,5 @@
+X010
+Jak nazywa sie zmienna ilość czasu potrzeba dla ramki do przechodzenia powiązań między źródłem i odbiorcą?
+Opóźnienie serializacji
+Opóźnienie propagacji
+Opóźnienie kodu

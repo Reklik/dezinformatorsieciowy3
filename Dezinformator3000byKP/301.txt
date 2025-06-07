@@ -1,0 +1,9 @@
+X0101010
+Zapoznaj się z rysunkiem. Administrator sieci właśnie skonfigurował translację adresów i weryfikuje konfigurację. Jakie trzy elementy powinny zostać sprawdzone przez administratora podczas weryfikacji konfiguracji? (Wybierz trzy poprawne stwierdzenia)
+Jeden port na routerze nie uczestniczy w translacji adresów.
+Uruchomione są dwa typy NAT.
+Nazwa puli NAT to refCount.
+Translacja adresów działa poprawnie.
+Hosty wykorzystują trzy adresy z puli NAT.
+Używana jest standardowa lista numerowana 1, jako element procesu konfiguracyjnego.
+[img]301.png[/img]

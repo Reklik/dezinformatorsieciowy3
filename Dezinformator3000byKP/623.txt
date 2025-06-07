@@ -1,0 +1,6 @@
+X0010
+Administrator konfiguruje OSPF z jedną strefą na routerze. Jedna z sieci, która musi być rozgłaszana, to 192.168.181.0 255.255.254.0. Jakiej maski wildcard powinien użyć administrator w poleceniu OSPF network?
+0.0.63.255
+0.0.15.255
+0.0.1.255
+0.0.31.255

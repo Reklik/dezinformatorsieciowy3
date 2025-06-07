@@ -1,0 +1,6 @@
+X0010
+Który algorytm może zapewnić poufność danych?
+MD5
+PKI
+AES
+RSA

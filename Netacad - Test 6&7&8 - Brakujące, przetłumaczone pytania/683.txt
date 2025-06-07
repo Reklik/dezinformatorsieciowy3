@@ -1,0 +1,6 @@
+X0010
+Które rozwiązanie VPN umożliwia użycie przeglądarki internetowej do nawiązania bezpiecznego tunelu VPN typu remote-access do urządzenia ASA?
+client-based SSL
+site-to-site z użyciem ACL
+clientless SSL
+site-to-site z użyciem klucza wstępnie udostępnionego (preshared key)

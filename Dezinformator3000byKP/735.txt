@@ -1,0 +1,6 @@
+X1000
+Administrator sieci chce określić rozmiar pliku obrazu Cisco IOS znajdującego się na urządzeniu sieciowym. Jakiego polecenia powinien użyć na routerze Cisco?
+show flash:0
+copy flash: tftp:
+config-register 0x2102
+confreg 0x2142

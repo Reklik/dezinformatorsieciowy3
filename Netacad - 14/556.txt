@@ -1,0 +1,6 @@
+X0010
+Określ termin dla następującej definicji w odniesieniu do narzędzi do zarządzania konfiguracją: proces, w jaki muszą się odbywać wszystkie zautomatyzowane działania, takie jak kolejność muszą być wykonane i co należy wykonać przed rozpoczęciem kolejnego zadania.
+Kontrola wersji
+Automatyzacja
+Orkiestracja
+Zarządzanie siecią

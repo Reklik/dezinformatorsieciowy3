@@ -1,0 +1,6 @@
+X1000
+Jakie pakiety pasowałyby do instrukcji listy kontroli dostępu pokazanej - access-list 110 permit tcp 172.16.0.0 0.0.0.255 any eq 22 
+Ruch SSH z sieci 172.16.0.0 do dowolnej sieci docelowej
+Ruch SSH z dowolnej sieci źródłowej do sieci 172.16.0.0
+Dowolny ruch TCP z dowolnego hosta do sieci 172.16.0.0
+Dowolny ruch TCP z sieci 172.16.0.0 do dowolnej sieci docelowej

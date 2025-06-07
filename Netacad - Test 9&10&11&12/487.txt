@@ -1,0 +1,7 @@
+X00010
+Przyjrzyj się ilustracji. Administrator sieci skonfigurował OSPFv2 na dwóch routerach Cisco, jak pokazano. PC1 nie może połączyć się z PC2. Co powinien najpierw zrobić administrator podczas rozwiązywania problemów z implementacją OSPFv2?
+Odłącz łącze szeregowe między routerem R1 i R2.
+Wyłącz OSPFv2.
+Zastosuj polecenie network 192.168.255.0 0.0.0.3 area 0 na routerze R1.
+Przetestuj łączność w warstwie 3 między bezpośrednio podłączonymi routerami.
+[img]487.png[/img]

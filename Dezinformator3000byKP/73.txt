@@ -1,0 +1,5 @@
+X0100
+Interfejs Fa0/0 jest skonfigurowany jako pasywny interfejs na routerze R2.
+Interfejs Fa0/0 nie został aktywowany w OSPFv2 na routerze R2.
+Interfejs S0/0 jest skonfigurowany jako pasywny interfejs na routerze R2.
+Interfejs s0/0 nie został aktywowany w OSPFv2 na routerze R2.

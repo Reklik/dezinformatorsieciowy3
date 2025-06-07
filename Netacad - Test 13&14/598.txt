@@ -1,0 +1,3 @@
+X1
+Dopasuj termin do komponentu żądania RESTful API http://www.mapquestapi.com/directions/v2/route?outFormat=json&key=KEY&from=San+Jose,Ca&to=Monterey,Ca. (Nie wszystkie elementy muszą zostać wykorzystane).
+[img]598.png[/img]

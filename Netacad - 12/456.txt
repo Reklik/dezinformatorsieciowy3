@@ -1,0 +1,6 @@
+X0001
+Technik zainstalował kartę sieciową w komputerze i chce przetestować połączenie sieciowe. Polecenie ping może odbierać odpowiedzi ze stacji roboczych w tej samej podsieci, ale nie ze zdalnych stacji roboczych. Co może być przyczyną tego problemu?
+Przestarzały sterownik karty sieciowej
+System operacyjny nie jest zgodny z systemem zdalnym.
+Stos protokołów TCP/IP nie jest załadowany.
+Brama domyślna jest niepoprawna.

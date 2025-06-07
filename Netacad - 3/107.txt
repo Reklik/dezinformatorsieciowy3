@@ -1,0 +1,6 @@
+X0001
+Jaki rodzaj ataku to tailgating?
+Rozpoznanie
+Dostęp
+DoS
+Socjotechnika

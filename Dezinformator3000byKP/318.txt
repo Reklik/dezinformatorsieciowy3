@@ -1,0 +1,3 @@
+X1
+Przyjrzyj się ilustracji. Komputer wysyła pakiet do serwera w sieci zdalnej. Router R1 wykonuje przeciążenie NAT. Z punktu widzenia komputera dopasuj typ adresu NAT z poprawnym adresem IP. (Nie wszystkie elementy muszą zostać wykorzystane).
+[img]318.png[/img]

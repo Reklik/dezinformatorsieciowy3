@@ -1,0 +1,6 @@
+X0010
+Kiedy wymagane są wybory DR i BDR w sieci OSPF?
+gdy dwóch przyległych sąsiadów jest w dwóch różnych sieciach
+gdy wszystkie routery w obszarze OSPF nie mogą tworzyć sąsiadów
+gdy routery są połączone przez wspólną sieć Ethernet
+gdy dwóch przyległych sąsiadów jest ze sobą połączone za pośrednictwem łącza punkt-punkt

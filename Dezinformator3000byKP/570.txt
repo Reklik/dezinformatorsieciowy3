@@ -1,0 +1,6 @@
+X0100
+Jaka jest różnica między formatami danych XML i HTML?
+Formaty XML danych w formacie szesnastkowym, podczas gdy HTML formaty danych w formacie binarnym.
+XML używa samoopisowej struktury danych, ale HTML używa standardowej struktury dokumentu.
+XML wymaga wcięcia dla każdej pary klucz/wartość natomiast HTML nie wymaga wcięcia.
+XML zawiera dane w ciągu pary tagów, podczas gdy HTML używa pary cudzysłów do dołączania danych.

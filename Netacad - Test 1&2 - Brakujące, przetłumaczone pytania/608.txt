@@ -1,0 +1,7 @@
+X00010
+Który pakiet OSPF zawiera różne typy reklam stanu łącza (LSA)?
+hello
+DBD
+LSR
+LSU
+LSAck

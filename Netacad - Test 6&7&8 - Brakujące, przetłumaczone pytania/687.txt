@@ -1,0 +1,6 @@
+X1000
+W terminologii NAT, który typ adresu odnosi się do globalnie routowalnego adresu IPv4 hosta docelowego w Internecie?
+outside global
+inside global
+outside local
+inside local

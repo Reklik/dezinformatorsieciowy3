@@ -1,0 +1,6 @@
+X0001
+Jaki jest cel słowa kluczowego overload w poleceniu ip nat inside source list 1 pool NAT_POOL overload?
+Pozwala grupie hostów wewnętrznych na komunikację z określoną grupą hostów zewnętrznych.
+Pozwala na użycie puli wewnętrznych adresów globalnych przez wewnętrzne hosty.
+Umożliwia hostom zewnętrznym inicjowanie sesji z hostami wewnętrznymi.
+Pozwala wielu hostom wewnętrznym na współdzielenie jednego lub kilku wewnętrznych adresów globalnych.

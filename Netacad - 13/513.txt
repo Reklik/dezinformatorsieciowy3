@@ -1,0 +1,7 @@
+X00001
+Jest to tabela, która wyzwala różne działania związane z wydajnością na przepływ, w tym zdolność do szybkości ograniczenia ruchu.
+Tabela sąsiedztwa
+Tabela routingu
+Tabela przepływu
+Tabela ARP
+Tabela liczników

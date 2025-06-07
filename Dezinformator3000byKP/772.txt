@@ -1,0 +1,7 @@
+X00011
+Jakie są dwa powody, dla których większość interfejsów API RESTful wymaga klucza w żądaniu? (Wybierz dwie odpowiedzi).
+aby upewnić się, że zapytanie jest zgodne z usługą oferowaną przez aplikację internetową
+aby określić format danych oczekiwany w odpowiedzi
+aby zaszyfrować wiadomość zapytania w żądaniu API
+aby zebrać informacje na temat osób korzystających z API
+aby uwierzytelnić źródło żądania

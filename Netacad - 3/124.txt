@@ -1,0 +1,7 @@
+X10000
+Które sieciowe urządzenie zabezpieczające służy do świadczenia bezpiecznych usług z witryn firmowych i obsługi zdalnego dostępu dla użytkowników zdalnych za pomocą bezpiecznych szyfrowanych tuneli?
+VPN
+Zapora ASA
+IPS
+ESA/WSA
+Serwer AAA

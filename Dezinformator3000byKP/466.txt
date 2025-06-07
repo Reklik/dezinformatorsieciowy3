@@ -1,0 +1,8 @@
+X010100
+Jakie są dwa powody tworzenia stanu odniesienia sieci? (Wybierz dwa.)
+do oceny luk bezpieczeństwa w sieci
+do określenia czy sieć może dostarczyć wymagane polityki bezpieczeństwa
+w celu wyboru protokołu routingu
+do identyfikacji przyszłych anormalnych zachowań sieci
+w celu zaprojektowania sieci zgodnie z prawidłowym modelem
+aby określić, jaki rodzaj sprzętu potrzebny jest do zastosowania

@@ -1,0 +1,6 @@
+X0010
+Jaka jest funkcja granicy zaufania QoS?
+Granica zaufania umożliwia tylko ruch z zaufanych punktów końcowych do sieci.
+Granica zaufania identyfikuje lokalizację, w której ruch nie może być na nowo znakowany.
+Granica zaufania identyfikuje, które urządzenia ufają znakowaniu w pakietach wchodzących do sieci.
+Granica zaufania zezwala na wprowadzanie ruchu tylko wtedy, gdy został wcześniej znakowany.

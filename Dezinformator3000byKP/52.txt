@@ -1,0 +1,6 @@
+X0001
+Która struktura danych OSPF jest identyczna na wszystkich routerach OSPF, które dzielą ten sam obszar?
+baza danych przyległości
+tablica routingu
+baza danych przekazywania
+baza danych stanu łącza

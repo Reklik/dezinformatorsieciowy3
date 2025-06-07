@@ -1,0 +1,6 @@
+X0001
+Firma zatrudniająca 10 pracowników korzysta z jednej sieci LAN do wymiany informacji pomiędzy komputerami. Jaki rodzaj połączenia z Internetem będzie najlepszym wyborem dla tej firmy?
+Połączenie dialup/modemowe dostarczone przez lokalnego dostawcę usług telefonicznych
+Połączenie VPN, dzięki czemu pracownicy będą mogli w sposób bezpieczny połączyć się z siecią firmową
+Dedykowane linie dostarczone przez lokalnego dostawcę usług
+Usługa szerokopasmowa, taka jak DSL, za pośrednictwem lokalnego dostawcy usług

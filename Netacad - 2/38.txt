@@ -1,0 +1,6 @@
+X0100
+Która maska blankietowa będzie użyta do rozgłoszenia sieci 192.168.5.96/27 jako część konfiguracji OSPF?
+0.0.0.32
+0.0.0.31
+255.255.255.224
+255.255.255.223

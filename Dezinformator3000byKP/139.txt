@@ -1,0 +1,6 @@
+X1000
+Jaka jest rola systemu IPS?
+Wykrywa wzorce złośliwego ruchu przy użyciu plików sygnatur
+Wymusza zasady kontroli dostępu na podstawie zawartości pakietów
+Filtruje ruch na podstawie zdefiniowanych reguł i kontekstu połączenia
+Filtruje ruch na podstawie informacji warstwy 7

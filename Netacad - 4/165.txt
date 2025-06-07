@@ -1,0 +1,6 @@
+X0010
+Podczas tworzenia ACL, które słowo kluczowe powinny być używane do dokumentowania i interpretowania celu ACL na urządzeniu Cisco?
+eq
+established
+remark
+description

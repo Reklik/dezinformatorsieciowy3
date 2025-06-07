@@ -1,0 +1,8 @@
+X001101
+Jakie rozwiązania VPN są zazwyczaj używane przez przedsiębiorstwo? (Wybierz trzy odpowiedzi).
+Warstwa 2 MPLS
+Warstwa 3 MPLS
+IPsec
+SSL
+Frame Relay
+DMVPN

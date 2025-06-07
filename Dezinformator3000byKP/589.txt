@@ -1,0 +1,6 @@
+X0100
+Co jest cechą hiperwizora typu 1?
+najlepiej nadaje się dla konsumentów, a nie dla środowiska przedsiębiorstwa
+jest zainstalowany bezpośrednio na serwerze
+nie wymaga oprogramowania konsoli zarządzania
+zainstalowany jest w istniejącym systemie operacyjnym

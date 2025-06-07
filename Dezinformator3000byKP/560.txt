@@ -1,0 +1,6 @@
+X1000
+Która funkcja IBN umożliwia administratorowi sieci wyrażanie oczekiwanego zachowania sieciowego, które najlepiej wesprze intencje biznesowe?
+Tłumaczenie
+Aktywacja
+Zapewnianie jakości
+Infrastruktura sieciowa

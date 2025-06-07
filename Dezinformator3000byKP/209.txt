@@ -1,0 +1,6 @@
+X1000
+Co jest uważane za najlepszą praktykę podczas konfigurowania ACL na liniach vty?
+Umieść identyczne ograniczenia na wszystkich liniach VTY.
+Usuń hasło vty, ponieważ ACL ogranicza dostęp do zaufanych użytkowników.
+Zastosuj polecenie ip access group w kierunku wejściowym.
+Używaj tylko rozszerzonych list dostępu.

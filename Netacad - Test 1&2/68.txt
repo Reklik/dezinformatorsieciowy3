@@ -1,0 +1,7 @@
+X00100
+Przyjrzyj się ilustracji. Załóżmy, że routery B, C i D mają domyślny priorytet, a router A ma priorytet 0. Który wniosek można wyciągnąć z procesu elekcji DR/BDR?
+Jeśli do tej sieci zostanie dodany nowy router z wyższym priorytetem, stanie się on DR.
+Jeśli priorytet routera C zostanie zmieniony na 255, stanie się DR
+Jeśli DR ulegnie awarii, nowym DR będzie router B.
+Router A stanie się routerem DR, a router D będzie BDR.
+[img]68.png[/img]​

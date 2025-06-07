@@ -1,0 +1,7 @@
+X01100
+Które dwa punkty końcowe mogą znajdować się po drugiej stronie tunelu VPN site-to-site skonfigurowanego na ASA z użyciem ASDM? (Wybierz dwa.)
+DSL switch
+ISR router
+inny ASA
+multilayer switch
+Frame Relay switch

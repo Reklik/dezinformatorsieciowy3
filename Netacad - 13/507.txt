@@ -1,0 +1,7 @@
+X01101
+Które cechy najlepiej opisują płaszczyznę danych urządzenia sieciowego? (Wybierz trzy odpowiedzi).
+Ten samolot jest mózgiem Ta płaszczyzna jest mózgiem urządzenia..
+Płaszczyzna ta służy do przekazywania strumieni ruchu.
+Informacje w tej płaszczyźnie są zwykle przetwarzane przez specjalny procesor.
+Ta płaszczyzna zawiera tabele routingu IPv4 i IPv6.
+Płaszczyzna ta jest zwykle wykonana ze struktury przełączającej łączącej różne porty urządzenia.

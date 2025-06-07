@@ -1,0 +1,7 @@
+X10000
+Które narzędzie do testowania penetracji służy do sondowania i testowania odporności zapory?
+Narzędzia do tworzenia pakietów
+Narzędzia szyfrujące
+Detektory Rootkitów
+Narzędzia kryminalistyczne
+Debuggery

@@ -1,0 +1,7 @@
+X01000
+Użycie 3DES w ramach IPsec jest przykładem którego z pięciu elementów składowych IPsec?
+Uwierzytelnianie
+Poufność
+Algorytm Diffiego-Hellmana
+Integralność
+Niezaprzeczalność

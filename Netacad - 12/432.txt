@@ -1,0 +1,8 @@
+X000001
+Którą strukturalną metodę rozwiązywania problemów należy stosować, gdy występuje problem zorientowany na oprogramowanie?
+Oddolna metoda rozwiązywania problemów
+Metoda rozwiązywania problemów z porównaniem
+Metoda rozwiązywania problemów typu „dziel i rządź”
+Metoda rozwiązywania problemu bazująca na doświadczonym zgadywaniu
+Metoda rozwiązywania problemów według ścieżki
+Odgórna metoda rozwiązywania problemów

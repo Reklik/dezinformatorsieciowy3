@@ -1,0 +1,6 @@
+X1000
+Czego używa przeciążenie NAT do śledzenia wielu wewnętrznych hostów, które używają jednego wewnętrznego adresu globalnego?
+numerów portów
+adresów IP
+adresów MAC
+numerów systemu autonomicznego

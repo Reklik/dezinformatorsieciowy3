@@ -1,0 +1,6 @@
+X0010
+Jakie kryterium jest brane pod uwagę i preferowane przez router podczas wyboru identyfikatora routera?
+Najwyższy adres IP ze skonfigurowanych interfejsów loopback na routerze
+Najwyższy adres IP spośród aktywnych interfejsów na routerze
+Polecenie router-id rid
+Najwyższy adres IP spośród aktywnych interfejsów z włączonym protokołem OSPF

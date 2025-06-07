@@ -1,0 +1,6 @@
+X1000
+Używając terminologii NAT, jaki jest adres hosta źródłowego w sieci prywatnej widziany z wnętrza sieci?
+Wewnętrzny lokalny
+Wewnętrzny globalny
+Zewnętrzny globalny
+Zewnętrzny lokalny

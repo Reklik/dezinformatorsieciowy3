@@ -1,0 +1,6 @@
+X1000
+Jaki typ sieci VPN jest niewidoczny dla użytkownika końcowego?
+Site-to-site (lokacja-lokacja)
+Dostęp zdalny
+Publiczny
+Prywatny

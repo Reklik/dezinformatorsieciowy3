@@ -1,0 +1,6 @@
+X0010
+Jaki typ hiperwizora jest wdrażany, gdy użytkownik z laptopem z systemem Mac OS instaluje instancję wirtualnego systemu operacyjnego Windows?
+typu 1
+urządzenie bez systemu operacyjnego
+typu 2
+maszyna wirtualna

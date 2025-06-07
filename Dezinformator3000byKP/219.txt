@@ -1,0 +1,4 @@
+X10
+Prawda czy fałsz? Protokoły tunelowania, takie jak IPsec, nie działają dobrze przez NAT.
+Prawda
+Fałsz

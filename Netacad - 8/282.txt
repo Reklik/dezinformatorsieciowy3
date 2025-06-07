@@ -1,0 +1,7 @@
+X00110
+Które dwa stwierdzenia opisują zdalny dostęp do sieci VPN? (Wybierz dwie odpowiedzi).
+Łączą całe sieci ze sobą.
+Wymagają, aby ruch TCP/IP generowany przez węzły końcowe przechodził przez bramy VPN.
+Są używane do łączenia poszczególnych hostów, które muszą uzyskać bezpieczny dostęp do sieci firmy przez Internet.
+Mogą wymagać instalacji oprogramowania VPN na węźle końcowym.
+Wymagają statycznej konfiguracji tunelu VPN.

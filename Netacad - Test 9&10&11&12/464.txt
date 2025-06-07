@@ -1,0 +1,6 @@
+X0010
+Komputer może komunikować się z urządzeniami w tej samej sieci, ale nie ma dostępu do urządzeń z innych sieci. Jaka jest prawdopodobna przyczyna tego problemu?
+Kabel nie jest poprawnie podłączony do karty sieciowej.
+Komputer ma niepoprawną maskę podsieci.
+Komputer ma niepoprawny adres bramy domyślnej.
+Komputer ma niepoprawny adres IP.

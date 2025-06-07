@@ -1,0 +1,6 @@
+X1000
+Karty linii, które można wymieniać na miejscu, są cechą charakterystyczną dla jakiego typu przełączników?
+Modułowych
+Stałej konfiguracji
+Wirtualne
+Piętrowe (stackable)

@@ -1,0 +1,5 @@
+X010
+Jaki rodzaj ruchu wymaga co najmniej 384 Kbs przepustowości?
+Głos
+Wideo
+Dane

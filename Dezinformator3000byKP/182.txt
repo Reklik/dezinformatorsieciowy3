@@ -1,0 +1,6 @@
+X0001
+Co to jest skanowanie ping?
+protokół zapytań i odpowiedzi identyfikujący informacje o domenie, w tym adresy przypisane do tej domeny
+technika skanowania, która bada zakres numerów portów TCP lub UDP na hoście w celu wykrycia usług odsłuchu
+aplikacja, która umożliwia przechwytywanie wszystkich pakietów sieciowych wysyłanych przez sieć LAN
+technika skanowania sieciowego wskazująca aktywne hosty w zakresie adresów IP.

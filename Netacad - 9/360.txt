@@ -1,0 +1,6 @@
+X0100
+Co się stanie, gdy kolejka pamięci urządzenia się zapełni i zostanie odebrany nowy ruch sieciowy?
+Urządzenie sieciowe natychmiast wysyła odebrany ruch.
+Urządzenie sieciowe odrzuci nadchodzące pakiety.
+Urządzenie sieciowe odrzuca cały ruch z kolejki.
+Urządzenie sieciowe kolejkuje odebrany ruch podczas wysyłania wcześniej odebranego ruchu.

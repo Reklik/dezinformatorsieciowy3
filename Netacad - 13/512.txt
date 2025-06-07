@@ -1,0 +1,7 @@
+X00100
+Jest to tabela, która dopasowuje przychodzące pakiety do określonego przepływu i określa funkcje, które mają być wykonywane na pakiecie.
+Tabela sąsiedztwa
+Tabela routingu
+Tabela przepływu
+Tabela ARP
+Tabela liczników

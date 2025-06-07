@@ -1,0 +1,7 @@
+X10000
+Który atak wykorzystuje czteroetapową wymianę, aby zamknąć połączenie za pomocą pary segmentów FIN i ACK z każdego punktu końcowego?
+Atak TCP RESET
+Atak UDP flood
+Atak TCP SYN Flood
+Atak DoS
+Przechwytywanie sesji TCP

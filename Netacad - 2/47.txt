@@ -1,0 +1,6 @@
+X0010
+Co algorytm SPF uważa za najlepszą ścieżkę do sieci?
+Ścieżka z najmniejszą liczbą przeskoków.
+Ścieżka z najmniejszymi opóźnieniami.
+Ścieżka zawierająca najszybsze łącza jako skumulowana szerokość pasma.
+Ścieżka, która zawiera najszybsze pojedyncze łącze.

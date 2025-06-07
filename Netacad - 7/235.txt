@@ -1,0 +1,7 @@
+X01100
+Które dwie opcje opisują WAN? (Wybierz dwie odpowiedzi).
+WAN jest własnością i zarządzana przez organizację lub użytkownika domowego.
+WAN świadczy usługi sieciowe na dużych obszarach geograficznych.
+Usługi WAN oferowane są za dodatkową opłatą.
+Dostawcy sieci WAN oferują niskie prędkości przepustowości na krótkich dystansach.
+Sieci WAN gwarantują bezpieczeństwo między punktami końcowymi.

@@ -1,0 +1,6 @@
+X1000
+Jaką rolę odgrywają urządzenia sieciowe w modelu QoS IntServ?
+Urządzenia sieciowe zapewniają dostępność zasobów przed wysłaniem ruchu przez hosta za pośrednictwem sieci.
+Urządzenia sieciowe zapewniają najlepsze podejście do przekazywania ruchu.
+Urządzenia sieciowe są skonfigurowane do obsługi wielu klas ruchu i obsługi ruchu w miarę jego nadejścia.
+Urządzenia sieciowe wykorzystują QoS z przeskoku na przeskok, aby zapewnić doskonałą skalowalność.

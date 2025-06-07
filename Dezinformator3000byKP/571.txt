@@ -1,0 +1,6 @@
+X0010
+Programista używa Ansible jako narzędzie do zarządzania konfiguracją. Który termin jest używany do opisania zestawu instrukcji do wykonania?
+Pillar
+Manifest
+Playbook
+Cookbook

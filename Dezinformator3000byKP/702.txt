@@ -1,0 +1,4 @@
+X10
+Jaki typ adresu reprezentuje 10.131.48.7?
+Private
+Public

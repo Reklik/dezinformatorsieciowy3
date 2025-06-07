@@ -1,0 +1,7 @@
+X01100
+Które dwa stwierdzenia opisują odpowiednie ogólne wskazówki dotyczące konfigurowania i stosowania list ACL? (Wybierz dwie odpowiedzi).
+Do interfejsu można zastosować wiele list ACL na protokół i kierunek.
+Jeśli ACL nie zawiera instrukcji zezwolenia, domyślnie odmawia się całego ruchu.
+Najbardziej szczegółowe instrukcje ACL należy wprowadzić jako pierwsze ze względu na odgórny, sekwencyjny charakter list ACL.
+Standardowe ACL są umieszczane najbliżej źródła, natomiast rozszerzone ACL znajdują się najbliżej miejsca docelowego.
+Jeśli pojedyncza lista ACL ma być zastosowana do wielu interfejsów, musi być skonfigurowana z unikalnym numerem dla każdego interfejsu.

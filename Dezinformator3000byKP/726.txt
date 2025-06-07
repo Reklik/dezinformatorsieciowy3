@@ -1,0 +1,6 @@
+X0010
+Dlaczego QoS (Quality of Service) jest ważnym zagadnieniem w sieci konwergentnej, która łączy komunikację głosową, wideo i dane?
+Komunikacja danych jest wrażliwa na jitter.
+Starsze urządzenia nie są w stanie przesyłać głosu i wideo bez QoS.
+Komunikacja głosowa i wideo jest bardziej wrażliwa na opóźnienia (latency).
+Komunikacja danych musi mieć najwyższy priorytet.

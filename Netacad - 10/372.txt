@@ -1,0 +1,7 @@
+X00011
+Jakie są dwa powody, dla których administrator wyda polecenie copy running-config tftp na przełączniku lub routerze? (Wybierz dwie odpowiedzi).
+Aby wymusić automatyczne przeładowanie urządzenia
+Aby zastąpić bieżącą konfigurację
+Aby mieć kopię zapasową uruchomionego pliku konfiguracyjnego w routerze​
+Aby zapisać uruchomiony plik konfiguracyjny w zdalnej lokalizacji
+Aby przenieść bieżący plik konfiguracyjny na serwer

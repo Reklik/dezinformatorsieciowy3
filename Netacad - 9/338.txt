@@ -1,0 +1,6 @@
+X0010
+Który algorytm kolejkowania zapewnia obsługę klas ruchu zdefiniowanych przez użytkownika?
+FIFO
+WFQ
+CBWFQ
+LLQ

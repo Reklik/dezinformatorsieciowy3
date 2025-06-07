@@ -1,0 +1,6 @@
+X0010
+W jakiej kolejności wymieniane będą pakiety w routerze OSPF podczas ustalania zbieżności?
+Hello, LSAck, LSU, LSR, DBD
+LSAck, Hello, DBD, LSU, LSR
+Hello, DBD, LSR, LSU, LSAck
+LSU, LSAck, Hello, DBD, LSR

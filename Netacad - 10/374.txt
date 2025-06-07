@@ -1,0 +1,6 @@
+X0010
+Która z podanych poniżej funkcjonalności oferuje zabezpieczenie bazy obiektów MIB, w przypadku korzystania z SNMPv1 lub SNMPv2?
+Szyfrowanie pakietów
+Kontrola integralności danych
+Łańcuchy społeczności
+Weryfikacja źródła

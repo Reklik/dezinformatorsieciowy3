@@ -1,0 +1,7 @@
+X01000
+Odwołując się do załączonego schematu: administrator sieci konfiguruje listę ACL na routerze. Które stwierdzenie opisuje rezultat tej konfiguracji?
+Połączenie SSH jest dozwolone z hosta o IP 172.16.45.16 do urządzenia o IP 192.168.25.18.
+Połączenie SSH jest dozwolone z hosta o IP 192.168.25.18 do urządzenia o IP 172.16.45.16.
+Połączenie Telnet jest dozwolone z hosta o IP 192.168.25.18 do urządzenia o IP 172.16.45.16.
+Połączenie Telnet jest dozwolone z hosta o IP 172.16.45.16 do urządzenia o IP 192.168.25.18.
+[img]642.png[/img]

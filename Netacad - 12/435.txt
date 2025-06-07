@@ -1,0 +1,7 @@
+X10000
+Które narzędzie do rozwiązywania problemów sprzętowych jest wielofunkcyjnym urządzeniem ręcznym służącym do testowania i certyfikacji kabli miedzianych i światłowodowych dla różnych usług i standardów?
+Analizator okablowania
+Tester okablowania
+Cyfrowy multimetr
+Modułowy analizator sieci
+Przenośne analizatory sieci

@@ -1,0 +1,7 @@
+X00100
+Odwołując się do schematu: R1 i R3 są połączone ze sobą lokalnym interfejsem serial 0/0/0, ale nie tworzą sąsiedztwa (adjacency). Jaka jest tego przyczyna?
+Mają różne procesy routingu.
+Mają różne identyfikatory routerów (router ID).
+Znajdują się w różnych podsieciach.
+Łączące interfejsy są skonfigurowane jako pasywne.
+[img]729.png[/img]

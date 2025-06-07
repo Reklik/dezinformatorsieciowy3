@@ -1,0 +1,7 @@
+X00010
+Które polecenie może być użyte na routerze, aby upewnić się, że przyleganie OSPF jest utworzone z innym routerem?
+show ip route
+show ip protocols
+show ip ospf interface
+show ip ospf neighbor
+show ip interface brief

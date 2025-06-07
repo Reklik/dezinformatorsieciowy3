@@ -1,0 +1,7 @@
+X01000
+Odwołując się do schematu: użytkownik skonfigurował kartę sieciową (NIC) w komputerze zgodnie z przedstawionymi ustawieniami, ale komputer nie ma dostępu do Internetu. Jaki jest problem?
+Preferowany adres DNS jest nieprawidłowy.
+Adres domyślnej bramy jest nieprawidłowy.
+Ustawienia nie zostały zatwierdzone przy zamykaniu okna.
+Nie powinno być alternatywnego serwera DNS.
+[img]721.png[/img]

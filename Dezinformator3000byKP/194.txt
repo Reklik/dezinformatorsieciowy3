@@ -1,0 +1,6 @@
+X0010
+Który ACE przepuści pakiet pochodzący z dowolnej sieci i przeznaczony dla serwera WWW pod adresem 192.168.1.1?
+access-list 101 permit tcp any eq 80 host 192.168.1.1
+access-list 101 permit tcp host 192.168.1.1 any eq 80
+access-list 101 permit tcp any host 192.168.1.1 eq 80
+access-list 101 permit tcp host 192.168.1.1 eq 80 any

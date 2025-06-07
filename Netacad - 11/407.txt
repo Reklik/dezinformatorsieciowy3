@@ -1,0 +1,6 @@
+X0010
+Jak dużo ruchu jest zdolny do przełączenia 48-portowy przełącznik Gigabitowy, podczas pracy przy pełnej prędkości łącza?
+44 Gb/s, z powodu narzutu
+24 Gb/s, ponieważ jest to maksymalna szybkość przekazywania na przełącznikach Cisco
+48 Gb /s, zapewniając pełną przepustowość dla każdego portu
+1 Gb/s, ponieważ dane mogą być przekazywane tylko z jednego portu na raz

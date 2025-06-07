@@ -1,0 +1,7 @@
+X10000
+Na co zmienia się zachęta z trybu konfiguracji globalnej po wprowadzeniu polecenia ip access-list standard aaa?
+Router(config-std-nacl)#
+Router(config-router)#
+Router(config-if)#
+Router(config)#
+Router(config-line)#

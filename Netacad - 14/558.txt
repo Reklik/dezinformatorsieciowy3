@@ -1,0 +1,6 @@
+X1001
+Które z poniższych narzędzi do zarządzania konfiguracją używają języka Python? (Wybierz wszystkie, które pasują).
+Ansible
+Chef
+Puppet
+SaltStack

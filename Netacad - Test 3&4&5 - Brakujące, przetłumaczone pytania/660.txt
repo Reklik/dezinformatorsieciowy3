@@ -1,0 +1,6 @@
+X0010
+Jaka maska dzika (wildcard mask) dopasuje sieci od 172.16.0.0 do 172.19.0.0?
+0.0.3.255
+0.252.255.255
+0.3.255.255
+0.0.255.255

@@ -1,0 +1,5 @@
+X100
+Jaki typ ruchu opisywany jest jako niewytrzymały na straty (not resilient to loss)?
+wideo
+dane
+głos

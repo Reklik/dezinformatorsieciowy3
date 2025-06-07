@@ -1,0 +1,6 @@
+X1000
+Jaki typ złośliwego oprogramowania ma za główny cel rozprzestrzenianie się po sieci?
+robak (worm)
+wirus (virus)
+koń trojański (Trojan horse)
+sieć botów (botnet)

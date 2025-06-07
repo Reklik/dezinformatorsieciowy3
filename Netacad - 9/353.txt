@@ -1,0 +1,6 @@
+X0001
+Jaki jest termin używany do wskazania zmiany opóźnienia?
+Opóźnienie
+Opóźnienie serializacji
+Niedopasowanie prędkości
+Jitter

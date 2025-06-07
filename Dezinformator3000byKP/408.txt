@@ -1,0 +1,6 @@
+X1000
+aki jest termin używany w obszarze sieci, na który ma wpływ, gdy urządzenie lub usługa sieciowa napotykają problemy?
+Obszar awarii
+Domena kolizyjna
+Domena rozgłoszeniowa
+Domena użytkownika

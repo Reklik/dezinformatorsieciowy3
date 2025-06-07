@@ -1,0 +1,6 @@
+X0001
+Technik sprawdza problemy związane z wysyłaniem i odbieraniem poczty e-mail. Jakie pytanie powinien zadać użytkownikowi, aby ten dostarczył więcej informacji na temat problemu?
+Czy Pana poczta działa już normalnie?
+Jak duże wiadomości próbował Pan wysłać?
+Jakiego rodzaju sprzęt jest wykorzystywany do obsługi poczty?
+Kiedy zauważył Pan po raz pierwszy problem z działaniem poczty?

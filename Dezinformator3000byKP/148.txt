@@ -1,0 +1,7 @@
+X00010
+Która maska blankietowa pozwoli tylko hosty z sieci 10.10.0.0/16?
+0.0.0.0
+0.0.0.31
+0.0.0.255
+0.0.255.255
+255.255.255.255

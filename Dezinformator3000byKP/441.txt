@@ -1,0 +1,7 @@
+X10000
+Którą warstwę OSI rozwiązujesz problemy podczas badania problemu związanego z DNS?
+Aplikacji
+Łącza danych
+Sieci
+Fizyczna
+Transportowa

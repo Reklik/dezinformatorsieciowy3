@@ -1,0 +1,5 @@
+X010
+Jaki typ ruchu opisywany jest jako otrzymujący niższy priorytet, jeśli nie jest krytyczny dla działania firmy?
+głos
+dane
+wideo

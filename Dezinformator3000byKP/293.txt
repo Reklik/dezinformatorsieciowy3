@@ -1,0 +1,6 @@
+X0001
+Które stwierdzenie opisuje wpływ długości klucza na powstrzymanie atakującego przed włamaniem za pomocą klucza szyfrowania?
+Długość klucza nie będzie się różnić między algorytmami szyfrowania.
+Długość klucza nie wpływa na stopień bezpieczeństwa.
+Im krótszy klucz, tym trudniej go złamać.
+Im dłuższy klucz, tym więcej istnieje kombinacji klucza.

@@ -1,0 +1,7 @@
+X10011
+Jakie są główne zalety wirtualizacji? (Wybierz trzy odpowiedzi).
+Wymaga mniej sprzętu
+Mniej abstrakcji
+Mniej systemów operacyjnych
+Szybsze udostępnianie
+Wydłużony czas pracy serwera

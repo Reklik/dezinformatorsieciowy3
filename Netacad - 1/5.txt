@@ -1,0 +1,6 @@
+X0001
+Jaka jest prawidłowa kolejność kroków operacji stanu łącza?
+1. Wykonanie algorytmu SPF 2. Ustanowienie przyległości sąsiadów 3. Wymiana komunikatów o stanie łącza (LSA) 4. Wybór najlepszej trasy 5. Utworzenie tablicy topologii
+1. Ustanowienie przyległości sąsiadów 2. Wybór najlepszej trasy 3. Utworzenie tablicy topologii 4. Wykonanie algorytmu SPF 5. Wymiana komunikatów o stanie łącza (LSA)
+1. Ustanowienie przyległości sąsiadów 2. Wymiana komunikatów o stanie łącza (LSA) 3. Wykonanie algorytmu SPF 4. Wybór najlepszej trasy 5. Utworzenie tablicy topologii
+1. Ustanowienie przyległości sąsiadów 2. Wymiana komunikatów o stanie łącza (LSA) 3. Utworzenie tablicy topologii 4. Wykonanie algorytmu SPF 5. Wybór najlepszej trasy

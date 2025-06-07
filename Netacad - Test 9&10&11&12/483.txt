@@ -1,0 +1,6 @@
+X1000
+Jaka jest podstawowa funkcja warstwy dostępu w architekturze Borderless Architecture firmy Cisco?
+zapewnia dostęp dla użytkownika
+agreguje granice routingu warstwy 3
+agreguje domeny rozgłoszeniowe warstwy 2
+zapewnia izolację usterki

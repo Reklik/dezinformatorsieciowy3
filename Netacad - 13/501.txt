@@ -1,0 +1,6 @@
+X1000
+Która technologia jest zainstalowana na istniejącym systemie operacyjnym w celu tworzenia i uruchamiania wystąpień maszyny wirtualnej?
+Hyperwizor typu 2
+Aplikacje internetowe
+Wirtualizacja
+Dedykowane serwery

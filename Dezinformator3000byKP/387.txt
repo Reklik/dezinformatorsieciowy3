@@ -1,0 +1,6 @@
+X0100
+Która cecha sieci pozwala jej rozszerzać i świadczyć usługi na żądanie?
+Hierarchiczna
+Modułowa
+Stabilna
+Elastyczna

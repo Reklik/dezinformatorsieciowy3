@@ -1,0 +1,6 @@
+X0001
+Ten format danych to minimalistyczny format, który jest bardzo łatwy do odczytania i jest uważany za nadzbiór innego formatu danych.
+HTML
+XML
+JSON
+YAML

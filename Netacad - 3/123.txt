@@ -1,0 +1,7 @@
+X00010
+Które sieciowe urządzenie zabezpieczające filtruje znane i podejrzane strony internetowe ze złośliwym oprogramowaniem?
+VPN
+Zapora ASA
+IPS
+ESA/WSA
+Serwer AAA

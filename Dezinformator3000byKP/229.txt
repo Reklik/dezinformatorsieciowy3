@@ -1,0 +1,6 @@
+X0100
+Dlaczego NAT nie jest potrzebny w IPv6?
+Ponieważ IPv6 posiada zintegrowane zabezpieczenia, nie ma potrzeby aby ukrywać adresy IPv6 sieciach wewnętrznych.
+Każdy host lub użytkownik może uzyskać publiczny adres sieciowy IPv6, ponieważ liczba dostępnych adresów IPv6 jest bardzo duża.
+Problemy, które są wywoływane przez aplikacje NAT są rozwiązane, ponieważ nagłówek IPv6 poprawia obsługę pakietów przez routery pośrednie.
+Problemy połączeń koniec-koniec wywoływane przez NAT są rozwiązane, ponieważ liczba połączeń zwiększa się z liczbą węzłów, które są połączone z Internetem.

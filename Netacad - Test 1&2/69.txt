@@ -1,0 +1,7 @@
+X10001
+Jakie jest przeznaczenie identyfikatora routera (router ID) w OSPF? (Podaj dwie odpowiedzi)
+jednoznaczne identyfikowanie routera w domenie OSPF
+uruchomienie algorytmu SPF w celu wyznaczenia trasy o najniższym koszcie do zdalnych sieci
+ułatwienie stworzenia sieci konwergentnej
+ułatwienie przejścia stanu sąsiada OSPF do stany "Full"
+ułatwienie uczestnictwa routera w wyborze routera DR (routera desygnowanego)

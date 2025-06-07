@@ -1,0 +1,6 @@
+X0010
+Który cel bezpiecznej komunikacji osiąga się poprzez szyfrowanie danych?
+Uwierzytelnianie
+Dostępność
+Poufność
+Integralność

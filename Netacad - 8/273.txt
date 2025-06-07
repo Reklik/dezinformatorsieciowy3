@@ -1,0 +1,6 @@
+X0001
+Jaki typ sieci VPN umożliwia przedsiębiorstwu emulację wielodostępowej sieci LAN Ethernet ze zdalnymi lokalizacjami?
+DMVPN
+Sieć VPN zdalnego dostępu
+Sieć VPN typu Site-to-Site
+MPLS VPN

@@ -1,0 +1,6 @@
+X0100
+W przykładzie żądania RESTful API ht​tp://ww​w.mapquestapi.com/directions/v2/route?outFormat=json&key=KEY&from=San+Jose,Ca&to=Monterey,Ca, który termin opisuje składnik directions/v2/route?
+Zapytanie
+Zasoby
+Serwer API
+Parametry

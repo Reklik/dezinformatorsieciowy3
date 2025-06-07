@@ -1,0 +1,6 @@
+X0010
+Jaki składnik jest uważany za mózg architektury ACI i tłumaczy zasady aplikacji?
+punkty końcowe profilu sieciowego aplikacji
+przełącznik Cisco Nexus 9000
+kontroler infrastruktury dla zasad aplikacji
+hiperwizor

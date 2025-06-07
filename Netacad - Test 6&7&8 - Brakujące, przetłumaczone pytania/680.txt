@@ -1,0 +1,6 @@
+X0001
+Która sytuacja opisuje transmisję danych przez łącze WAN?
+Administrator sieci w biurze zdalnie uzyskuje dostęp do serwera WWW znajdującego się w centrum danych na obrzeżach kampusu.
+Manager wysyła e-mail do wszystkich pracowników działu z biurami w kilku budynkach.
+Pracownik drukuje plik na sieciowej drukarce znajdującej się w innym budynku.
+Pracownik udostępnia plik bazy danych współpracownikowi, który znajduje się w oddziale w innym mieście.

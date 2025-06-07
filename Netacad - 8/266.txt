@@ -1,0 +1,6 @@
+X0100
+Która korzyść VPN wykorzystuje zaawansowane protokoły szyfrowania i uwierzytelniania w celu ochrony danych przed nieautoryzowanym dostępem?
+Oszczędności
+Bezpieczeństwo
+Skalowalność
+Kompatybilność

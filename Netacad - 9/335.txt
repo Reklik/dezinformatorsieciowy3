@@ -1,0 +1,5 @@
+X100
+Jaki rodzaj ruchu nie może być ponownie transmitowany, jeśli zostanie zgubiony?
+Głos
+Wideo
+Dane

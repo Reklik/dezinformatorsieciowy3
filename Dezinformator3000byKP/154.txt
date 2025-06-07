@@ -1,0 +1,6 @@
+X0100
+Które stwierdzenie dotyczące list ACL jest prawdziwe?
+Rozszerzone ACL są numerowane 1 w zakresie 300 - 2699.
+Nazwane listy ACL mogą być standardowymi lub rozszerzonymi.
+Numerowane listy ACL są preferowaną metodą konfigurowania list ACL.
+Standardowe ACL są numerowane w zakresie 1 - 199.

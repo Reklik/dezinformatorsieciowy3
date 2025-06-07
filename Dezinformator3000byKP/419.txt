@@ -1,0 +1,6 @@
+X0001
+Które stwierdzenie opisuje charakterystykę przełączników Cisco Catalyst 2960?
+Nie obsługują aktywnego przełączanego wirtualnego interfejsu (SVI) na wersjach IOS poprzedzających 15.x.
+Nadają się najbardziej jako przełączniki warstwy dystrybucyjnej.
+Są przełącznikami modułowymi.
+Nowe przełączniki Cisco Catalyst 2960-C obsługują PoE.

@@ -1,0 +1,6 @@
+X0100
+Inżynier sieci wykonuje test ping i otrzymuje wartość, która pokazuje czas potrzebny na podróż pakietu ze źródła do urządzenia docelowego i powrót. Który termin opisuje wartość?
+Jitter
+Opóźnienie
+Priorytet
+Szerokość pasma

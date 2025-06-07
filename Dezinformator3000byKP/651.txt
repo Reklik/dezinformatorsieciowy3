@@ -1,0 +1,7 @@
+X01000
+Odwołując się do schematu: uprawnienia internetowe pracownika zostały cofnięte z powodu nadużyć, ale nadal potrzebuje on dostępu do zasobów firmowych. Jaki typ i umiejscowienie listy ACL będzie najlepszy w tej sytuacji?
+standardowa ACL przychodząca na interfejsie WAN R2 łączącym się z Internetem
+standardowa ACL wychodząca na interfejsie WAN R2 w kierunku Internetu
+standardowa ACL przychodząca na interfejsie G0/0 routera R1
+standardowa ACL wychodząca na interfejsie G0/0 routera R1
+[img]651.png[/img]

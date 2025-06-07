@@ -1,0 +1,8 @@
+X001000
+Gdy router pyta o adres lub nazwę zdalnego hosta, jaki adres IP powinien wprowadzić administrator?
+192.168.10.1
+192.168.9.254
+192.168.11.252
+192.168.10.2
+192.168.11.254
+[img]461.png[/img]

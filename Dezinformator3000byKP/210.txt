@@ -1,0 +1,6 @@
+X0100
+Jaki termin używany jest do opisania tego samego klucza współdzielonego lub tajnego, znanego zarówno nadawcy, jak i odbiorcy do szyfrowania i odszyfrowywania danych?
+ograniczanie
+algorytm szyfrowania symetrycznego
+ryzyko
+integralność danych

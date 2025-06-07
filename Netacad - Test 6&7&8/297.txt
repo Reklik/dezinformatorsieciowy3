@@ -1,0 +1,7 @@
+X10000
+Na podstawie przedstawionych informacji, ustal jakie można wyciągnąć wnioski o stanie NAT w tej organizacji?
+Nie ma wystarczających informacji aby stwierdzić czy oba rodzaje NAT, statyczny i dynamiczny, działają.
+NAT dynamiczny działa, a NAT statyczny nie działa.
+NAT statyczny działa, a NAT dynamiczny nie działa.
+NAT działa.
+[img]297.png[/img]

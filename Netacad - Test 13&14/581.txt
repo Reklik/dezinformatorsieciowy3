@@ -1,0 +1,6 @@
+X1000
+Które stwierdzenie opisuje pojęcie chmury obliczeniowej?
+oddzielenie aplikacji od sprzętu
+oddzielenie płaszczyzny zarządzania od płaszczyzny sterowania
+oddzielenie płaszczyzny sterowania od płaszczyzny danych
+oddzielenie systemu operacyjnego od sprzętu

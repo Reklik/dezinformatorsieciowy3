@@ -1,0 +1,6 @@
+X0010
+Jeśli algorytm asymetryczny używa klucza publicznego do zaszyfrowania danych, co jest używane do ich odszyfrowania?
+cyfrowy certyfikat
+inny klucz publiczny
+klucz prywatny
+DH (Diffie-Hellman)

@@ -1,0 +1,6 @@
+X0100
+Jakie tłumaczenie adresu jest wykonywane przez statyczny NAT?
+Wewnętrzny adres lokalny jest tłumaczony na określony zewnętrzny adres globalny.
+Wewnętrzny adres lokalny jest tłumaczony na określony wewnętrzny adres globalny.
+Wewnętrzny adres lokalny jest tłumaczony na określony zewnętrzny adres lokalny.
+Zewnętrzny adres lokalny jest tłumaczony na określony zewnętrzny adres globalny.

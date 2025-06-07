@@ -1,0 +1,7 @@
+X10010
+Jakie są dwie cechy ruchu głosowego? (Wybierz dwie odpowiedzi).
+Jest wrażliwy na opóźnienie.
+Ma charakter impulsywny.
+Może tolerować opóźnienia do 400 ms.
+Zużywa niewiele zasobów sieciowych.
+Jest niewrażliwy na utratę pakietów.

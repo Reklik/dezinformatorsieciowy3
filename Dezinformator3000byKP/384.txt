@@ -1,0 +1,6 @@
+X1000
+Dlaczego administrator sieci miałby wydać polecenie show cdp neigbors na routerze?
+Aby wyświetlić identyfikator urządzenia i inne informacje o bezpośrednio podłączonych urządzeniach Cisco
+Aby wyświetlić identyfikator routera i inne informacje o sąsiadach OSPF
+Aby wyświetlić stan linii i inne informacje o bezpośrednio podłączonych urządzeniach Cisco
+Aby wyświetlić tabelę routingu i inne informacje o bezpośrednio podłączonych urządzeniach Cisco

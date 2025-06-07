@@ -1,0 +1,6 @@
+X0001
+Zapoznaj się z danymi wyjściowymi dziennika syslog Co to jest funkcja raportowania syslog?
+Błąd
+Informacyjny
+Ostrzeżenie
+Debugowanie

@@ -1,0 +1,6 @@
+X0100
+Które polecenie weryfikacji identyfikuje konkretne interfejsy routera, które zostały skonfigurowane za pomocą polecenia passive-interface?
+show ip eigrp neighbors
+show ip protocols
+show ip interface brief
+show ip route eigrp

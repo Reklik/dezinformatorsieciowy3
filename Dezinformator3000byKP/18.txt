@@ -1,0 +1,9 @@
+X0000001
+W tym stanie protokołu OSPF bazy danych stanu łącza są w pełni zsynchronizowane.
+Stan Down
+Stan Init
+Stan Two-Way
+Stan ExStart
+Stan Exchange
+Stan Loading
+Stan Full

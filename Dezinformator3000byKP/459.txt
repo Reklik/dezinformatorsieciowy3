@@ -1,0 +1,7 @@
+X00011
+Jakie są dwa podejścia zapobiegania utracie pakietów z powodu zatorów na interfejsie? (Wybierz dwie odpowiedzi).
+Wyłączyć mechanizmy kolejkowania.
+Zapobiegaj gwałtownym wzrostom ruchu.
+Zmniejsz przestrzeń buforową.
+Zwiększ przepustowość łącza.
+Odrzuć pakiety o niższym priorytecie.

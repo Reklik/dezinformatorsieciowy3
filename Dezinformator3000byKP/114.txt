@@ -1,0 +1,7 @@
+X01000
+Który atak jest używany, gdy podmioty zagrożenia inicjują jednoczesny, skoordynowany atak z wielu maszyn źródłowych?
+Ataki fałszowania adresów
+Metoda wzmacniania i odbijania
+Ataki na ICMP
+Atak MITM
+Przechwytywanie sesji

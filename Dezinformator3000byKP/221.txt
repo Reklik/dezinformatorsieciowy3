@@ -1,0 +1,6 @@
+X1000
+Administrator chce sprawdzić aktywne tłumaczenia NAT na routerze brzegowym. Która z komend będzie do tego właściwa?
+Router# show ip nat translations
+Router# show ip nat statistics
+Router# clear ip nat translations
+Router# debug ip nat translations

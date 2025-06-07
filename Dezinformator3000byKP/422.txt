@@ -1,0 +1,5 @@
+X100
+Który dokument może być odwołany do identyfikacji systemu operacyjnego na serwerze?
+Dokumentacja systemu końcowego
+Dokumentacja przełącznika LAN
+Dokumentacja routera

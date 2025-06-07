@@ -1,0 +1,6 @@
+X1000
+Który z poniższych formatów danych jest zwykle używany do wyświetlania stron internetowych?
+HTML
+XML
+JSON
+YAML

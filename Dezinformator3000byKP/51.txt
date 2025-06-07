@@ -1,0 +1,6 @@
+X0001
+Router w sieci firmowej OSPF ma domyślną trasę statyczną, która została skonfigurowana za pomocą interfejsu łączącego do usługodawcy internetowego. Jakie polecenie zastosowałby administrator sieci na tym routerze, aby inne routery w sieci OSPF używały tej trasy domyślnej?
+redistribute static
+redistribute connected
+redistribute static subnets
+default-information originate

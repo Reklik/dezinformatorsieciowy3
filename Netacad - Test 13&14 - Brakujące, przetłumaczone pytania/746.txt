@@ -1,0 +1,6 @@
+X0010
+Firma korzysta z chmurowego systemu kadrowo-płacowego. Z jakiej technologii chmury obliczeniowej korzysta?
+browser as a service (BaaS)
+infrastructure as a service (IaaS)
+software as a service (SaaS)
+wireless as a service (WaaS)

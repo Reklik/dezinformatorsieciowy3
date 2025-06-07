@@ -1,0 +1,7 @@
+X00010
+Zapoznaj się z ilustracją . Na jaki typ adresu został przetłumaczony adres IPv4 dla PC1 (tj. 209.165.200.226) ?
+Zewnętrzny lokalny
+Wewnętrzny lokalny
+Zewnętrzny globalny
+Wewnętrzny globalny
+[img]213.png[/img]

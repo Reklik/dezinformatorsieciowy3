@@ -1,0 +1,8 @@
+X011010
+Mała firma rozważa przeniesienie wielu swoich funkcji centrum danych do chmury. Jakie są trzy zalety tego planu? (Wybierz trzy odpowiedzi).
+Usługi w chmurze umożliwiają firmie posiadanie i administrowanie własnymi serwerami i urządzeniami pamięci masowej.
+Firma nie musi się martwić o to, jak sprostać rosnącym wymaganiom w zakresie przechowywania i przetwarzania danych za pomocą wewnętrznego sprzętu centrum danych.
+Firma może zwiększyć pojemność przetwarzania i magazynowania w razie potrzeby, a następnie zmniejszyć pojemność, gdy nie jest już potrzebna.
+Usługi w chmurze są rozliczane za stałą opłatą bez względu na to, ile przetwarzania i przechowywania jest wykorzystywane przez firmę.
+Firma musi zapłacić tylko za ilość wykorzystywanej przez nią pojemności przetwarzania i magazynowania.
+Centra danych dla pojedynczego najemcy mogą łatwo rozwijać się w celu dostosowania się do rosnących wymagań dotyczących przechowywania danych.

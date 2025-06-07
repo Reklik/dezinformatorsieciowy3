@@ -1,0 +1,6 @@
+X0100
+W przypadku centrum danych, jaka jest różnica w ruchu danych wirtualizacji serwera w porównaniu z tradycyjnym modelem klient-serwer?
+Ruch danych od klientów będzie kierowany do wielu serwerów wirtualnych.
+Istnieje znacząca wymiana danych między serwerami wirtualnymi.
+Istnieje więcej ruchu danych płynącego z serwerów wirtualnych do klientów.
+Większy ruch sieciowy jest generowany między serwerami wirtualnymi a klientami.

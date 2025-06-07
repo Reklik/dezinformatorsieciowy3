@@ -1,0 +1,9 @@
+X0000001
+Na którym etapie siedmiostopniowego procesu rozwiązywania problemów należy utworzyć plan wycofywania, określający, jak szybko cofnąć rozwiązanie?
+Analizuj informacje
+Zdefiniuj problem
+Wyeliminuj możliwe przyczyny
+Zbierz informację
+Zaproponuj hipotezę
+Rozwiąż problem i udokumentuj rozwiązanie
+Przetestuj hipotezę

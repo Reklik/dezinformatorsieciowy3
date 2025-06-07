@@ -1,0 +1,6 @@
+X0100
+Jaka jest domyślna wartość priorytetu routera dla wszystkich routerów Cisco OSPF?
+0
+1
+255
+10

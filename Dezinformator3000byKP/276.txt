@@ -1,0 +1,4 @@
+X01
+Prawda lub fałsz: Ramy IPsec muszą być aktualizowane za każdym razem, gdy nowy standard jest opracowywany.
+Prawda
+Fałsz

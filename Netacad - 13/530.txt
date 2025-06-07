@@ -1,0 +1,6 @@
+X1000
+Która usługa przetwarzania w chmurze byłaby najlepsza dla organizacji, która musi wspólnie tworzyć aplikacje i dostarczać je przez Internet?
+PaaS
+IaaS
+SaaS
+ITaaS

@@ -1,0 +1,6 @@
+X0100
+Administrator sieci chce skonfigurować router tak, aby ładował nowy obraz IOS z pamięci flash podczas rozruchu. Jakiego polecenia powinien użyć?
+copy flash: tftp:
+boot system
+clock set 14:25:00 nov 13 2018
+copy tftp startup-config

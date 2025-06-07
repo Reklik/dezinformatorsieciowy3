@@ -1,0 +1,6 @@
+X0100
+Technik ma za zadanie zabezpieczyć router za pomocą list ACL. Kiedy użyje polecenia ip access-group 101 in?
+aby zabezpieczyć dostęp administracyjny do routera
+aby zastosować rozszerzoną listę ACL do interfejsu
+aby wyświetlić cały zablokowany ruch
+aby zabezpieczyć ruch zarządzający wchodzący do routera

@@ -1,0 +1,8 @@
+X000100
+Student przy komputerze H1 nadal uruchamia rozszerzony ping z dużymi pakietami w kierunku studenta przy komputerze H2. Administrator sieci szkolnej chce powstrzymać to zachowanie, ale nadal umożliwić obu studentom dostęp do aplikacji internetowych. Jaki będzie najlepszy plan działania dla administratora?
+Zastosować przychodzącą standardową ACL na interfejsie Gi0/0 routera R1.
+Zastosować przychodzącą rozszerzoną ACL na interfejsie Gi0/1 routera R2.
+Zastosować wychodzącą rozszerzoną ACL na interfejsie S0/0/1 routera R1.
+Zastosować przychodzącą rozszerzoną ACL na interfejsie Gi0/0 routera R1.
+Zastosować wychodzącą standardową ACL na interfejsie S0/0/1 routera R2.
+[img]652.png[/img]

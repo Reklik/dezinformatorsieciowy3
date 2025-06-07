@@ -1,0 +1,7 @@
+X10010
+Które dwie technologie są podstawowymi składnikami architektury Cisco ACI? (Wybierz dwie odpowiedzi).
+Profil sieciowy aplikacji
+Przełączniki z włączonym OpenFlow
+Interfejs do systemu routingu
+Kontroler Application Policy Infrastructure Controller (APIC)
+Przejrzyste wzajemne połączenie wielu linków (TRILL)

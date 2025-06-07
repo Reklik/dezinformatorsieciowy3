@@ -1,0 +1,6 @@
+X0100
+Do której kategorii ataków bezpieczeństwa należy man-in-the-middle?
+DoS
+Dostęp
+Rozpoznanie
+Socjotechnika

@@ -1,0 +1,8 @@
+X000010
+Przyjrzyj się ilustracji. Które urządzenia znajdą się w domenie awarii w razie utraty zasilania przez przełącznik S3?
+S1 i S4
+S4 i PC_2
+AP_2 i AP_1
+PC_3 i PC_2
+PC_3 i AP_2
+[img]479.png[/img]

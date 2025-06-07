@@ -1,0 +1,7 @@
+X01001
+Które dwa polecenia skonfigurują standardową ACL? (Wybierz dwie odpowiedzi).
+Router(config)# access-list 20 permit host 192.168.5.5 any any
+Router(config)# access-list 90 permit 192.168.10.5 0.0.0.0
+Router(config)# access-list 45 permit 192.168.200.4 host
+Router(config)# access-list 10 permit 10.20.5.0 0.255.255.255 any
+Router(config)# access-list 35 permit host 172.31.22.7

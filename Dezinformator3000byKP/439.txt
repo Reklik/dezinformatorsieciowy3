@@ -1,0 +1,7 @@
+X00100
+Która warstwa OSI rozwiązywania problemów podczas badania pętli protokołu routingu?
+Aplikacji
+Łącza danych
+Sieci
+Fizyczna
+Transportowa

@@ -1,0 +1,7 @@
+X00100
+Które sieciowe urządzenie zabezpieczające monitoruje ruch przychodzący i wychodzący w poszukiwaniu złośliwego oprogramowania, sygnatur ataku sieciowego, a jeśli rozpoznaje zagrożenie, może natychmiast go zatrzymać?
+VPN
+Zapora ASA
+IPS
+ESA/WSA
+Serwer AAA

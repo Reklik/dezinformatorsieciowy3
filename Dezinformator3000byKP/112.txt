@@ -1,0 +1,7 @@
+X00010
+Który atak jest używany, gdy aktorzy zagrożeń umieszczają się między źródłem a miejscem docelowym, aby w transparentny sposób monitorować, przechwytywać i kontrolować komunikację?
+Ataki fałszowania adresów
+Ataki wzmacniania i odbijania
+Ataki na ICMP
+Atak MITM
+Przechwytywanie sesji

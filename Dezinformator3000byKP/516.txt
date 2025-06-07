@@ -1,0 +1,5 @@
+X001
+Ten typ SDN wykorzystuje wbudowane aplikacje, które automatyzują zaawansowane zadania konfiguracyjne za pomocą kierowanego przepływu pracy i przyjaznego dla użytkownika interfejsu GUI. Nie są wymagane żadne umiejętności programistyczne.
+SDN oparte na urządzeniu
+SDN oparte na kontrolerze
+SDN oparte na zasadach

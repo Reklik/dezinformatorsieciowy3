@@ -1,0 +1,6 @@
+X0001
+Którego narzędzia powinien użyć administrator, jeśli chciałby sprawdzić nagłówki ramek warstwy 2, wysyłane przed dany komputer ?
+CiscoView
+narzędzia do tworzenia stanu odniesienia
+bazy wiedzy
+analizatora protokołów

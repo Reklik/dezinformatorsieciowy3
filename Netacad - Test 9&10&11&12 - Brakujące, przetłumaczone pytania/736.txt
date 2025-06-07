@@ -1,0 +1,5 @@
+X100
+Jaki typ ruchu wymaga co najmniej 30 Kb/s przepustowości (bandwidth)?
+głos
+dane
+wideo

@@ -1,0 +1,7 @@
+X01010
+Które dwa narzędzia do zarządzania konfiguracją są opracowywane przy użyciu Pythona? (Wybierz dwie odpowiedzi).
+Chef
+Ansible
+Puppet
+SaltStack
+NETCONF

@@ -1,0 +1,7 @@
+X01000
+Które urządzenie zabezpieczające zapewnia, że ruch wewnętrzny może wyjść i wrócić, ale ruch zewnętrzny nie może inicjować połączeń z wewnętrznymi hostami?
+VPN
+Zapora ASA
+IPS
+ESA/WSA
+Serwer AAA

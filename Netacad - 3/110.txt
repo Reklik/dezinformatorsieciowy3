@@ -1,0 +1,6 @@
+X0100
+Jakim typem ataku jest atak man-in-the-middle?
+Rozpoznanie
+Dostęp
+DoS
+Socjotechnika

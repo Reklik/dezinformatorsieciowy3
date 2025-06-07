@@ -1,0 +1,7 @@
+X01000
+Aby ułatwić proces rozwiązywania problemów, który przychodzący komunikat ICMP powinien być dozwolony na zewnętrznym interfejsie?
+Echo request
+Echo reply
+Time-stamp request
+Time-stamp reply
+Router advertisement

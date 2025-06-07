@@ -1,0 +1,6 @@
+X1000
+Menedżer sieci chce wyświetlić ilość dostępnej i wolnej pamięci, typ systemu plików i jego uprawnienia. Jakiego polecenia powinien używać administrator na routerze Cisco?
+show file systems
+ntp server 10.10.14.9
+lldp enable
+clock timezone PST -7

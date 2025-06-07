@@ -1,0 +1,9 @@
+X1000010
+Przyjrzyj się zamieszczonemu schematowi. Interfejsy Gigabit na obu routerach zostały skonfigurowane z numerami podinterfejsów zgodnymi z numerami sieci VLAN przyłączonych do nich. Komputery PC w VLAN 10 powinny móc drukować na drukarce P1 w sieci VLAN 12. Komputery PC w VLAN 20 powinny móc drukować na drukarkach znajdujących się w sieci VLAN 22. Na którym interfejsie i w którym kierunku należy umieścić standardową listę ACL pozwalającą na drukowanie na P1 z sieci VLAN 10, lecz blokującą komputerom znajdującym się w VLAN 20 użycie drukarki P1? (Wybierz dwie odpowiedzi)
+R1 Gi0/1.12
+R2 Gi0/1.20
+R2 S0/0/1
+R1 S0/0/0
+inbound
+outbound
+[img]203.png[/img]

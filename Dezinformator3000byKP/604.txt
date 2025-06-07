@@ -1,0 +1,6 @@
+X0010
+Która technologia wirtualizuje płaszczyznę sterowania siecią i przenosi ją do scentralizowanego kontrolera?
+przetwarzanie w mgle
+chmura obliczeniowa
+SDN
+IaaS

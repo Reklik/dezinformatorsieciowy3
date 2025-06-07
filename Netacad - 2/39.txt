@@ -1,0 +1,6 @@
+X1000
+Następujące trzy sieci są bezpośrednio podłączone do routera OSPF: 192.168.0.0/24, 192.168.1.0/24 i 192.168.2.0/24. Które polecenie network OSPF będzie rozgłaszać tylko sieć 192.168.1.0 do sąsiadów?
+Router(config-router)# network 192.168.1.0 0.0.0.255 area 0
+Router(config-router)# network 192.168.0.0 0.0.15.255 area 0
+Router(config-router)# network 192.168.1.0 255.255.255.255 area 0
+Router(config-router)# network 192.168.1.0 0.0.0.0 area 0

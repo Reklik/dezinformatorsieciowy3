@@ -1,0 +1,9 @@
+X1000000
+W tym stanie OSPF nie są odbierane żadne pakiety Hello.
+Stan Down
+Stan Init
+Stan Two-Way
+Stan ExStart
+Stan Exchange
+Stan Loading
+Stan Full

@@ -1,0 +1,6 @@
+X0001
+Które narzędzie jest przydatne do badania zawartości pakietów podczas przepływu przez sieć?
+Narzędzia do tworzenia stanu odniesienia
+Baza wiedzy
+Network Management System (NMS)
+Analizator protokołów

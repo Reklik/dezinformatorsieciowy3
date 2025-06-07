@@ -1,0 +1,6 @@
+X0100
+Które oprogramowanie do rozwiązywania problemów jest przykładem narzędzia systemu zarządzania siecią?
+Wireshark
+WhatsUp Gold
+CyberGauge
+LANsurveyor

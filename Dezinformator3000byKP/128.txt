@@ -1,0 +1,7 @@
+X01000
+Która metoda szyfrowania używa tego samego klucza do szyfrowania i odszyfrowania danych?
+Potrójny DES
+Symetryczna
+Szyfr blokowy
+Data Encryption Standard
+Niesymetryczne

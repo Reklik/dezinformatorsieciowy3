@@ -1,0 +1,6 @@
+X0010
+Jaki projekt sieci ograniczyłby zakres uszkodzeń w sieci w razie wystąpienia awarii?
+taka konfiguracja urządzeń warstwy dostępowej, aby te współdzieliły jedną bramę
+instalacja jedynie sprzętu klasy korporacyjnej w całej sieci
+rozmieszczanie przełączników warstwy dystrybucyjnej w parach i podział między nimi połączeń przełączników warstwy dostępowej
+redukcja liczby urządzeń nadmiarowych i połączeń z siecią rdzeniową

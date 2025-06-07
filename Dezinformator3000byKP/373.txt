@@ -1,0 +1,6 @@
+X0100
+Jakie informacje o sąsiednim urządzeniu można uzyskać z polecenia show cdp neighbors detail, którego nie można znaleźć za pomocą polecenia show cdp neighbors?
+Informacje o platformie, która jest używana przez sąsiada
+Adres IP sąsiada
+Możliwości sąsiada
+Nazwa hosta sąsiada

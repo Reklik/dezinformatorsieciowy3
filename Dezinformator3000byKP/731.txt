@@ -1,0 +1,6 @@
+X0100
+Administrator sieci chce wyświetlić zawartość pamięci flash na routerze Cisco. Jakiego polecenia powinien użyć?
+show file systems
+dir
+lldp enable
+service timestamps log datetime

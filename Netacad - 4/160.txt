@@ -1,0 +1,6 @@
+X1000
+Która pojedyncza instrukcja listy dostępu pasuje do wszystkich poniższych sieci? 192.168.16.0 192.168.17.0 192.168.18.0 192.168.19.0
+access-list 10 permit 192.168.16.0 0.0.3.255
+access-list 10 permit 192.168.16.0 0.0.0.255
+access-list 10 permit 192.168.16.0 0.0.15.255
+access-list 10 permit 192.168.0.0 0.0.15.255

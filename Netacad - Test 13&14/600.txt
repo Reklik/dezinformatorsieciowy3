@@ -1,0 +1,6 @@
+X0010
+Jaki jest najczęściej używany interfejs API dla usług internetowych?
+JSON-RPC
+SOAP
+REST
+XML-RPC

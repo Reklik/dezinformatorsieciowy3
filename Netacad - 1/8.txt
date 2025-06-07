@@ -1,0 +1,7 @@
+X00100
+Który z poniższych pakietów OSPF jest używany przez routery do żądania dodatkowych informacji?
+Typ 1: Pakiet Hello
+Typ 2: Pakiet DBD
+Typ 3: Pakiet LSR
+Typ 4: Pakiet LSU
+Typ 5: Pakiet LSAck

@@ -1,0 +1,4 @@
+X01
+Jaki typ adresu to 10.100.34.34?
+publiczny
+prywatny

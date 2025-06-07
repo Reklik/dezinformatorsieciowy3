@@ -1,0 +1,8 @@
+X010100
+Przyjrzyj się ilustracji. Administrator sieci wydaje polecenie show lldp neighbors na przełączniku. Jakie dwa wnioski można wyciągnąć? (Wybierz dwie odpowiedzi).
+S1 ma tylko dwa interfejsy.
+Dev2 to przełącznik.
+Dev1 jest podłączony do interfejsu Fa0/4 Dev2.
+Dev1 jest podłączony do interfejsu Fa0/5 S1.
+Dev1 to przełącznik z mieszanymi typami interfejsów.
+[img]478.png[/img]

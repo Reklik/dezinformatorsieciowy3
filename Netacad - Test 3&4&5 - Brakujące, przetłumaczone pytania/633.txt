@@ -1,0 +1,8 @@
+X00100
+Co powoduje przepełnienie bufora (buffer overflow)?
+uruchomienie środka zaradczego w celu ograniczenia działania konia trojańskiego
+pobieranie i instalowanie zbyt wielu aktualizacji oprogramowania jednocześnie
+próba zapisania większej ilości danych w lokalizacji pamięci, niż ta lokalizacja może pomieścić
+wysyłanie zbyt dużej ilości informacji do dwóch lub więcej interfejsów tego samego urządzenia, powodując utratę pakietów
+wysyłanie powtarzających się połączeń, takich jak Telnet, do określonego urządzenia, co uniemożliwia dostęp innym źródłom danych
+

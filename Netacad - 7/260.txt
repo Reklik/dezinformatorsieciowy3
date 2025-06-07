@@ -1,0 +1,7 @@
+X00100
+Przedsiębiorstwo ma cztery oddziały. Siedziba główna potrzebuje pełnej łączności ze wszystkimi oddziałami. Oddziały nie muszą być połączone bezpośrednio ze sobą. Która topologia WAN jest najbardziej odpowiednia?
+Magistrali
+Pełnej siatki
+Hub and spoke
+Siatki
+Punkt-punkt

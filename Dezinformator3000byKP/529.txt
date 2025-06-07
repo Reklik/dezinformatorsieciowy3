@@ -1,0 +1,6 @@
+X0100
+W jaki sposób płaszczyzna sterowania jest modyfikowana do pracy z wirtualizacją sieci?
+Nadmiarowość płaszczyzny sterowania jest dodawana do każdego urządzenia sieciowego.
+Funkcja płaszczyzny sterowania jest skonsolidowana w scentralizowanym sterowniku.
+W każdym urządzeniu zainstalowany jest hiperwizor, aby umożliwić wiele wystąpień płaszczyzny sterowania.
+Płaszczyzna sterowania na każdym urządzeniu jest połączona z dedykowaną szybką siecią.

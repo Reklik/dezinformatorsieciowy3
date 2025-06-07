@@ -1,0 +1,6 @@
+X0100
+Jakie są korzyści z wdrożenia znakowania QoS warstwy 3 w sieci przedsiębiorstwa?
+Znakowanie w warstwie 3 może być używane do przenoszenia ruchu innego niż IP.
+Znakowanie w warstwie 3 może zawierać informacje QoS w komunikacji od końca do końca.
+Znakowanie w warstwie 3 może przenosić informacje o QoS na przełącznikach, które nie są świadome IP.
+Znakowanie w warstwie 3 może być przenoszone w polach 802.1Q.

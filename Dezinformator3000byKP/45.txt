@@ -1,0 +1,6 @@
+X0010
+Administrator właśnie zmienił identyfikartor routera pracującego w środowisku OSPFv2. Co powinien zrobić administrator aby wymusić wykorzystanie nowego identyfikatora i zresetowanie relacji przylegaia?
+Skonfigurować polecenia network.
+Zmienić priorytet interfejsu.
+Wydać polecenie clear ip ospf process trybu uprzywilejowanego.
+Zmienić identyfikator procesu OSPFv2.

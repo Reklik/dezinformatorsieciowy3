@@ -1,0 +1,6 @@
+X0100
+Które z poniższych interfejsów API zapewnia elastyczne formatowanie i jest najczęściej używany?
+SOAP
+REST
+XML-RPC
+JSON-RPC

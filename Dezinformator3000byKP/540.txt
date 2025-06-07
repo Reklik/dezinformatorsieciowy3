@@ -1,0 +1,6 @@
+X0010
+Które z poniższych opisów opisuje parę klucz/wartość?
+Klucz to ciąg, a wartość to lista
+Para klucz / wartość to inna nazwa tablicy.
+Klucz opisuje dane, a wartością są same dane.
+Para klucz / wartość jest używana tylko w formacie JSON.

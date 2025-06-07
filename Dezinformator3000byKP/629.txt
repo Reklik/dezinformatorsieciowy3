@@ -1,0 +1,6 @@
+X0001
+Który krok w procesie routingu opartego na stanie łącza opisuje sytuację, w której router wstawia najlepsze ścieżki do tabeli routingu?
+uznanie sąsiada za niedostępnego
+uruchomienie algorytmu SPF
+równoważenie obciążenia na ścieżkach o równym koszcie
+wybór najlepszej trasy

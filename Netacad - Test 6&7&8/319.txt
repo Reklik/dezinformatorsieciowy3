@@ -1,0 +1,7 @@
+X10100
+Które dwa stwierdzenia na temat relacji między sieciami LAN i WAN są prawdziwe? (Wybierz dwie odpowiedzi).
+Sieci WAN łączą się z sieciami LAN z mniejszą przepustowością niż sieci LAN łączące swoje urządzenia końcowe.
+Sieci WAN muszą być własnością publiczną natomiast sieci LAN mogą być własnością podmiotów publicznych lub prywatnych.
+Sieci WAN są zazwyczaj obsługiwane przez wielu dostawców usług internetowych, natomiast sieci LAN są zazwyczaj obsługiwane przez pojedyncze organizacje lub osoby prywatne.
+LAN łączą ze sobą wiele sieci WLAN.
+Sieci LAN i WAN łączą ze sobą urządzenia końcowe.

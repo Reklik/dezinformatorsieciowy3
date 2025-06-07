@@ -1,0 +1,7 @@
+X10000
+Przyjrzyj się ilustracji. Na jego podstawie wybierz jaki rodzaj NAT został zaimplementowany?
+PAT używający adresu interfejsu zewnętrznego
+statyczny NAT z jednym wpisem
+statyczny NAT z pulą NAT
+dynamiczny NAT z pulą zawierającą dwa adresy publiczne
+[img]299.png[/img]

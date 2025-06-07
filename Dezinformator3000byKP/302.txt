@@ -1,0 +1,3 @@
+X1
+Dopasuj kroki (etapy) do zdarzeń, które zachodzą kiedy wewnętrzny host o adresie IP 192.168.10.10 usiłuje wysłać pakiet do zewnętrznego serwera o adresie 209.165.200.254 przez router R1, na którym działa dynamiczny NAT (nie wszystkie opcje zostaną użyte).
+[img]302.png[/img]

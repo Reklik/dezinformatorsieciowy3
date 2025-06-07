@@ -1,0 +1,8 @@
+X110000
+Polecenie znajduję się na zdjęciu
+Pakiety SSH będą dozwolone.
+Pakiety ping będą dozwolone.
+Pakiety TFTP będą dozwolone.​
+Wszystkie pakiety TCP i UDP zostaną odrzucone.​
+Pakiety Telnet będą dozwolone.
+[img]205.png[/img]

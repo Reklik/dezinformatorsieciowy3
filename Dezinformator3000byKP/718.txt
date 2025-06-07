@@ -1,0 +1,8 @@
+X101000
+Odwołując się do schematu — jakie dwa typy urządzeń są podłączone do R1? (Wybierz dwie)
+switch
+hub
+router
+repeater
+Source Route Bridge
+[img]718.png[/img]

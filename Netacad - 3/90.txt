@@ -1,0 +1,5 @@
+X010
+Jaki typ hakera jest opisany w scenariuszu: Po zdalnym włamaniu się do bankomatów za pomocą laptopa, współpracowałem z producentami bankomatów w celu usunięcia odkrytych luk w zabezpieczeniach.
+Haker w białym kapeluszu
+Haker w szarym kapeluszu
+Haker w czarnym kapeluszu

@@ -1,0 +1,6 @@
+X0100
+Po zmodyfikowaniu identyfikatora routera na routerze OSPF, jaka jest preferowana metoda, która pozwali efektywne zastosowanie nowego identyfikatora routera?
+HQ# clear ip route *
+HQ# clear ip ospf process
+HQ# resume
+HQ# copy running-config startup-config

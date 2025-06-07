@@ -1,0 +1,6 @@
+X0100
+Co się stanie jeśli siedmiu użytkowników będzie chciało jednocześnie połączyć się z serwerem znajdującym się w Internecie w sytuacji gdy używany jest dynamiczny NAT bez opcji overload a w puli adresów NAT dostępnych jest tylko sześć adresów?
+Żaden z użytkowników nie będzie mógł połączyć się z serwerem.
+Żądanie wszystkich siedmiu użytkowników skierowane do serwera zakończy się niepowodzeniem.
+Wszyscy użytkownicy połączą się z serwerem.
+Pierwszy użytkownik zostanie rozłączony wtedy gdy siódmy użytkownik wyśle żądanie połączenia do serwera.

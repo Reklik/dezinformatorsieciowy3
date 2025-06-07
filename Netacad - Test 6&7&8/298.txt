@@ -1,0 +1,7 @@
+X00100
+Przyjrzyj się ilustracji. Biorąc pod uwagę pokazane polecenia, ile hostów w wewnętrznej sieci LAN poza R1 może mieć jednoczesne tłumaczenia NAT na R1?
+255
+244
+1
+10
+[img]298.png[/img]

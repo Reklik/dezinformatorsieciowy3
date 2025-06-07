@@ -1,0 +1,8 @@
+X100100
+Rozważmy następującą listę dostępu. Które dwa działania są podejmowane, jeśli lista dostępu jest umieszczona jako przychodząca na routerze Gigabit Ethernet port, który ma przypisany adres IP 192.168.10.254? (Wybierz dwie odpowiedzi).
+Sesja Telnet lub SSH jest dozwolona z dowolnego urządzenia w 192.168.10.0 do routera z przypisaną tą listą dostępu.
+Urządzenia w sieci 192.168.10.0/24 nie mogą odpowiadać na żadne żądania ping.
+Urządzenia w sieci 192.168.10.0/24 mogą bezustannie skutecznie wykonywać ping do urządzenia w sieci 192.168.11.0.
+Tylko połączenia warstwy 3 mogą być wykonywane z routera do dowolnego innego urządzenia sieciowego.
+Tylko urządzenie sieciowe przypisane do adresu IP 192.168.10.1 może uzyskać dostęp do routera.
+[img]200.png[/img]

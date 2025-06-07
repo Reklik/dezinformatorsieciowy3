@@ -1,0 +1,7 @@
+X01100
+Które dwa punkty końcowe mogą znajdować się po drugiej stronie tunelu VPN typu site-to-site zestawionego z użyciem urządzenia Cisco ASA? (Wybierz dwa.)
+DSL switch
+router
+inny ASA
+multilayer switch
+Frame Relay switch

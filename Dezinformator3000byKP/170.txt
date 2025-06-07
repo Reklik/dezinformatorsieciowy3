@@ -1,0 +1,6 @@
+X0010
+Które polecenie zweryfikuje liczbę pakietów, które są dozwolone lub odrzucane przez listę ACL ograniczającą dostęp SSH?
+show running-config
+show ip interface brief
+show access-lists
+show ip ssh​

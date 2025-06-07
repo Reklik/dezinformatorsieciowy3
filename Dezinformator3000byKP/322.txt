@@ -1,0 +1,6 @@
+X0001
+Które zdanie najlepiej opisuje sieć VPN?
+VPN używają oprogramowania do wirtualizacji open source do tworzenia tunelu przez Internet.
+VPN używają dedykowanych połączeń fizycznych do przesyłania danych między użytkownikami zdalnymi.
+VPN używają połączeń logicznych do tworzenia sieci publicznych za pośrednictwem Internetu.
+VPN używają połączeń wirtualnych do tworzenia sieci prywatnej za pośrednictwem sieci publicznej.

@@ -1,0 +1,6 @@
+X0100
+Jaka jest funkcja elementu MIB w ramach systemu zarządzania siecią?
+do zbierania danych od agentów SNMP
+do przechowywania danych o urządzeniu
+do zmiany konfiguracji agentów SNMP
+do wysyłania i pobierania informacji o zarządzaniu siecią

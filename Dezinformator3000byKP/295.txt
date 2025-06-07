@@ -1,0 +1,8 @@
+X000110
+Przyjrzyj się ilustracji. Statyczny NAT jest konfigurowany, aby umożliwić komputerowi PC 1 dostęp do serwera WWW w sieci wewnętrznej. Jakie dwa adresy są potrzebne zamiast A i B, aby ukończyć statyczną konfigurację NAT? (Wybierz dwie odpowiedzi).
+A = 209.165.201.2
+B = 209.165.201.7
+B = 10.0.254.5
+B = 209.165.201.1
+A = 10.1.0.13
+[img]295.png[/img]

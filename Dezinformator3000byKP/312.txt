@@ -1,0 +1,7 @@
+X00011
+Jakie dwa algorytmy mogą być częścią polityki IPsec, aby zapewnić szyfrowanie i mieszanie w celu ochrony interesującego ruchu? (Wybierz dwie odpowiedzi).
+PSK
+DH
+RSA
+AES
+SHA

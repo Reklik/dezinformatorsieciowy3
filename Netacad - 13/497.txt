@@ -1,0 +1,6 @@
+X0100
+Jaka technologia oddziela system operacyjny od sprzętu?
+Aplikacja internetowa
+Wirtualizacja
+Dedykowane serwery
+Oprogramowanie sprzętowe

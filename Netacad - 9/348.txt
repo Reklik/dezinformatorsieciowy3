@@ -1,0 +1,5 @@
+X100
+Która wykrywa, kiedy natężenie ruchu osiąga skonfigurowaną maksymalną szybkość i zmniejsza nadmiar ruchu?
+Polityka ruchu
+Kształtowanie ruchu
+Klasyfikacja

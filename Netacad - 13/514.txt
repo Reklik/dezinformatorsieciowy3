@@ -1,0 +1,5 @@
+X010
+Ten typ SDN, scentralizowana lokalizacja jest odpowiedzialna za zarządzanie urządzeniami w całej sieci.
+SDN oparte na urządzeniu
+SDN oparte na kontrolerze
+SDN oparte na zasadach

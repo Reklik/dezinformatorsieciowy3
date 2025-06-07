@@ -1,0 +1,6 @@
+X0100
+Jaki typ VPN obsługuje wiele lokalizacji, stosując konfigurację do wirtualnych interfejsów, a nie fizycznych?
+dynamic multipoint VPN
+IPsec virtual tunnel interface
+MPLS VPN
+GRE przez IPsec

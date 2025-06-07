@@ -1,0 +1,8 @@
+X010110
+Które trzy elementy z poniższej listy są elementami triady PID (CIA)? (Wybierz trzy odpowiedzi).
+Access
+Integrity
+Scalability
+Availability
+Confidentiality
+Intervention

@@ -1,0 +1,7 @@
+X01010
+Które dwie technologie zapewniają rozwiązania VPN zarządzane przez przedsiębiorstwo? (Wybierz dwie odpowiedzi).
+MPLS VPN warstwy 2
+VPN do dostępu zdalnego
+Frame Relay
+VPN typu site-to-site
+MPLS VPN warstwy 3

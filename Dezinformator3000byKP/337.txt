@@ -1,0 +1,6 @@
+X0100
+Który algorytm kolejkowania jednocześnie planuje interaktywny ruch z przodu kolejki, aby skrócić czas reakcji?
+FIFO
+WFQ
+CBWFQ
+LLQ

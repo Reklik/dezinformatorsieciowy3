@@ -1,0 +1,6 @@
+X0010
+Menedżer sieci chce dodać znacznik czasu do komunikatów logów, aby istniał zapis, kiedy dany komunikat został wygenerowany. Jakiego polecenia powinien użyć administrator na routerze Cisco?
+show cdp interface
+ntp server 10.10.14.9
+service timestamps log datetime
+clock timezone PST -7

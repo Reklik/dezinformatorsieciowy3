@@ -1,0 +1,8 @@
+X101001
+Jakie trzy funkcje są dostarczane przez usługę syslog? (Wybierz trzy odpowiedzi).
+wybór rodzaju informacji rejestrowanych, które mają zostać przechwycone
+zapewnia analizę ruchu
+definiowanie odbiorców przechwytywanych informacji syslog
+okresowe odpytywanie agentów o dane
+dostarczanie statystyki dotyczącej pakietów przepływających przez urządzenie Cisco
+zbieranie informacji logowania do monitorowania i rozwiązywania problemów

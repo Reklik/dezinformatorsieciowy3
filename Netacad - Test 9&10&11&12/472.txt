@@ -1,0 +1,7 @@
+X00101
+Jeśli QoS jest zaimplementowany w sieci konwergentnej, które dwa czynniki mogą być kontrolowane w celu poprawy wydajności sieci dla ruchu w czasie rzeczywistym? (Wybierz dwie odpowiedzi).
+szybkość łącza
+routing pakietów
+opóźnienie
+adresowanie pakietów
+jitter

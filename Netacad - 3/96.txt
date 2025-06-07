@@ -1,0 +1,7 @@
+X01000
+Które narzędzie do testów penetracyjnych wykorzystuje schematy algorytmów do kodowania danych, które następnie uniemożliwiają dostęp do danych?
+Sniffery pakietów
+Narzędzia szyfrujące
+Narzędzia eksploracji podatności
+Narzędzia kryminalistyczne
+Debuggery

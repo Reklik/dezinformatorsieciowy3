@@ -1,0 +1,6 @@
+X0010
+Administrator sieci konfiguruje ACL w celu ograniczenia dostępu do niektórych serwerów w centrum danych. Zamiarem jest zastosowanie ACL do interfejsu podłączonego do sieci LAN centrum danych. Co się stanie, jeśli ACL zostanie nieprawidłowo zastosowana do interfejsu w kierunku przychodzącym zamiast w kierunku wychodzącym?
+Cały pozostały ruch jest zabroniony.
+Cały pozostały ruch jest dozwolony.
+ACL nie działa zgodnie z przeznaczeniem.
+ACL analizuje ruch po przekierowaniu go do interfejsu wychodzącego.

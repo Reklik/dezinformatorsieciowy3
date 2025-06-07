@@ -1,0 +1,7 @@
+X10001
+Aby nawiązać sąsiedztwo, dwa routery OSPF wymieniają pakiety hello. Które dwie wartości w pakietach hello muszą się zgadzać na obu routerach? (Wybierz dwie.)
+interwał dead
+priorytet routera
+lista sąsiadów
+identyfikator routera
+interwał hello

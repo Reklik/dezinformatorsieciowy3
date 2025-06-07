@@ -1,0 +1,6 @@
+X0010
+Gdy sieć OSPF osiągnęła zbieżność i router nie wykrył żadnej zmiany topologii, jak często będą wysyłane pakiety LSU do sąsiednich routerów?
+co 5 minut
+co 10 minut
+co 30 minut
+co 60 minut

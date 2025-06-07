@@ -1,0 +1,6 @@
+X1000
+Administrator sieci chce sprawdzić aktywne translacje NAT na routerze brzegowym. Które polecenie wykona to zadanie?
+Router# show ip nat translations
+Router# show ip nat statistics
+Router# clear ip nat translations
+Router# debug ip nat translations

@@ -1,0 +1,8 @@
+X001101
+Jakie trzy parametry powinny być zgodne, aby para routerów utworzyła przyległość, gdy uruchomiony jest OSPFv2? (Wybierz trzy odpowiedzi).
+Identyfikator routera
+Numer procesu OSPFv2
+Rodzaj sieci OSPFv2
+Interwał Hello
+Priorytet interfejsu
+Maska podsieci

@@ -1,0 +1,6 @@
+X0001
+Który termin opisuje zdolność sieci do korzystania ze wszystkich dostępnych zasobów sieciowych i zapewnienia współdzielenia obciążenia danych?
+Hierarchiczna
+Modułowa
+Stabilna
+Elastyczna

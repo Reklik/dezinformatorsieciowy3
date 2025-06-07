@@ -1,0 +1,6 @@
+X0100
+Które polecenie zastosowane na routerze OSPF spowodowałoby, że interfejs Gigabit Ethernet miałłby niższy koszt niż interfejs Fast Ethernet?
+(config-if)# bandwidth 100
+(config-router)# auto-cost reference-bandwidth 1000
+(config-if)# ip ospf cost 100
+(config-if)# ip ospf priority 1

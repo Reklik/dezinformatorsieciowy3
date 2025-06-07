@@ -1,0 +1,6 @@
+X0001
+Jaka jest jedna zaleta korzystania z NAT na brzegu sieci?
+Funkcja NAT umożliwia śledzenie przeskoków IPv4, co ułatwia rozwiązywanie problemów.
+Wydajność jest znacznie zwiększona, ponieważ router nie musi wykonywać tylu wyszukiwań tras.
+Dynamiczny NAT umożliwia urządzeniom spoza sieci lokalnej łatwe inicjowanie połączeń TCP z wewnętrznymi hostami.
+Zmiana ISP jest prostsza, ponieważ urządzenia w sieci wewnętrznej nie muszą być konfigurowane z nowymi adresami, gdy zmienia się adres zewnętrzny.

@@ -1,0 +1,6 @@
+X0100
+Jakie usługi są świadczone przez chmurę prywatną?
+Usługi online dla zaufanych dostawców
+Wiele wewnętrznych usług informatycznych w przedsiębiorstwie
+Szyfrowane przechowywanie danych w chmurze obliczeniowej
+Bezpieczna komunikacja między czujnikami i siłownikami

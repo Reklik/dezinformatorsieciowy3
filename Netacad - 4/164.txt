@@ -1,0 +1,6 @@
+X0100
+Który ruch uznawany jest za wychodzący podczas implementacji ACL na interfejsie?
+Ruch ze źródłowego IP do routera
+Ruch opuszczający router w kierunku hosta docelowego
+Ruch z docelowego adresu IP do routera
+Ruch, dla którego nie ma tras w tablicy rutingu routera

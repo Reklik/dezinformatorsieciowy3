@@ -1,0 +1,6 @@
+X0001
+Które urządzenie zostanie sklasyfikowane jako zaufany punkt końcowy?
+Przełącznik
+Router
+Zapora
+Telefon IP

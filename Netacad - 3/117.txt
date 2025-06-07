@@ -1,0 +1,7 @@
+X00100
+Który atak wykorzystuje trójetapowe uzgadnianie?
+Atak TCP RESET
+Atak UDP flood
+Atak TCP SYN Flood
+Atak DoS
+Przechwytywanie sesji TCP

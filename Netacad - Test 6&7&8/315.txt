@@ -1,0 +1,6 @@
+X0010
+Jaka jest funkcja algorytmu Diffie-Hellman w ramach IPSec?
+zapewnia uwierzytelnianie.
+zapewnia silne szyfrowanie danych
+umożliwia stronom wymianę kluczy współdzielonych
+gwarantuje integralność komunikatów

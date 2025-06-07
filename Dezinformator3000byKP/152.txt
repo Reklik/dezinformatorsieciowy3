@@ -1,0 +1,6 @@
+X0001
+Które z poniższych stwierdzeń jest najlepszą praktyką ACL?
+Zawsze testuj ACL w sieci produkcyjnej.
+Utwórz swoje ACL na routerze produkcyjnym.
+Dokumentuj listy ACL za pomocą polecenia description.
+Napisz ACL przed skonfigurowaniem go na routerze.

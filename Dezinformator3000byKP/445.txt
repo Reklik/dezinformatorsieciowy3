@@ -1,0 +1,6 @@
+X1000
+Technik komputerowy przeprowadził szereg działań w celu naprawienia problemu. Niektóre działania nie rozwiązały problemu, ale w końcu znaleziono rozwiązanie. Co powinno być udokumentowane?
+Wszystko, co zostało zrobione podczas prób rozwiązania problemu
+Tylko rozwiązanie, ponieważ rozwiązuje problem
+Tylko nieudane próby, tak aby przyszli technicy wiedzieli, czego nie próbować
+Opis problemu i rozwiązanie

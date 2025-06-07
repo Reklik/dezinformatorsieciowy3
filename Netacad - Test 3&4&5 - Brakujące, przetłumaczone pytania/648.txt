@@ -1,0 +1,6 @@
+X0100
+Użytkownik odbiera telefon od osoby, która twierdzi, że reprezentuje dział IT, i prosi o potwierdzenie nazwy użytkownika oraz hasła w celach audytowych. Jakie zagrożenie bezpieczeństwa reprezentuje ten telefon?\
+spam
+socjotechnika (social engineering)
+atak DDoS
+anonimowe rejestrowanie klawiszy (keylogging)

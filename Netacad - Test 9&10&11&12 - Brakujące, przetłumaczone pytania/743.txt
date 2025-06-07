@@ -1,0 +1,5 @@
+X100
+Jaki typ ruchu opisywany jest jako posiadający dużą ilość danych w każdym pakiecie?
+wideo
+głos
+dane

@@ -1,0 +1,7 @@
+X10010
+Jakie są dwie korzyści z rozszerzenia warstwy dostępowej (access layer) do użytkowników poprzez medium bezprzewodowe? (Wybierz dwie)
+większa elastyczność
+zwiększone możliwości zarządzania siecią
+zmniejszenie liczby krytycznych punktów awarii
+obniżenie kosztów
+zwiększona dostępność pasma (bandwidth)

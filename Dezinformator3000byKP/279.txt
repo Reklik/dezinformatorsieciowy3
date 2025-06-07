@@ -1,0 +1,9 @@
+X0001001
+Jakie opcje są dostępne dla funkcji Integralność w ramach IPsec? (Wybierz dwie odpowiedzi).
+AES
+AH
+DH24
+MD5
+PSK
+SEAL
+SHA

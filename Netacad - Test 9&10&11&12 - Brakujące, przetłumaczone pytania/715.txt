@@ -1,0 +1,6 @@
+X0001
+Które urządzenie byłoby sklasyfikowane jako zaufany punkt końcowy (trusted endpoint)?
+switch
+router
+firewall
+telefon IP

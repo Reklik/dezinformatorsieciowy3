@@ -1,0 +1,6 @@
+X0010
+Aby uniknąć zakupu nowego sprzętu, firma chce wykorzystać nieużywane zasoby systemowe i ograniczyć liczbę serwerów, umożliwiając jednocześnie działanie wielu systemów operacyjnych na jednej platformie sprzętowej. Jaka usługa lub technologia spełnia te wymagania?
+dedykowane serwery 
+Cisco ACI
+wirtualizacja
+sieci definiowane programowo

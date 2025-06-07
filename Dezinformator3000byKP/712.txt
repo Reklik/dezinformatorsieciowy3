@@ -1,0 +1,6 @@
+X0001
+Jaki termin określa zmienność opóźnień w transmisji danych?
+latency
+serialization delay
+speed mismatch
+jitter

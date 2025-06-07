@@ -1,0 +1,6 @@
+X1000
+Który atak polega na tym, że osoby atakujące ustawiają się pomiędzy źródłem a celem komunikacji, aby przezroczyście monitorować, przechwytywać i kontrolować przekazywane dane?
+atak typu man-in-the-middle
+atak SYN flood
+atak DoS
+atak ICMP

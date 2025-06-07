@@ -1,0 +1,6 @@
+X0010
+Jakie stwierdzenie jest prawdziwe na temat filtrowania pakietów?
+Rozszerzona ACL filtruje tylko w warstwie 3.
+Rozszerzona ACL filtruje tylko w warstwie 4.
+Standardowa ACL filtruje tylko w warstwie 3.
+Standardowa ACL filtruje tylko w warstwie 4.

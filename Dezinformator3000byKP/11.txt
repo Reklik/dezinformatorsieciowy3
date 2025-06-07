@@ -1,0 +1,7 @@
+X01000
+Który z poniższych jest używany w pakiecie Hello do jednoznacznej identyfikacji routera źródłowego?
+Interwał Hello
+Identyfikator routera
+Identyfikator routera desygnowanego
+Maska sieci
+Interwał Dead

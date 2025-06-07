@@ -1,0 +1,6 @@
+X0100
+Ten format danych jest samoopisowy poprzez wykorzystanie struktury data.
+HTML
+XML
+JSON
+YAML

@@ -1,0 +1,9 @@
+X0101000
+Jakie opcje są dostępne dla funkcji protokołu IPsec w ramach IPsec? (Wybierz dwie odpowiedzi).
+AES
+AH
+DH24
+ESP
+PSK
+RSA
+SHA

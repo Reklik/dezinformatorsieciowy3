@@ -1,0 +1,5 @@
+X001
+Które zapewnia zarządzanie buforami i pozwala na przepuszczenie ruchu TCP przed wyczerpaniem buforów?
+Polityka ruchu
+802.1Q
+WRED

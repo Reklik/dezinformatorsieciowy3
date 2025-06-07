@@ -1,0 +1,6 @@
+X0100
+Jaki typ ruchu jest opisywany jako nieprzewidywalny, niespójny i występujący w postaci nagłych zrywów?
+Audio
+Wideo
+Dane
+Głos

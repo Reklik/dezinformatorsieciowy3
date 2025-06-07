@@ -1,0 +1,6 @@
+X1000
+Który typ ruchu jest zwykle traktowany na najbardziej preferencyjnych warunkach w stosunku do całego innego ruchu aplikacji w modelach QoS?
+Ruch głosowy
+E-mail
+Ruch internetowy
+Transfery plików

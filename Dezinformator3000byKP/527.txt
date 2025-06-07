@@ -1,0 +1,6 @@
+X1000
+W architekturze sieci zdefiniowanej programowo, jaka funkcja jest usuwana z urządzeń sieciowych i wykonywana przez kontroler SDN?
+Płaszczyzna sterowania
+Płaszczyzna danych
+Zabezpieczenia
+Zasady aplikacji

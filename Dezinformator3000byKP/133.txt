@@ -1,0 +1,6 @@
+X1000
+Jaki rodzaj złośliwego oprogramowania ma główny cel rozprzestrzenianie się w sieci?
+Worm (Robak)
+Wirus
+Koń trojański
+Botnet

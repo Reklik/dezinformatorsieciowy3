@@ -1,0 +1,6 @@
+X0100
+Jaki mechanizm kompensuje jitter w strumieniu audio poprzez buforowanie pakietów, a następnie odtwarzanie ich wychodzących w stałym strumieniu?
+Cyfrowy procesor sygnału
+Bufor opóźnienia odtwarzania
+Kodek głosowy
+WFQ

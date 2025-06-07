@@ -1,0 +1,5 @@
+X010
+Które określa, do jakiej klasy należą pakiety ruchu lub ramki.
+Znakowanie
+Klasyfikacja
+Kształtowanie ruchu

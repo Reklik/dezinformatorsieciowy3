@@ -1,0 +1,6 @@
+X1000
+Jaka jest zalecana najlepsza praktyka Cisco dotycząca konfigurowania routera z włączonym OSPF, aby każdy router można było łatwo zidentyfikować podczas rozwiązywania problemów z routowaniem?
+Skonfiguruj wartość za pomocą polecenia router-id.
+Użyj najwyższego aktywnego adresu IP interfejsu skonfigurowanego na routerze.
+Użyj interfejsu loopback skonfigurowanego z najwyższym adresem IP na routerze.
+Użyj najwyższego adresu IP przypisanego do aktywnego interfejsu biorącego udział w procesie routingu.

@@ -1,0 +1,4 @@
+X10
+Która lista ACL może filtrować w oparciu o numer portu TCP?
+Rozszerzona lista ACL
+Standardowa lista ACL

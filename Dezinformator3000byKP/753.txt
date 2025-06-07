@@ -1,0 +1,6 @@
+X0010
+Która możliwość przetwarzania w chmurze zapewniałaby korzystanie ze sprzętu sieciowego, takiego jak routery i przełączniki, dla danej firmy?
+software as a service (SaaS)
+wireless as a service (WaaS)
+infrastructure as a service (IaaS)
+browser as a service (BaaS)

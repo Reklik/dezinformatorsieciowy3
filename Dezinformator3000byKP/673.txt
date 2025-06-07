@@ -1,0 +1,8 @@
+X000011
+Które dwa stwierdzenia trafnie opisują zaletę lub wadę stosowania NAT dla IPv4 w sieci? (Wybierz dwa.)
+NAT poprawia obsługę pakietów.
+NAT dodaje możliwość uwierzytelniania do IPv4.
+NAT ma negatywny wpływ na wydajność przełączników.
+NAT powoduje, że tabele routingu zawierają więcej informacji.
+NAT zapewnia rozwiązanie spowalniające wyczerpywanie się adresów IPv4.
+NAT wprowadza problemy dla niektórych aplikacji wymagających połączenia typu end-to-end.

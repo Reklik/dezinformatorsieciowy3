@@ -1,0 +1,6 @@
+X0100
+Która operacja RESTFul odpowiada metodzie HTTP GET?
+post
+read
+patch
+update

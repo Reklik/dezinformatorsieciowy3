@@ -1,0 +1,6 @@
+X0001
+Co to jest JSON?
+To baza danych.
+Jest to język skryptowy.
+Jest to skompilowany język programowania.
+Jest to format danych do przechowywania i transportu danych.

@@ -1,0 +1,8 @@
+X001010
+W jakich dwóch warstwach modelu OSI technologie WAN zapewniają usługi? (Wybierz dwie odpowiedzi).
+Warstwa sieci
+Warstwa sesji
+Warstwa fizyczna
+Warstwa transportowa
+Warstwa łącza danych
+Warstwa prezentacji

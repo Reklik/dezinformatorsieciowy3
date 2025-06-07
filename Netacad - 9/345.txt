@@ -1,0 +1,5 @@
+X001
+Który model QoS zapewnia wiele różnych poziomów jakości?
+Najlepszych starań (best-effort)
+Usługi zintegrowane (IntServ)
+Usługi zróżnicowane (DiffServ)

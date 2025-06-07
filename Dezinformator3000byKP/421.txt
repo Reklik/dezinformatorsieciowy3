@@ -1,0 +1,6 @@
+X0100
+Który diagram topologii wyświetla adresy IP?
+Topologia IP
+Topologia logiczna
+Topologia fizyczna
+Topologia portów

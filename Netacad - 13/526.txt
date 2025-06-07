@@ -1,0 +1,8 @@
+X111000
+Jakie są trzy warstwy abstrakcji systemu komputerowego? (Wybierz trzy odpowiedzi).
+Sprzęt
+Oprogramowanie sprzętowe
+Usługi
+Zabezpieczenia
+Sieć
+Dane

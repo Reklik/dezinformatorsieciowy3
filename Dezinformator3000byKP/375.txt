@@ -1,0 +1,6 @@
+X1000
+Jakie polecenie musi zostać wydane na routerze Cisco, który będzie służyć jako autorytatywny serwer NTP?
+ntp master 1
+ntp server 172.16.0.1
+ntp broadcast client
+clock set 11:00:00 DEC 20 2010

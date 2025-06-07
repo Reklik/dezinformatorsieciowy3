@@ -1,0 +1,5 @@
+X001
+Która warstwa sieci zapewnia użytkownikowi bezpośrednią, przełączaną łączność sieciową?
+Szkieletowa
+Dystrybucji
+Dostępu

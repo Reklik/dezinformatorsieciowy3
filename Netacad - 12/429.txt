@@ -1,0 +1,7 @@
+X00010
+Na etapie zbierania informacji, które polecenie wyświetli skonfigurowane protokoły oraz globalny i specyficzny dla interfejsu stan dowolnego skonfigurowanego protokołu warstwy 3?
+Show interface
+Show ip interface brief
+Show ip protocols
+Show protocols
+Show version

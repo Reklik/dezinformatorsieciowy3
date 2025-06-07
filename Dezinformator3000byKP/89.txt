@@ -1,0 +1,6 @@
+X0001
+Który termin zabezpieczeń jest używany do opisania prawdopodobieństwa zagrożenia wykorzystania podatności zasobu, w celu negatywnego wpływu na organizację?
+Podatność
+Exploit
+Zagrożenie
+Ryzyko

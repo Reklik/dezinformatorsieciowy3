@@ -1,0 +1,6 @@
+X0100
+Który mechanizm kolejki obsługuje klasy ruchu zdefiniowane przez użytkownika?
+FIFO
+CBWFQ
+WFQ
+FCFS

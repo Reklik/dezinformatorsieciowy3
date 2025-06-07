@@ -1,0 +1,6 @@
+X0010
+Jaka topologia fizyczna będzie najlepsza pod względem ekonomicznym dla sieci kampusowej, składającej się z 3 budynków?
+Magistrali
+Siatki
+Rozszerzonej gwiazdy
+Podwójnego pierścienia

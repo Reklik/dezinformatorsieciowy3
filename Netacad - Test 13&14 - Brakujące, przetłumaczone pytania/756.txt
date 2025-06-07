@@ -1,0 +1,6 @@
+X0100
+Firma niedawno stała się międzynarodowa. Pracownicy pracują zdalnie, w różnych strefach czasowych i potrzebują dostępu do usług firmy z dowolnego miejsca i o każdej porze. Jaka usługa lub technologia wspierałaby to wymaganie?
+dedykowane serwery
+usługi chmurowe (cloud services)
+Cisco ACI
+wirtualizacja

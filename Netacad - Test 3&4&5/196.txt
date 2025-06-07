@@ -1,0 +1,7 @@
+X00011
+Administrator sieci musi skonfigurować standardową listę ACL tak, że tylko stacja robocza administratora z adresem IP 192.168.15.23 może uzyskać dostęp do terminala wirtualnego na głównym routerze. Które dwa polecenia konfiguracyjne mogą wykonać to zadanie? (Wybierz dwie odpowiedzi).
+Router1(config)# access-list 10 permit 192.168.15.23 0.0.0.255
+Router1(config)# access-list 10 permit 192.168.15.23 255.255.255.0
+Router1(config)# access-list 10 permit 192.168.15.23 255.255.255.255
+Router1(config)# access-list 10 permit 192.168.15.23 0.0.0.0
+Router1(config)# access-list 10 permit host 192.168.15.23

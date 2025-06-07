@@ -1,0 +1,6 @@
+X0010
+Co wskazuje routerowi stanu łącza, że sąsiad jest nieosiągalny?
+jeśli router otrzymuje LSP z wcześniej poznanymi informacjami
+jeśli router nie otrzymuje już aktualizacji routingu
+jeśli router nie odbiera już pakietów hello
+jeśli router otrzyma aktualizację z liczbą przeskoków 16

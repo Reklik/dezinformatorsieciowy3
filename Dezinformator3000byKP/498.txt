@@ -1,0 +1,6 @@
+X0010
+Jakie urządzenie wykorzystuje całą pamięć RAM, moc obliczeniową i miejsce na dysku twardym poświęcone jednej usłudze?
+Maszyna wirtualna
+Hiperwizor typu 1
+Serwer dedykowany
+Serwer zwirtualizowany

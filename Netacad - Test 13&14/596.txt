@@ -1,0 +1,6 @@
+X0100
+Co to jest YAML?
+Jest to język skryptowy.
+Jest to format danych i uogólnienie JSON.
+Jest to aplikacja internetowa.
+Jest to kompilowalny język programowania.

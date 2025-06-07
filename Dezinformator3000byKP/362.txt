@@ -1,0 +1,6 @@
+X0010
+Który model QoS jest bardzo zasobochłonny i zapewnia najwyższą gwarancję QoS?
+DiffServ
+Best-effort
+IntServ
+Miękkie QoS

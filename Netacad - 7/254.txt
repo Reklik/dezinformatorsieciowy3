@@ -1,0 +1,6 @@
+X0100
+Które zdanie opisuje charakterystykę sieci WAN?
+WAN działa na tym samym obszarze geograficznym co sieć LAN, ale zawiera łącza szeregowe.
+Sieć WAN jest własnością dostawcy usług internetowych.
+Wszystkie łącza szeregowe są uważane za połączenia WAN.
+WAN zapewnia połączenie użytkownika końcowego do sieci szkieletowej kampusu.

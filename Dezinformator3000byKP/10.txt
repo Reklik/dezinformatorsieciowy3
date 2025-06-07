@@ -1,0 +1,7 @@
+X00001
+Który z poniższych pakietów OSPF jest używany do potwierdzania odbioru LSA?
+Typ 1: Pakiet Hello
+Typ 2: Pakiet DBD
+Typ 3: Pakiet LSR
+Typ 4: Pakiet LSU
+Typ 5: Pakiet LSAck

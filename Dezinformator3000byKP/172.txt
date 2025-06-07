@@ -1,0 +1,6 @@
+X0001
+Podczas konfigurowania zabezpieczeń routera, która instrukcja opisuje najskuteczniejszy sposób użycia ACL do sterowania ruchem Telnet kierowanym do samego routera?
+ACL musi być stosowany indywidualnie do każdej linii vty.
+ACL jest stosowany do portu Telnet za pomocą polecenia ip access-group.
+Zastosuj ACL do wierszy vty bez opcji in lub out wymaganej podczas stosowania ACL na interfejsach.
+Lista ACL powinna być stosowana do wszystkich linii vty w kierunku in, aby uniemożliwić niepożądanemu użytkownikowi podłączenie się do niezabezpieczonego portu

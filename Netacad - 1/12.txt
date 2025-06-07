@@ -1,0 +1,9 @@
+X0010000
+W tym stanie protokołu OSPF w sieciach wielodostępowych routery wybierają router desygnowany (DR) i zapasowy router desygnowany (BDR).
+Stan Down
+Stan Init
+Stan Two-Way
+Stan ExStart
+Stan Exchange
+Stan Loading
+Stan Full

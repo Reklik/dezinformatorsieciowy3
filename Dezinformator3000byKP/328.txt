@@ -1,0 +1,5 @@
+X100
+Co się dzieje, gdy występuje zatory?
+Utrata pakietów
+Jitter
+Opóźnienie kodu

@@ -1,0 +1,6 @@
+X1000
+Technik ma za zadanie zabezpieczyć router za pomocą list ACL. Kiedy użyje opcji lub polecenia access-class 20 in?
+aby zabezpieczyć dostęp administracyjny do routera
+aby usunąć ACL z interfejsu
+aby usunąć skonfigurowaną ACL
+aby zastosować standardową ACL do interfejsu

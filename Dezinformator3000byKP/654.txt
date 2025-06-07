@@ -1,0 +1,6 @@
+X1000
+Co jest cechą systemu IPS (Intrusion Prevention System)?
+Może zatrzymywać złośliwe pakiety.
+Jest wdrażany w trybie offline.
+Nie ma wpływu na opóźnienia.
+Jest głównie skoncentrowany na identyfikowaniu możliwych incydentów.

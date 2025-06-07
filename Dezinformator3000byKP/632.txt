@@ -1,0 +1,7 @@
+X01000
+Dział IT zgłasza, że firmowy serwer WWW otrzymuje nienaturalnie dużą liczbę żądań stron internetowych z różnych lokalizacji jednocześnie. Jaki typ ataku bezpieczeństwa ma miejsce?
+adware
+DDoS
+phishing
+social engineering
+spyware

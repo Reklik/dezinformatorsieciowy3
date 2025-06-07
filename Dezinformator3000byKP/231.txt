@@ -1,0 +1,6 @@
+X0100
+Jaka jest cecha bezpieczeństwa przy stosowaniu NAT w sieci?
+Pozwala na ukrycie zewnętrznych adresów IP przed wewnętrznymi użytkownikami
+Pozwala na ukrycie wewnętrznych adresów IP przed zewnętrznymi użytkownikami
+Odrzuca wszystkie pakiety, które pochodzą z prywatnych adresów IP
+Blokuje wszystkie wewnętrzne hosty przy komunikacji poza ich własną sieć

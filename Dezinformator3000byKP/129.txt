@@ -1,0 +1,7 @@
+X10000
+Która metoda szyfrowania jest szyfrem strumieniowym i jest używana do zabezpieczania ruchu internetowego w SSL i TLS?
+Rivest Cipher
+Potrójny DES
+Symetryczna
+Szyfr blokowy
+Data Encryption Standard

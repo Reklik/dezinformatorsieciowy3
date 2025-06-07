@@ -1,0 +1,7 @@
+X00010
+Odwołując się do schematu: tylko autoryzowani zdalni użytkownicy powinni mieć dostęp do firmowego serwera 192.168.30.10. Jaki typ listy ACL i jej umiejscowienie będzie najlepszy w tej sytuacji?
+rozszerzone ACL przychodzące na interfejsach G0/0 i G0/1 routera R1
+rozszerzona ACL wychodząca na interfejsie WAN routera R2 w kierunku Internetu
+rozszerzona ACL przychodząca na interfejsie S0/0/0 routera R2
+rozszerzona ACL przychodząca na interfejsie WAN routera R2 połączonym z Internetem
+[img]668.png[/img]

@@ -1,0 +1,9 @@
+X1000000
+Przyjrzyj się ilustracji. Na którym routerze lub routerach domyślna trasa zostanie skonfigurowana statycznie w środowisku korporacyjnym, które używa OSPF z jednym obszarem jako protokołu routingu?
+R0-A
+R0-A, R0-B i R0-C
+ISP
+ISP, R0-A, R0-B i R0-C
+R0-B i R0-C
+ISP i R0-A
+[img]71.png[/img]

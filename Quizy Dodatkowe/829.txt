@@ -1,0 +1,6 @@
+X0001
+Które rozwiązanie projektu sieci najlepiej rozszerzy łączność warstwy dostępu do hostów?
+implementacja EtherChannel
+implementacja protokołów routingu
+implementacja nadmiarowości
+implementacja łączności bezprzewodowej

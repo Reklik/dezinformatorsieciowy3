@@ -1,0 +1,6 @@
+X0010
+Firma korzysta z systemu płac w chmurze. Z jakiej technologii przetwarzania w chmurze korzysta ta firma?
+Przeglądarka jako usługa (BaaS)
+Infrastruktura jako usługa (IaaS)
+Oprogramowanie jako usługa (SaaS)
+Bezprzewodowy jako usługa (WaaS)

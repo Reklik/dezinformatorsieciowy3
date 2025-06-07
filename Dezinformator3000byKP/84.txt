@@ -1,0 +1,6 @@
+X0010
+Który termin bezpieczeństwa jest używany do opisania wszystkiego co ma wartość dla organizacji? Obejmuje to ludzi, sprzęt, wyposażenie i dane.
+Podatność
+Exploit
+Zasób
+Ryzyko

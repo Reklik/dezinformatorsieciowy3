@@ -1,0 +1,7 @@
+X00010
+Przyjrzyj się ilustracji. Dlaczego routery R1 i R2 nie są w stanie ustanowić relacji przylegania OSPF?
+Numery procesów nie są takie same w obu routerach.
+Router szkieletu nie może ustanowić sąsiedztwa z routerem ABR.
+Wartości ID routera nie są takie same na obu routerach.
+Interfejsy szeregowe nie znajdują się w tym samym obszarze.
+[img]489.png[/img]

@@ -1,0 +1,8 @@
+X101010
+Które trzy stwierdzenia opisują poprawnie cechy tablicy topologii OSPF? (Wybierz trzy odpowiedzi).
+Tablica topologii to baza danych stanu łącza, która reprezentuje topologię sieci.
+Zawartość tablicy tooplogii jest wynikiem działania algorytmu SPF.
+Po osiągnięciu zbieżności sieci wszystkie routery w danym obszarze mają identyczne tablice tooplogii.
+Tablica topologii zawiera trasy dopuszczalnego sukcesora.
+Tablica może być wyświetlana za pomocą polecenia show ip ospf database.
+Po osiągnięciu zbieżności sieci, tablica zawiera tylko wpisy o najniższych kosztach do wszystkich znanych sieci.

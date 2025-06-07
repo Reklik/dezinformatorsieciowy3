@@ -1,0 +1,6 @@
+X0010
+Jaki typ protokołu to GRE?
+Protokół bezpieczeństwa
+Protokół pasażera
+Protokół przewoźnika
+Protokół transportowy

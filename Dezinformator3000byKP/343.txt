@@ -1,0 +1,5 @@
+X010
+Który model QoS zapewnia kontrolę dopuszczenia zasad na żądanie?
+Najlepszych starań (best-effort)
+Usługi zintegrowane (IntServ)
+Usługi zróżnicowane (DiffServ)

@@ -1,0 +1,7 @@
+X10110
+Która cecha najlepiej opisuje płaszczyznę sterowania urządzenia sieciowego? (Wybierz trzy odpowiedzi).
+Informacje wysyłane do tej płaszczyzny są przetwarzane przez procesor.
+Ta płaszczyzna jest również nazywana płaszczyzną przekazywania.
+Ta płaszczyzna podejmuje decyzje dotyczące przekazywania.
+Płaszczyzna ta zawiera tablice sąsiadów protokołu routera i tabele topologii.
+Płaszczyzna ta jest odpowiedzialna za przełączanie ramek na interfejsy.

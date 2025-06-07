@@ -1,0 +1,6 @@
+X0100
+Które stwierdzenie najlepiej opisuje działanie SNMP?
+Agenci SNMP wykorzystują żądanie get w celu ustalenia stanu urządzenia.
+Oprogramowanie do zarządzania siecią (NMS) wykorzystuje zapytanie set do zmiany konfiguracyjnej na zarządzanym urządzeniu.
+Oprogramowanie do zarządzania siecią (NMS) okresowo odpytuje agentów SNMP (rezydujących na zarządzanych urządzeniach) za pomocą tzw. pułapek (traps) w celu uzyskania informacji o stanie urządzenia.
+Agent SNMP, rezydujący na zarządzanym urządzeniu, zbiera informacje na temat stanu urządzenia i przechowuje je w lokalizacji zdalnej zwanej MIB umieszczonej na serwerze oprogramowanie do zarządzania siecią (NMS). ​

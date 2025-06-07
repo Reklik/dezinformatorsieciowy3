@@ -1,0 +1,6 @@
+X1000
+Która funkcja bezpieczeństwa IPsec zapewnia, że dane otrzymane przez VPN nie zostały zmodyfikowane podczas przesyłania?
+integralność
+bezpieczna wymiana kluczy
+poufność
+uwierzytelnianie

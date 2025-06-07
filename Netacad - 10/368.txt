@@ -1,0 +1,4 @@
+X01
+Który protokół działa z urządzeniami sieciowymi, takimi jak routery, przełączniki i punkty dostępu do bezprzewodowej sieci LAN w urządzeniach wielu producentów?
+CDP
+LLDP

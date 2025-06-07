@@ -1,0 +1,7 @@
+X00100
+Przyjrzyj się ilustracji. Nowa zasada sieciowa wymaga, aby lista ACL odmawiała dostępu FTP i Telnet do serwera plików Corp od wszystkich wewnętrznych. Adres serwera plików to 172.16.1.15, a wszyscy wewnętrzni mają przypisane adresy w sieci 172.18.200.0/24. Po wdrożeniu ACL nikt w sieci Corp nie może uzyskać dostępu do żadnego z serwerów. Gdzie leży problem?
+Nazwane ACL wymagają użycia numerów portów.
+Przychodzące ACL muszą być przekierowane, zanim zostaną przetworzone.
+ACL niejawnie odmawia dostępu do wszystkich serwerów.
+Lista ACL jest stosowana do interfejsu w złym kierunku.
+[img]195.png[/img]

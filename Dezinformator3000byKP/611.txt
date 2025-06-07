@@ -1,0 +1,6 @@
+X0100
+Który krok wykonuje router z włączonym OSPF natychmiast po nawiązaniu sąsiedztwa z innym routerem?
+buduje tabelę topologii
+wymienia reklamy stanu łącza (LSA)
+wybiera najlepszą ścieżkę
+wykonuje algorytm SPF

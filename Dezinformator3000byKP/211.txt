@@ -1,0 +1,7 @@
+X00010
+Przyjrzyj się ilustracji. Dyrektor generalny firmy domaga się utworzenia jednej ACL, aby zezwolić na ruch pocztowy do Internetu i odmówić dostępu FTP. Jaki jest najlepszy typ ACL i umieszczenie w tej sytuacji?
+standardowa ACL na wejściu interfejsu R2 WAN łączący się z internetem
+standardowa ACL na wyjściu R2 S0/0/0
+rozszerzona ACL na wejściu R2 S0/0/0
+rozszerzona ACL na wyjściu interfejsu R2 WAN w kierunku internetu
+[img]211.png[/img]

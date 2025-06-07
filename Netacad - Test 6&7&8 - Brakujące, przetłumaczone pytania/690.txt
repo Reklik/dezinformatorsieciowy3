@@ -1,0 +1,4 @@
+X10
+Jaki typ adresu reprezentuje 10.100.126.126?
+private
+public

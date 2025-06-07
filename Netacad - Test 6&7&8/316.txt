@@ -1,0 +1,7 @@
+X00100
+Przyjrzyj się ilustracji. Administrator sieci wyświetla dane wyjściowe polecenia show ip nat translations. Które stwierdzenie poprawnie opisuje tłumaczenie NAT występujące na routerze RT2?
+Ruch ze źródłowego adresu IPv4 192.0.2.88 jest tłumaczony przez router RT2, aby osiągnąć docelowy adres IPv4 192.168.254.253.
+Ruch ze źródłowego adresu IPv4 192.168.2.20 jest tłumaczony przez router RT2, aby osiągnąć docelowy adres IPv4 192.0.2.254.
+Ruch ze źródłowego adresu IPv4 192.168.254.253 jest tłumaczony na 192.0.2.88 za pomocą statycznego NAT.
+Ruch ze źródłowego adresu publicznego IPv4 pochodzącego z Internetu, będzie mógł dotrzeć do prywatnych wewnętrznych adresów IPv4
+[img]316.png[/img]

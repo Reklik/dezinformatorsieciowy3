@@ -1,0 +1,7 @@
+X00010
+Przyjrzyj się ilustracji. Administrator sieci skonfigurował listę ACL 9, jak pokazano. Użytkownicy sieci 172.31.1.0 /24 nie mogą przesyłać ruchu za pośrednictwem routera Ciscoville. Jaka jest najbardziej prawdopodobna przyczyna awarii ruchu sieciowego?
+Numer portu dla ruchu nie został zidentyfikowany za pomocą słowa kluczowego eq .
+Słowo kluczowe established nie jest podane.
+Instrukcja zezwolenia określa niepoprawną maskę blakietową.
+Kolejność ACE jest nieprawidłowa.
+[img]190.png[/img]

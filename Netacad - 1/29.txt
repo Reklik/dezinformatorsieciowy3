@@ -1,0 +1,7 @@
+X00110
+Jakie są dwa powody tworzenia sieci OSPF z wieloma obszarami? (Wybierz dwie odpowiedzi).
+Aby zapewnić obszary w sieci dla routerów, które nie mają uruchomionego OSPF
+Aby zapewnić, że obszar jest używany do połączenia sieci z Internetem
+Aby zmniejszyć obliczenia SPF
+Aby zmniejszyć wykorzystanie zasobów pamięci i procesora
+Aby uprościć konfigurację

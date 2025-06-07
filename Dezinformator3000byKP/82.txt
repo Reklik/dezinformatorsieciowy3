@@ -1,0 +1,6 @@
+X0100
+Który krok w procesie routingu stanu łącza jest opisany przez router budujący bazę danych stanu łącza w oparciu o otrzymane LSD?
+równoważenie obciążenia poprzez ścieżki o równym koszcie
+tworzenie tablicy topologii
+wykonanie algorytmu SPF
+uznanie sąsiada za niedostępnego

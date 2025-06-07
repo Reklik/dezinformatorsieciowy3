@@ -1,0 +1,5 @@
+X001
+Jaki typ ruchu wymaga, aby opóźnienie (latency) nie przekraczało 400 milisekund (ms)?
+głos
+dane
+wideo

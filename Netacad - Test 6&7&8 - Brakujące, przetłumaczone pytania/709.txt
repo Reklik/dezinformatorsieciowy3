@@ -1,0 +1,4 @@
+X01
+Jaki typ adresu reprezentuje 198.133.219.148?
+Private
+Public

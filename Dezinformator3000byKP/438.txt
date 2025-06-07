@@ -1,0 +1,7 @@
+X01000
+Która warstwa OSI rozwiązywania problemów podczas badania pętli spanning-tree?
+Aplikacji
+Łącza danych
+Sieci
+Fizyczna
+Transportowa

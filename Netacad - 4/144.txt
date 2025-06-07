@@ -1,0 +1,6 @@
+X1000
+Jak nazwywane są instrukcje zezwolenia lub odmówy w ACL?
+ACE
+ASE
+CCE
+CSE

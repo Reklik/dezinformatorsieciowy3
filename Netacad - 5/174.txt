@@ -1,0 +1,6 @@
+X0001
+Jaki jest efekt zastosowania tego polecenia listy dostępu? Rozważmy polecenie listy dostępu zastosowane na interfejsie szeregowym routera - access-list 100 deny icmp 192.168.10.0 0.0.0.255 any echo reply
+Jedynym odrzucanym ruchem jest ruch oCzęśćy na protokole ICMP. Cały inny ruch jest dozwolony.
+Jedyny ruch odrzucony to echo odpowiedzi pochodzące z sieci 192.168.10.0/24. Cały inny ruch jest dozwolony.
+Użytkownicy sieci 192.168.10.0/24 nie mogą przesyłać ruchu do innego miejsca docelowego.
+Żaden ruch wychodzący przez interfejs szeregowy nie będzie dozwolony.

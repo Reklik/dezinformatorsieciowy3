@@ -1,0 +1,6 @@
+X0100
+Który typ sieci VPN jest zarządzany przez dostawcę usług VPN?
+VPN typu site-to-site
+Warstwa 3 MPLS VPN
+VPN do dostępu zdalnego
+GRE przez IPsec VPN

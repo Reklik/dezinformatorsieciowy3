@@ -1,0 +1,8 @@
+X001000
+Przyjrzyj się ilustracji. Lista ACL została skonfigurowana na R1 z zamiarem odmowy ruchu z podsieci 172.16.4.0/24 do podsieci 172.16.3.0/24. Cały inny ruch do podsieci 172.16.3.0/24 powinien być dozwolony. Ta standardowa lista ACL została następnie zastosowana dla ruchu wychodzącego na interfejsie Fa0/0. Jaki wniosek można wyciągnąć z tej konfiguracji?​
+Listę ACL należy stosować na wyjściu wszystkich interfejsów R1.
+Aby spełnić wymagania, należy zastosować ACL na wejściu interfejsu FastEthernet 0/0 R1.
+Cały ruch zostanie zablokowany, a nie tylko ruch z podsieci 172.16.4.0/24.
+W takiej sytuacji należy zastosować rozszerzoną ACL.
+Tylko ruch z podsieci 172.16.4.0/24 jest zablokowany, a cały inny ruch jest dozwolony.​
+[img]191.png[/img]

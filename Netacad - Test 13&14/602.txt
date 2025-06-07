@@ -1,0 +1,6 @@
+X1000
+Co to jest REST?
+Jest to styl architektury do projektowania aplikacji usług internetowych.
+Jest to czytelna dla człowieka struktura danych, która jest używana przez aplikacje do przechowywania, przekształcania i odczytywania danych.
+Jest to sposób na przechowywanie i wymianę danych w ustrukturyzowanym formacie.
+Jest to protokół, który umożliwia administratorom zarządzanie węzłami w sieci IP.

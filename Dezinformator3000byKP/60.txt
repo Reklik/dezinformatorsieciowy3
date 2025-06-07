@@ -1,0 +1,6 @@
+X0010
+Jaka jest korzyść z wieloobszarowego routingu OSPF?
+Automatyczna sumaryzacja tras odbywa się domyślnie między obszarami.
+Obszar szkieletowy nie jest wymagany.
+Zmiany topologii w jednym obszarze nie powodują ponownych obliczeń SPF w innych obszarach.
+Routery we wszystkich obszarach współużytkują tę samą bazę danych stanu łączy i mają pełny obraz całej sieci.

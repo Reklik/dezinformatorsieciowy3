@@ -1,0 +1,6 @@
+X0100
+Co zostanie wybrane, jako pierwsze, podczas ustalania ID routera OSPF?
+specyficznie skonfigurowany interfejs z najwyższym adres IP, biorący udział w procesie routingu network wyrażenie
+dowolny adres IP, skonfigurowany przy użyciu komendy router-id
+interfejs loopback, skonfigurowany z najwyższym adresem IP
+najwyższy skonfigurowany adres IP na którymkolwiek z aktywnych interfejsów

@@ -1,0 +1,6 @@
+X0010
+Który protokół jest atakowany, gdy cyberprzestępca dostarcza nieprawidłową bramę w celu przeprowadzenia ataku typu man-in-the-middle?
+ICMP
+HTTP lub HTTPS
+DHCP
+DNS

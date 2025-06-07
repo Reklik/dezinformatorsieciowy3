@@ -1,0 +1,6 @@
+X0001
+Jaką komendę powinien wydać inżynier sieciowy, aby zweryfikować skonfigurowane interwały hello i dead na łączu punkt-punkt WAN pomiędzy dwoma routerami obsługującymi OSPFv2?
+show ip ospf interface fastethernet 0/1
+show ipv6 ospf interface serial 0/0/0
+show ip ospf neighbor
+show ip ospf interface serial 0/0/0

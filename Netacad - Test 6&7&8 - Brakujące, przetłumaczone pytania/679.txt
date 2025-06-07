@@ -1,0 +1,7 @@
+X00010
+Odwołując się do schematu: jaki adres źródłowy jest używany przez router R1 dla pakietów przesyłanych do Internetu?
+10.6.15.2
+209.165.202.141
+198.51.100.3
+209.165.200.225
+[img]679.png[/img]

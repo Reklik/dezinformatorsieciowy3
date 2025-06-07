@@ -1,0 +1,6 @@
+X0010
+Które stwierdzenie dotyczące wieloobszarowego protokołu OSPF jest poprawne?
+OSPF może skonsolidować wiele obszarów w jeden duży.
+Wszystkie routery działają w jednym obszarze, nazywanym szkieletowym (backbone area 0).
+Rozdzielenie całego systemu autonomicznego na mniejsze obszary pozwala zmniejszyć obciążenia na routerach.
+Wieloobszarowy OSPF wymusza częstsze obliczenia SPF.

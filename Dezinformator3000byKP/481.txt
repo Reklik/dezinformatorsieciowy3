@@ -1,0 +1,6 @@
+X0100
+Projektant sieci rozważa wdrożenie bloku przełączników w sieci firmowej. Jaka jest główna zaleta korzystania z bloku przełączników?
+Jest to zabezpieczenie, które jest dostępne na wszystkich nowych przełącznikach Catalyst.
+Awaria całego bloku przełączników nie będzie miała wpływu na użytkowników końcowych.
+Jest to oprogramowanie chroniące przed awarią pojedynczego urządzenia sieciowego.
+Pojedynczy router w warstwie szkieletowej zapewnia routing między sieciami VLAN.

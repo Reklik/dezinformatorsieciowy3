@@ -1,0 +1,6 @@
+X0001
+Który typ przełącznika obsługuje protokoły routingu i może przesyłać dalej pakiety IP w pobliżu poziomu 2 prędkości przesyłania dalej?
+Modułowe
+Piętrowe (stackable)
+Zarządzane w chmurze
+Wielowarstwowe

@@ -1,0 +1,6 @@
+X1000
+Jaką istotną cechę ma złośliwe oprogramowanie typu wirus?
+Wirus jest wywoływany przez zdarzenie w systemie hosta.
+Po zainstalowaniu w systemie hosta wirus automatycznie rozprzestrzenia się do innych systemów.
+Wirus może wykonać kod niezależnie od systemu hosta.
+Wirus jest dystrybuowany tylko przez Internet.

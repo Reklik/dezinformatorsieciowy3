@@ -1,0 +1,7 @@
+X00100
+Przyjrzyj się komendom. Co można wywnioskować na ich podstawie?
+W ACL brakuje wpisu denny ip any any.
+Lista monitoruje tylko ruch skierowany na adres 10.23.77.101 z trzech wyselekcjonowanych hostów.
+Przez router nie zostały wysłane pakiety protokołu Telnet z adresu 10.35.80.22 do 10.23.77.101.
+Ponieważ nie ma dopasowania do linii 10, ACL nie działa.
+[img]201.png[/img]

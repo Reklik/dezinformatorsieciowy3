@@ -1,0 +1,6 @@
+X0010
+Jako administrator sieci, zostałeś poproszony o wdrożenie EtherChannel do sieci korporacyjnej. Z czego składa się taka konfiguracja?
+grupowanie dwóch urządzeń, aby współdzieliły wirtualny adres IP
+zapewnianie urządzeń nadmiarowych, w celu utrzymania przepływu danych w razie usterki urządzenia.
+grupowanie wielu fizycznych portów dla zwiększenia pasma pomiędzy dwoma przełącznikami.
+zapewnienie łączy nadmiarowych dynamicznie blokujących lub przekierowujących ruch

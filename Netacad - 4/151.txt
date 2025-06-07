@@ -1,0 +1,7 @@
+X00010
+Ile łącznie ACL (zarówno IPv4, jak i IPv6) można skonfigurować na interfejsie?
+0
+1
+2
+4
+8

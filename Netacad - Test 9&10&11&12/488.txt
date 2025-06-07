@@ -1,0 +1,6 @@
+X0010
+Jaka jest zasada stosowana, gdy technik sieciowy rozwiązuje problem z awarią sieci za pomocą metody dziel i rządź?
+Po sprawdzeniu, czy komponent w danej warstwie działa prawidłowo, testy mogą być następnie wykonywane na dowolnej innej warstwie.
+Testowanie odbywa się w warstwie 7 i w warstwie 1, następnie w Warstwach 6 i 2 itd., Pracując w kierunku środka stosu, dopóki wszystkie warstwy nie zostaną zweryfikowane jako operacyjne.
+Po sprawdzeniu, czy komponenty w danej warstwie działają prawidłowo, można założyć, że komponenty w warstwach poniżej są również funkcjonalne.
+Testowanie przeprowadza się we wszystkich warstwach modelu OSI aż do znalezienia niedziałającego komponentu.

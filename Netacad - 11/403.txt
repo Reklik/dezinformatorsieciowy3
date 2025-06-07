@@ -1,0 +1,6 @@
+X1000
+Ten typ routera zapewnia prostą konfigurację i zarządzanie siecią LAN i WAN.
+Routery oddziałowe
+Routery brzegowe
+Routery dostawców usług sieciowych
+Routery przemysłowe

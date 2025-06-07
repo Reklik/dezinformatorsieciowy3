@@ -1,0 +1,6 @@
+X0010
+Technik ma za zadanie zabezpieczyć router za pomocą list ACL. Kiedy użyje opcji lub polecenia deny?
+aby zidentyfikować jeden konkretny adres IP
+aby wyświetlić cały zablokowany ruch
+aby ograniczyć dostęp konkretnego ruchu przez interfejs
+aby wygenerować i wysłać komunikat informacyjny, gdy wpis ACE zostanie dopasowany

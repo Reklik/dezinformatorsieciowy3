@@ -1,0 +1,6 @@
+X0100
+Które rozwiązanie umożliwia pracownikom efektywną i bezpieczną pracę zdalną?
+VPN typu site-to-site
+VPN do dostępu zdalnego
+Połączenie dial-up
+Połączenie DSL

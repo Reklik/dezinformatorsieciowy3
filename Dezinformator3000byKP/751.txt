@@ -1,0 +1,6 @@
+X0100
+Który scenariusz opisuje użycie publicznego interfejsu API (public API)?
+Wymaga licencji.
+Może być używany bez ograniczeń.
+Jest używany między firmą a jej partnerami biznesowymi.
+Jest używany tylko w ramach organizacji.

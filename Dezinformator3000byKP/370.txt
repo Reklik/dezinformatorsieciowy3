@@ -1,0 +1,6 @@
+X0010
+Zapoznaj się z danymi wyjściowymi dziennika syslog Jaki jest mnemonik tej wiadomości syslog?
+IFMGR
+Unable to open nvram (Nie można otworzyć nvram)
+NO_IFINDEX_FILE
+ifIndex-table

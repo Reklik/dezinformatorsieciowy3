@@ -1,0 +1,6 @@
+X1000
+Jakie jest pierwsze kryterium używane przez routery OPSF do wyboru DR?
+Najwyższy priorytet
+Najwyższy adres IP
+Najwyższy identyfikator routera
+Najwyższy adres MAC

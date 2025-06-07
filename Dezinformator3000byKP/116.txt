@@ -1,0 +1,7 @@
+X10000
+Który atak ma miejsce, gdy aktor zagrożenia tworzy pakiety z fałszywymi źródłowymi adresami IP, aby ukryć tożsamość nadawcy lub udawać innego uprawnionego użytkownika?
+Ataki fałszowania adresów
+Ataki wzmacniania i odbijania
+Ataki na ICMP
+Atak MITM
+Przechwytywanie sesji

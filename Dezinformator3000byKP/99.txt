@@ -1,0 +1,7 @@
+X00010
+Które narzędzie do testowania penetracji jest używane przez hakerów w białych kapeluszach do wykrywania wszelkich śladów dowodów istniejących w komputerze?
+Fuzzery do wyszukiwania podatności
+Narzędzia szyfrujące
+Sniffery pakietów
+Narzędzia kryminalistyczne
+Debuggery

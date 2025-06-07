@@ -1,0 +1,6 @@
+X0100
+Firma postanowiła stworzyć stronę internetową www, w której zastosowano technologię SSL chroniącą dane uwierzytelniające użytkowników logujących się na stronę. Inżynier sieciowy musi sprawdzić poprawność działania uwierzytelnienia i jego szyfrowania. Jakiego narzędzia powinien użyć?
+Narzędzia do zarządzania awariami
+Analizator protokołowy
+Narzędzia do tworzenia stanu odniesienia
+Analizatora okablowania

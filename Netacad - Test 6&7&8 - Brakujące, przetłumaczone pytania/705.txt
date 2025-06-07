@@ -1,0 +1,4 @@
+X10
+Jaki typ adresu reprezentuje 10.19.6.7?
+Private
+Public

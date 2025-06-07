@@ -1,0 +1,7 @@
+X00101
+Które dwie tradycyjne opcje łączności WAN to technologie komutacji łączy? (Wybierz dwie odpowiedzi).
+ATM
+Frame Relay
+ISDN
+Łącze dzierżawione
+PSTN

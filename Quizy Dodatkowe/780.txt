@@ -1,0 +1,7 @@
+X10110
+Jakie są trzy sposoby określania identyfikatora OSPF routera? (Wybierz trzy odpowiedzi):
+Jeśli żaden interfejs loopback nie jest skonfigurowany, to identyfikator routera określany jest na podstawie najwyższego adresu IPv4 z jego aktywnych interfejsów.
+Jeśli nie skonfigurowano identyfikatora routera, to jest on określany jako najwyższa przepustowość jego aktywnych interfejsów.
+Jeśli nie skonfigurowano identyfikatora routera, to jest on określany jako najwyższy adres IP interfejsu loopback.
+Identyfikator routera może być skonfigurowany ręcznie.
+Jeśli żaden interfejs loopback nie jest skonfigurowany, to identyfikator routera określany jest na podstawie numeru procesu OSPF.

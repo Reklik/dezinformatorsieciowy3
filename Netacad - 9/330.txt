@@ -1,0 +1,5 @@
+X001
+Co jest spowodowane zmiennością opóźnienia?
+Przeciążenie
+Utrata pakietów
+Jitter

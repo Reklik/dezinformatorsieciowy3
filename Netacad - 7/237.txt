@@ -1,0 +1,7 @@
+X01000
+Który typ struktury sieci WAN jest najbardziej tolerancyjny na uszkodzenia?
+Topologia Dual-homed (podwójna)
+Topologia pełnej siatki
+Topologia hub-and-spoke (gwiazdy)
+Topologia częściowej siatki
+Topologia punkt-punkt

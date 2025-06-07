@@ -1,0 +1,6 @@
+X0001
+Jaka jest różnica między funkcjami przetwarzania w chmurze a wirtualizacją?
+Chmura obliczeniowa wykorzystuje technologię centrum danych, podczas gdy wirtualizacja nie jest używana w centrach danych.
+Chmura obliczeniowa zapewnia usługi w zakresie dostępu internetowego, podczas gdy wirtualizacja zapewnia usługi dostępu do danych za pośrednictwem zwirtualizowanych połączeń internetowych.
+Chmura obliczeniowa wymaga technologii hiperwizora, podczas gdy wirtualizacja jest technologią odporności na uszkodzenia.
+Chmura obliczeniowa oddziela aplikację od sprzętu, podczas gdy wirtualizacja oddziela system operacyjny od bazowego sprzętu.

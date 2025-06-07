@@ -1,0 +1,7 @@
+X00100
+Odwołując się do załączonego schematu: które polecenie byłoby użyte w standardowej liście ACL, aby zezwolić tylko urządzeniom z sieci podłączonej do interfejsu R2 G0/0 na dostęp do sieci podłączonych do R1?
+access-list 1 permit 192.168.10.128 0.0.0.63
+access-list 1 permit 192.168.10.0 0.0.0.255
+access-list 1 permit 192.168.10.96 0.0.0.31
+access-list 1 permit 192.168.10.0 0.0.0.63
+[img]640.png[/img]

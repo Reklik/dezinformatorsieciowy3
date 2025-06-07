@@ -1,0 +1,6 @@
+X0100
+Który z poniższych elementów jest zasobem dostawcy urządzeń sieciowych online, którego można użyć jako źródła informacji?
+Narzędzia do tworzenia stanu odniesienia
+Baza wiedzy
+Network Management System (NMS)
+Analizator protokołów

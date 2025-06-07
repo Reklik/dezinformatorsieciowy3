@@ -1,0 +1,5 @@
+X010
+Które z poniższych interfejsów API byłyby używane wyłącznie między urządzeniami komputerowymi w Cisco?
+Otwarte lub publiczne API
+Wewnętrzne lub prywatne API
+Partnerskie API

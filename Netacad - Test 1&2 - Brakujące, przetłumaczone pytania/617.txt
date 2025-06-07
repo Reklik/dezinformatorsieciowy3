@@ -1,0 +1,6 @@
+X0001
+Który krok w procesie routingu opartego na stanie łącza opisuje sytuację, w której router uruchamia algorytm w celu określenia najlepszej ścieżki do każdego miejsca docelowego?
+równoważenie obciążenia na ścieżkach o równym koszcie
+uznanie sąsiada za niedostępnego
+wybór najlepszej trasy
+uruchomienie algorytmu SPF

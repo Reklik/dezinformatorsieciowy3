@@ -1,0 +1,6 @@
+X0100
+Który termin jest używany do opisania zestawu instrukcji do wykonania przez narzędzie zarządzania konfiguracją Puppet?
+Playbook
+Manifest
+Cookbook
+Pillar

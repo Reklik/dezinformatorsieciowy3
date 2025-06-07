@@ -1,0 +1,9 @@
+X0001000
+W tym stanie protokołu OSPF w sieciach typu punkt-punkt routery decydują, który router inicjuje wymianę pakietów DBD.
+Stan Down
+Stan Init
+Stan Two-Way
+Stan ExStart
+Stan Exchange
+Stan Loading
+Stan Full

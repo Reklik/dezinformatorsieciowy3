@@ -1,0 +1,5 @@
+X001
+Które z poniższych interfejsów API będą używane wyłącznie między Google i Cisco?
+Otwarte lub publiczne API
+Wewnętrzne lub prywatne API
+Partnerskie API

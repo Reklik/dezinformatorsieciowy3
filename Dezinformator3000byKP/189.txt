@@ -1,0 +1,8 @@
+X010001
+Jakie dwa słowa kluczowe mogą być użyte w liście kontroli dostępu w celu zastąpienia maski blankietowej lub pary adres i maska blankietowa? (Wybierz dwie odpowiedzi).
+all
+any
+most
+gt
+some
+host

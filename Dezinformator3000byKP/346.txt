@@ -1,0 +1,5 @@
+X010
+Który model QoS wykorzystuje wyraźną kontrolę dostępu do zasobów koniec-koniec?
+Najlepszych starań (best-effort)
+Usługi zintegrowane (IntServ)
+Usługi zróżnicowane (DiffServ)

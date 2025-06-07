@@ -1,0 +1,6 @@
+X0001
+Który model chmury jest używany do zaspokojenia potrzeb konkretnej branży, takiej jak służba zdrowia czy media?
+Chmura publiczna
+Chmura prywatna
+Chmura hybrydowa
+Chmura społecznościowa

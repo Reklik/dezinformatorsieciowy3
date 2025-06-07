@@ -1,0 +1,6 @@
+X0010
+Administrator skonfigurował listę dostępu na R1, aby umożliwić protokołowi SSH dostęp administracyjny z hosta 172.16.1.100. Które polecenie poprawnie wprowadza listę ACL?
+R1(config-if)# ip access-group 1 in
+R1(config-if)# ip access-group 1 out
+R1(config-line)# access-class 1 in
+R1(config-line)# access-class 1 out

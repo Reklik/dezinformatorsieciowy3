@@ -1,0 +1,7 @@
+X10000
+Przyjrzyj się wydanym poleceniom. Administrator skonfigurował standardową listę ACL dla IPv4. Jaki będzie efekt działania komendy: no access-list 10?
+ACL 10 została usunięta z bieżącej konfiguracji.
+ACL 10 jest wyłączona na interfejsie Fa0/1.
+ACL 10 została wyłączona na Fa0/1 i usunięta z bieżącej konfiguracji.
+ACL 10 przestanie działać po ponownym uruchomieniu routera.
+[img]197.png[/img]

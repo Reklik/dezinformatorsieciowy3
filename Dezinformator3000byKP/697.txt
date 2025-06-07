@@ -1,0 +1,7 @@
+X10000
+Administrator sieci skonfigurował PAT (Port Address Translation) na routerze R2. Dlaczego konfiguracja jest niepoprawna?
+NAT-POOL2 jest powiązany z niewłaściwą listą ACL
+ACL nie definiuje listy adresów do translacji
+Nie powinno się stosować słowa kluczowego overload
+Brakuje wpisu dla statycznego NAT
+[img]697.png[/img]

@@ -1,0 +1,6 @@
+X0100
+Jak działa tunelowanie w sieci VPN?
+Ustanawiany jest specjalny obwód między urządzeniem źródłowym i docelowym na czas trwania połączenia.
+Oryginalne pakiety podlegają enkapsulacji, polegającej na dodawaniu nowych nagłówków za pomocą jednego lub więcej protokołów VPN.
+Pakiety są ukrywane a na zewnątrz wyglądają jak inne rodzaje ruchu, tak aby były ignorowane przez potencjalnych napastników.
+Wszystkie pakiety przesyłane między dwoma hostami są przypisywane do jednego medium fizycznego, aby zapewnić prywatność pakietów.

@@ -1,0 +1,7 @@
+X00010
+Który pakiet OPSF zawiera różne typy LSA?
+Hello
+DBD
+LSR
+LSU
+LSack

@@ -1,0 +1,5 @@
+X100
+Które opcje grupy Diffie-Hellman nie są już zalecane?
+Grupy DH 1, 2 i 5
+Grupy DH 14, 15 i 16
+Grupy DH 19, 20, 21 i 24

@@ -1,0 +1,6 @@
+X1000
+Która korzyść z VPN pozwala przedsiębiorstwu zwiększyć przepustowość dla zdalnych lokalizacji bez konieczności dodawania dodatkowego sprzętu lub łączy WAN?
+Oszczędności
+Bezpieczeństwo
+Skalowalność
+Kompatybilność

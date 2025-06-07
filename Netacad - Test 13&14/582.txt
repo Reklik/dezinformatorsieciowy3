@@ -1,0 +1,6 @@
+X0010
+Jaki rodzaj hiperwizora najprawdopodobniej byłby używany w centrum danych?
+Hadoop
+Nexus
+Typ 1
+Typ 2

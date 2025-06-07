@@ -1,0 +1,6 @@
+X0100
+Przyjrzyj się ilustracji. Jeśli przełącznik zrestartuje się i wszystkie routery będą musiały ponownie ustanowić przylegania OSPF, które routery staną się nowymi routerami DR i BDR?
+Router R2 zostanie DR a router R3 zostanie BDR.
+Router R4 zostanie DR a router R1 zostanie BDR.
+Router R1 zostanie DR a router R2 zostanie BDR.
+Router R4 zostanie DR a router R3 zostanie BDR.

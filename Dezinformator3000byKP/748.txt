@@ -1,0 +1,6 @@
+X0100
+Który komponent w tradycyjnym urządzeniu infrastrukturalnym zapewnia funkcje warstwy 2 i warstwy 3 w celu tworzenia ścieżek danych w sieci?
+płaszczyzna danych (data plane)
+płaszczyzna sterowania (control plane)
+tabela sąsiedztwa (adjacency table)
+baza informacji przekazywania (forwarding information base)

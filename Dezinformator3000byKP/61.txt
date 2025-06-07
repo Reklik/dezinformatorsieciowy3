@@ -1,0 +1,6 @@
+X0100
+Inżynier sieci ręcznie skonfigurował interwał Hello na 15 sekund na interfejsie routera z systemem OSPFv2. Jak domyślnie wpłynie to na interwał Dead na interfejsie?
+Interwał Dead będzie teraz wynosił 30 sekund.
+Interwał Dead będzie teraz wynosił 60 sekund.
+Interwał Dead nie zmieni się z wartości domyślnej.
+Interwał Dead będzie teraz wynosił 15 sekund.

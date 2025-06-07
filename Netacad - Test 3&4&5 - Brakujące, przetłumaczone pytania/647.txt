@@ -1,0 +1,6 @@
+X0010
+Które stwierdzenie trafnie charakteryzuje ewolucję zagrożeń dla bezpieczeństwa sieci?
+Architekci Internetu planowali bezpieczeństwo sieci od samego początku.
+Wczesni użytkownicy Internetu często angażowali się w działania szkodzące innym użytkownikom.
+Zagrożenia wewnętrzne mogą wyrządzić nawet większe szkody niż zagrożenia zewnętrzne.
+Zagrożenia stały się mniej zaawansowane, podczas gdy wymagana wiedza techniczna atakujących wzrosła.

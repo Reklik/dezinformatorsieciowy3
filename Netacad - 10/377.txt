@@ -1,0 +1,6 @@
+X1000
+Które stwierdzenie opisuje poziom istotności komunikatów syslog?
+Poziom istotności 0 to najbardziej krytyczny poziom.
+Alarm syslog na poziomie istotności 4 i wyższym są domyślnie wysyłane do zewnętrznego serwera syslog.
+Alarm syslog na poziomie istotności 7 wskazuje na sytuację awaryjną, która może spowodować, że system stanie się bezużyteczny.
+Komunikat poziomu istotności 7 jest dostępny tylko za pośrednictwem linii terminala.

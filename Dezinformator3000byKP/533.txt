@@ -1,0 +1,4 @@
+X10
+GPS przelicza najlepszą trasę do miejsca docelowego na podstawie aktualnego natężenia ruchu.
+Automatyzacja
+Brak automatyzacji

@@ -1,0 +1,7 @@
+X00100
+Które narzędzie do testowania penetracji identyfikuje, czy zdalny host jest podatny na atak bezpieczeństwa?
+Sniffery pakietów
+Narzędzia szyfrujące
+Narzędzia eksploracji podatności
+Narzędzia kryminalistyczne
+Debuggery

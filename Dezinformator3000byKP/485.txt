@@ -1,0 +1,6 @@
+X0010
+Kiedy najlepiej przeprowadzać testy wydajnościowe sieci w celu wyznaczenia stanu odniesienia sieci?
+podczas dużego obciążenia sieciowego, tak aby zweryfikować jej działanie podczas obciążenia
+dziesięciokrotnie w wybranym losowo czasie, w przeciągu tygodnia, tak aby wykryć anomalie sieciowe
+w tym samym czasie, każdego dnia w określonym przedziale czasu w normalnych dniach roboczych, tak aby wykryć typowe wzorce
+podczas wakacji/sezonu urlopowego, aby całkowicie zniwelować ruch sieciowy

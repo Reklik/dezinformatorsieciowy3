@@ -1,0 +1,6 @@
+X0001
+Technik ma za zadanie zabezpieczyć router za pomocą list ACL. Kiedy użyje polecenia no ip access-list 101?
+aby zastosować listę ACL do wszystkich interfejsów routera
+aby zabezpieczyć dostęp administracyjny do routera
+aby usunąć wszystkie listy ACL z routera
+aby usunąć skonfigurowaną listę ACL

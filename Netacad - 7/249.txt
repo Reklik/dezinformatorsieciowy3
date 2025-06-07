@@ -1,0 +1,7 @@
+X00010
+Która opcja łączności WAN opiera się na technologii Ethernet LAN?
+ATM
+Kablowa
+DSL
+Metro Ethernet
+MPLS

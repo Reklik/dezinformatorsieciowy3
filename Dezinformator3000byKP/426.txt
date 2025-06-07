@@ -1,0 +1,8 @@
+X010000
+Która opcja zawiera listę trzech etapów rozwiązywania problemów w odpowiedniej kolejności?
+Zbierz objawy, zastosuj działania naprawcze i wyizoluj problem.
+Zbierz objawy, wyodrębnij problem i wprowadź działania naprawcze.
+Wdrażaj działania naprawcze, zbieraj objawy i izoluj problem.
+Wprowadź działania naprawcze, wyodrębnij problem i zbierz objawy.
+Wyizoluj problem, zbierz objawy i wprowadź działania naprawcze.
+Wyizoluj problem, wprowadź działania naprawcze i zbierz objawy.

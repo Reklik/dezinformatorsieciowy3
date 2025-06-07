@@ -1,0 +1,5 @@
+X100
+Które z poniższych interfejsów API jest używane przez Cisco w celu zapewnienia studentom dostępu do ukończenia laboratoriów?
+Otwarte lub publiczne API
+Wewnętrzne lub prywatne API
+Partnerskie API

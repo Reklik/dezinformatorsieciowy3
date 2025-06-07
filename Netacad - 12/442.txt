@@ -1,0 +1,6 @@
+X0010
+Które polecenie IOS może być używany do testowania, czy inne protokoły sieciowe działają?
+Ping
+Ssh
+Telnet
+Traceroute

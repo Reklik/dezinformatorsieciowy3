@@ -1,0 +1,6 @@
+X0010
+Co zawiera obszar OSPF?
+Routery o tym samym identyfikatorze
+Routery, których drzewa SPF są identyczne
+Routery mające taką samą informację o stanie łącza w swoich bazach LSDB
+Routery o tym samym identyfikatorze procesu

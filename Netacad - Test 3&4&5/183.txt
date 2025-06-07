@@ -1,0 +1,6 @@
+X1000
+Który wymóg bezpiecznej komunikacji jest zapewniony przez implementację algorytmów skrótu MD5 lub SHA?
+integralność
+uwierzytelnianie
+niezaprzeczalność
+poufność

@@ -1,0 +1,7 @@
+X00100
+Inżynier sieciowy zbiera informacje na temat nieprawidłowego działania sieci. Na którym etapie, powinien on ustalić czy problem leży w warstwie szkieletowej, dystrybucyjnej czy dostępowej?
+Określanie własności
+Określanie objawów
+Zawężanie zakresu poszukiwań/badań
+Zbieranie informacji
+Dokumentowanie objawów

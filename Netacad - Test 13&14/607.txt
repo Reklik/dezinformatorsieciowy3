@@ -1,0 +1,6 @@
+X0100
+Ze względu na ogromny wzrost ruchu internetowego, firma planowała zakup dodatkowych serwerów, aby pomóc w obsłudze ruchu internetowego. Jaka usługa lub technologia wspierałaby ten wymóg?
+APIC-EM
+dedykowane serwery
+sieci definiowane programowo
+Cisco ACI

@@ -1,0 +1,6 @@
+X1000
+Który scenariusz sieciowy wymaga użycia WAN?
+Pracownicy muszą połączyć się z firmowym serwerem poczty przez VPN podczas podróży.
+Pracownicy muszą uzyskać dostęp do stron WWW hostowanych na serwerach firmowych w DMZ w ich budynku.
+Stacje robocze pracowników muszą uzyskiwać dynamicznie przypisane adresy IP.
+Pracownicy w oddziale muszą współdzielić pliki z centralą znajdującą się w osobnym budynku w tej samej sieci kampusowej.

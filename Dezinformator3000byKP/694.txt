@@ -1,0 +1,6 @@
+X0001
+Jakie dwa adresy są określane w konfiguracji statycznego NAT?
+outside global i outside local
+inside local i outside global
+inside global i outside local
+inside local i inside global

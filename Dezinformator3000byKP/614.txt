@@ -1,0 +1,8 @@
+X100000
+Technik sieciowy wydaje następujące polecenia podczas konfigurowania routera: Co oznacza liczba 11?
+identyfikator procesu OSPF na R1
+koszt łącza do R1
+numer systemu autonomicznego, do którego należy R1
+ręcznie przypisana odległość administracyjna dla R1
+numer obszaru, w którym znajduje się R1
+[img]614.png[/img]

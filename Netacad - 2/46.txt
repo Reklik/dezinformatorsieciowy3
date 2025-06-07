@@ -1,0 +1,6 @@
+X0010
+Którego polecenia można użyć do wyświetlenia interwałów OSPF Hello i Dead?
+show ip protocols
+show ip ospf neighbor
+show ip ospf interface
+show ip ospf route

@@ -1,0 +1,6 @@
+X1000
+Która technologia zarządzania ruchem sieciowym jest podstawowym elementem w implementacjach SDN (Software Defined Networking)?
+OpenFlow
+OpenStack
+IEEE 802.1aq
+Interface to the Routing System

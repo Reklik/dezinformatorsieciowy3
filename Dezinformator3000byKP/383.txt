@@ -1,0 +1,6 @@
+X1000
+Które polecenie powinien wydać inżynier utrzymania sieci, aby przywrócić na router obraz systemu IOS c1900-universalk9-mz.SPA.152-4.M3.bin?
+copy tftp: flash0:
+copy flash0: tftp:
+copy c1900-universalk9-mz.SPA.152-4.M3.bin tftp:
+copy flash0: c1900-universalk9-mz.SPA.152-4.M3.bin

@@ -1,0 +1,6 @@
+X0100
+Które stwierdzenie poprawnie opisuje dynamiczny NAT?
+Zawsze odwzorowuje prywatne adresy IP na publiczne adresy IP.
+Zapewnia automatyczne odwzorowanie wewnętrznych lokalnych adresów IP na wewnętrzne globalne adresy IP.
+Zapewnia odwzorowanie wewnętrznych nazw hostów na adresy IP.
+Przypisuje dynamicznie adresy IP wewnętrznym hostom.

@@ -1,0 +1,6 @@
+X0010
+W jaki sposób używa się tzw. zombie do łamania zabezpieczeń?
+Ich zadaniem jest skanowanie maszyn pod kątem otwartych portów, co służy identyfikacji uruchomionych usług.
+Są złośliwymi fragmentami kodu źródłowego, które mają zastąpić oryginalny nieszkodliwy kod.
+Są zarażonymi maszynami używanymi do przeprowadzenia ataku DDoS.
+Atakują wybrane osoby w celu pozyskania służbowych lub prywatnych informacji.

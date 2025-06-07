@@ -1,0 +1,6 @@
+X0001
+Jaki jest powód, dla którego inżynier sieci zmienia domyślny parametr referencyjnej szerokości pasma podczas konfigurowania OSPF?
+aby zwiększyć prędkość łącza
+aby wymusić użycie tego konkretnego łącza w trasie docelowej
+aby włączyć link do routingu OSPF
+aby dokładniej odzwierciedlać koszt połączeń większych niż 100 Mb/s

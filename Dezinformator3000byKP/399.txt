@@ -1,0 +1,6 @@
+X1000
+Jest to termin używany do opisania, ile danych przełącznik może przetwarzać na sekundę.
+Prędkość przekazywania
+Moc
+Niezawodność
+Szybkość łącza

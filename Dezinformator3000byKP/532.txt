@@ -1,0 +1,4 @@
+X10
+Poziomy produkcji są automatycznie uzależnione od popytu, eliminując niepotrzebny produkt i zmniejszając wpływ na środowisko.
+Automatyzacja
+Brak automatyzacji

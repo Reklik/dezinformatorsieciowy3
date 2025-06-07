@@ -1,0 +1,6 @@
+X0010
+Który termin opisuje proces zarządzania zmianami konfiguracji urządzeń sieciowych w uporządkowany sposób?
+Automatyzacja
+Udostępnianie
+Orkiestracja
+Kontrola wersji

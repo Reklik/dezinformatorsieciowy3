@@ -1,0 +1,6 @@
+X0100
+Użytkownik nie może uzyskać dostępu do strony internetowej, wpisując http://www.cisco.com w przeglądarce, ale może ją otworzyć, wpisując http://72.163.4.161. Jaki jest problem?
+DHCP
+DNS
+Default Gateway
+TCP/IP Protocol stack

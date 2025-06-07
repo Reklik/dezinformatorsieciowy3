@@ -1,0 +1,6 @@
+X0010
+ABCTech bada możliwość zastosowania automatyzacji dla części swoich produktów. Aby kontrolować i testować te produkty, programiści potrzebują systemów Windows, Linux i macOS na swoich komputerach. Jaka usługa lub technologia wspierałaby to wymaganie?
+dedykowane serwery
+sieci definiowane programowo (SDN)
+wirtualizacja
+Cisco ACI

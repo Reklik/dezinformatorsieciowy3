@@ -1,0 +1,6 @@
+X1000
+Router znajduje się w domenie OSPFv2. Co zazwyczaj wydarzy się, jeżeli czas nieaktywności (interwał Dead) wygaśnie zanim router otrzyma pakiet Hello z przyległego routera DROTHER OSPF?
+OSPF usunie tego sąsiada z bazy danych stanu łącza.
+SPF zostanie uruchomiony i określi, który sąsiedni router nie działa.
+Nastąpi start nowej wartości licznika czasu nieaktywności, będący czterokrotnością licznika hello.
+OSPF na nowo rozpocznie elekcję DR/BDR.

@@ -1,0 +1,6 @@
+X0100
+Jak nazywa się potencjalne zagrożenie dla zasobów firmy, danych lub funkcjonowania sieci?
+podatność
+zagrożenie
+zasób
+exploit

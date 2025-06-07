@@ -1,0 +1,7 @@
+X00100
+Który atak jest używany, gdy aktorzy zagrożeń używają ping do odkrywania podsieci i hostów w chronionej strefie, do generowania ataków zalewania i do zmiany tablic routingu hosta?
+Ataki fałszowania adresów
+Ataki wzmacniania i odbijania
+Ataki na ICMP
+Atak MITM
+Przechwytywanie sesji

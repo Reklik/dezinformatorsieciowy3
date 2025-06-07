@@ -1,0 +1,7 @@
+X00010
+Które złośliwe oprogramowanie jest zainstalowane w zaatakowanym systemie i zapewnia uprzywilejowany dostęp do osoby będącej zagrożeniem?
+Adware
+Wirus
+Spyware
+Rootkit
+Robak

@@ -1,0 +1,7 @@
+X10000
+Przyjrzyj się ilustracji. Administrator sieci musi dodać wpis ACE do TRAFFL-Control ACL, który odmawia ruchu IP z podsieci 172.23.16.0/20. Który wpis ACE spełni ten wymóg?
+5 deny 172.23.16.0 0.0.15.255
+30 deny 172.23.16.0 0.0.15.255
+5 deny 172.23.16.0 0.0.255.255
+15 deny 172.23.16.0 0.0.15.255
+[img]198.png[/img]

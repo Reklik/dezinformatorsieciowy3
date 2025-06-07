@@ -1,0 +1,6 @@
+X1000
+Kiedy należy przeprowadzić pomiar wydajnościowy stanu odniesienia sieci?
+Podczas normalnych godzin pracy firmy
+Natychmiast po restarcie urządzeń szkieletowych
+Po godzinach pracy firmy, aby zmniejszyć ryzyko ewentualnych przerw w działaniu
+Podczas stwierdzenia i zablokowaniu ataku typu DoS na sieć

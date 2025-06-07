@@ -1,0 +1,7 @@
+X00100
+Przyjrzyj się ilustracji. Administrator skonfigurował standardową listę ACL na R1 i zastosował ją do interfejsu szeregowego 0/0/0 w kierunku wychodzącym. Co dzieje się z ruchem wychodzącym z interfejsu szeregowego 0/0/0, który nie jest zgodny ze skonfigurowanymi instrukcjami ACL?
+Wynikowa akcja jest określana przez docelowy adres IP i numer portu.
+Wynikowa akcja jest określana przez docelowy adres IP.
+Ruch jest odrzucany.
+Źródłowy adres IP jest sprawdzany, a jeśli dopasowanie nie zostanie znalezione, ruch jest kierowany przez interfejs szeregowy 0/0/1.
+[img]208.png[/img]

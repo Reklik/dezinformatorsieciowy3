@@ -1,0 +1,7 @@
+X00100
+Router z dwoma interfejsami LAN, dwoma interfejsami WAN i jednym skonfigurowanym interfejsem loopback działa z protokołem routingu OSPF. Czego używa proces OSPF routera do przypisania identyfikatora routera?
+Adresu IP interfejsu skonfigurowanego z priorytetem 0
+Identyfikatora obszaru OSPF skonfigurowanego na interfejsie o najwyższym adresie IP
+Adresu IP interfejsu loopback
+Najwyższego adresu IP na interfejsach LAN
+Najwyższego adres IP skonfigurowanego na interfejsach WAN

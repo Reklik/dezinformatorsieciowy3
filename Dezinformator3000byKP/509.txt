@@ -1,0 +1,6 @@
+X0100
+Ta architektura sieci oferuje nowe podejście do zarządzania siecią i zarządzania, które ma na celu uproszczenie i usprawnienie procesu administracyjnego.
+Wirtualizacja sieci
+SDN
+Cisco ACI
+Scentralizowany kontroler

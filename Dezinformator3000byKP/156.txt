@@ -1,0 +1,6 @@
+X0010
+Gdzie należy umieścić rozszerzone ACL?
+Lokalizacja rozszerzonej ACL nie jest ważna.
+Rozszerzone ACL powinny znajdować się jak najbliżej miejsca docelowego.
+Rozszerzone ACL powinny znajdować się jak najbliżej źródła.
+Rozszerzone ACL powinny znajdować się na interfejsach szeregowych.

@@ -1,0 +1,5 @@
+X010
+Która usługa w chmurze zapewnia programistom dostęp do narzędzia programistycznego i usług używanych do dostarczania aplikacji?
+SaaS
+PaaS
+IaaS

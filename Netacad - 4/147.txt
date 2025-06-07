@@ -1,0 +1,7 @@
+X10000
+Która maska blankietowa pozwoli tylko na hosta 10.10.10.1?
+0.0.0.0
+0.0.0.31
+0.0.0.255
+0.0.255.255
+255.255.255.255

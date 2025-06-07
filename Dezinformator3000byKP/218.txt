@@ -1,0 +1,4 @@
+X01
+Prawda czy fałsz? Zastosowanie NAT ułatwia identyfikowalność między źródłem a miejscem docelowym.
+Prawda
+Fałsz

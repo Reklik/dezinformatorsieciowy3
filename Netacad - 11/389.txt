@@ -1,0 +1,5 @@
+X100
+Która warstwa sieci zapewnia izolację błędów i szybką łączność w sieci szkieletowej?
+Szkieletowa
+Dystrybucji
+Dostępu

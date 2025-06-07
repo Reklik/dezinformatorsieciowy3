@@ -1,0 +1,8 @@
+X011010
+Wybierz trzy usługi dostarczane przez system AAA.
+autoconfiguration (autokonfiguracja)
+authorization (uprawnianie)
+authentication (uwierzytelnianie)
+automation (automatyzacja)
+accounting (zliczanie)
+autobalancing (równoważenie)

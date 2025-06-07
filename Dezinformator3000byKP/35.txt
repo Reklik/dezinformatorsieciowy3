@@ -1,0 +1,7 @@
+X00110
+Które z poniższych stwierdzeń dotyczy identyfikatora routera? (Wybierz dwie odpowiedzi).
+Identyfikator routera nie może być zdefiniowany przez administratora.
+Identyfikator routera nie jest używany do określenia BDR.
+Identyfikator routera służy do określenia DR.
+Identyfikator routera jednoznacznie identyfikuje router.
+Identyfikator routera nie jest wymagany.

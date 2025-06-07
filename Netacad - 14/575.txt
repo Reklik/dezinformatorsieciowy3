@@ -1,0 +1,6 @@
+X0001
+Jakie typy interfejsów API są odpowiednie do komunikacji danych między stroną internetową podróżną a siecią hoteli, pytając o dane dotyczące dostępności pokoi?
+Otwarte API
+Publiczne API
+Wewnętrzne interfejsy API
+Partnerskie API

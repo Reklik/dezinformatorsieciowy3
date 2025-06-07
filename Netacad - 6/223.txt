@@ -1,0 +1,6 @@
+X1000
+Wybierz stwierdzenie określające wadę NAT?
+Nie ma jednolitej adresacji od źródła do celu.
+Router nie musi zmieniać sumy kontrolnej w pakietach IPv4.
+Wewnętrzne hosty w celu komunikacji na zewnątrz muszą używać jednego publicznego adresu IPv4.
+Koszty zmiany adresów hostów mogą być znaczące dla sieci z adresami publicznymi.

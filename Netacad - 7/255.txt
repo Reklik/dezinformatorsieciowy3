@@ -1,0 +1,6 @@
+X1000
+Jaki rodzaj sieci byłby używany przez firmę do łączenia lokalizacji w całym kraju?
+Sieć WAN
+Sieci LAN
+Sieć WLAN
+Sieć SAN

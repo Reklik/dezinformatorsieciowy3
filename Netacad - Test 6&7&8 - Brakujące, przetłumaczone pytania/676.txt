@@ -1,0 +1,6 @@
+X1000
+Co jest wadą NAT (Network Address Translation)?
+Brak adresowania end-to-end.
+Router nie musi zmieniać sumy kontrolnej pakietów IPv4.
+Hosty wewnętrzne muszą używać jednego publicznego adresu IPv4 do komunikacji zewnętrznej.
+Koszty ponownego adresowania hostów mogą być znaczące w sieci z publicznymi adresami.

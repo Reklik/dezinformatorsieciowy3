@@ -1,0 +1,4 @@
+X01
+PRAWDA lub FAŁSZ: Białe znaki w formacie JSON są istotne i muszą być poprawnie sformatowane.
+Prawda
+Fałsz

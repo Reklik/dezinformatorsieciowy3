@@ -1,0 +1,9 @@
+X1001000
+Rozważ skonfigurowaną listę dostępu. Jakie są dwie cechy tej listy dostępu? (Wybierz dwie odpowiedzi).
+Lista dostępu została zastosowana na interfejsie.
+Administrator sieci nie będzie w stanie stwierdzić, czy lista dostępu została zastosowana na interfejsie, czy nie.
+Urządzenie 10.1.2.1 nie może łączyć się przez telnet z urządzeniem 10.1.2.2.
+Każde urządzenie w sieci 10.1.1.0/24 (z wyjątkiem urządzenia 10.1.1.2) może połączyć się przez telnet z routerem, któremu przypisano adres IP 10.1.1.1.
+Tylko urządzenie 10.1.1.2 może telnetować się do routera, który ma przypisany adres IP 10.1.1.1.
+Każde urządzenie może telnetować się do urządzenia 10.1.2.1.
+[img]169.png[/img]

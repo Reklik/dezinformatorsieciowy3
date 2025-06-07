@@ -1,0 +1,6 @@
+X0001
+Jest to jednostka logiczna, która umożliwia administratorom sieci zarządzanie i dyktowanie sposobu, w jaki płaszczyzna danych przełączników i routerów powinna obsługiwać ruch sieciowy.
+Płaszczyzna sterowania
+Płaszczyzna danych
+VM
+Kontroler SDN

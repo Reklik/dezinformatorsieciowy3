@@ -1,0 +1,6 @@
+X1000
+W jakim typie ataku są sfałszowane informacje wykorzystywane do przekierowywania użytkowników do złośliwych witryn internetowych?
+zatruwanie bufora DNS
+zatruwanie bufora ARP
+generowanie domeny
+wzmacnianie i odbijanie DNS

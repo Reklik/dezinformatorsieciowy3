@@ -1,0 +1,4 @@
+X10
+Który protokół jest używany do zbierania informacji o urządzeniach Cisco, które współużytkują to samo łącze danych?
+CDP
+LLDP

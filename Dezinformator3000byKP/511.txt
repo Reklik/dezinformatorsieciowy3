@@ -1,0 +1,6 @@
+X0001
+Jest to standardowa prośba od kontrolera SDN, aby zdefiniować zachowanie płaszczyzny danych.
+Ruch północ-południe
+Północne API
+Ruch wschód-zachód
+Południowe API

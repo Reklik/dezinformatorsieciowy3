@@ -1,0 +1,7 @@
+X11000
+Administrator sieci konfiguruje listę ACL za pomocą polecenia R1(config)# access-list 1 permit 172.16.0.0 0.0.15.255. Które dwa adresy IP będą pasować do tej instrukcji ACL? (Wybierz dwie odpowiedzi).
+172.16.0.255
+172.16.15.36
+172.16.16.12
+172.16.31.24
+172.16.65.21

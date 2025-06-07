@@ -1,0 +1,6 @@
+X1000
+Jaki typ VPN wykorzystuje protokoły pasażera (passenger), nośnika (carrier) i transportu (transport protocols)?
+GRE przez IPsec
+dynamic multipoint VPN
+MPLS VPN
+IPsec virtual tunnel interface

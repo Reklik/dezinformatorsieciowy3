@@ -1,0 +1,6 @@
+X0100
+Czym są komunikaty SNMP trap?
+Komunikaty używane przez NMS do wysyłania zapytań do urządzenia o dane
+Niechciane wiadomości wysyłane przez agenta SNMP i informują NMS o stanie w sieci
+Komunikaty używane przez NMS do zmiany zmiennych konfiguracyjnych na urządzeniu agenta
+Komunikaty wysyłane okresowo przez NMS do agentów SNMP znajdujących się na zarządzanych urządzeniach w celu zapytania urządzenia o dane

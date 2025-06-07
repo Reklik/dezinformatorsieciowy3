@@ -1,0 +1,7 @@
+X00001
+Które urządzenie zabezpieczające sieć zawiera bezpieczną bazę danych osób uprawnionych do uzyskiwania dostępu do urządzeń sieciowych i zarządzania nimi?
+VPN
+Zapora ASA
+IPS
+ESA/WSA
+Serwer AAA

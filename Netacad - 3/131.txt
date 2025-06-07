@@ -1,0 +1,7 @@
+X00100
+Co powoduje przepełnienie bufora?
+Uruchomienie środków przeciwdziałania bezpieczeństwu w celu zablokowania konia trojańskiego
+Pobieranie i instalowanie zbyt wielu aktualizacji oprogramowania jednocześnie
+Próba zapisania większej ilości danych do lokalizacji pamięci niż ta lokalizacja może pomieścić
+Wysyłanie zbyt dużej ilości informacji do dwóch lub więcej interfejsów tego samego urządzenia, powodując w ten sposób odrzucanie pakietów
+Wysyłanie powtarzających się połączeń, takich jak Telnet, do określonego urządzenia, blokując w ten sposób inne źródła danych

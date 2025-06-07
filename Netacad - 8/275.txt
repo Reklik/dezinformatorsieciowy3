@@ -1,0 +1,7 @@
+X00010
+Która funkcja IPsec używa wstępnie udostępnionych haseł, certyfikatów cyfrowych lub certyfikatów RSA?
+Protokół IPsec
+Poufność
+Integralność
+Uwierzytelnianie
+Diffie-Hellman

@@ -1,0 +1,6 @@
+X0100
+Która funkcja IBN instaluje zasady, które przechwytują intencje w fizyczną i wirtualną infrastrukturę sieciową za pomocą automatyzacji całej sieci?
+Tłumaczenie
+Aktywacja
+Zapewnianie jakości
+Infrastruktura sieciowa

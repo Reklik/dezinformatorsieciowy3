@@ -1,0 +1,6 @@
+X0001
+Która technologia to program, oprogramowanie układowe lub sprzęt, który dodaje warstwę abstrakcji na szczycie fizycznego sprzętu?
+Aplikacja internetowa
+Wirtualizacja
+Serwer dedykowany
+Hiperwizor

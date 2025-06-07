@@ -1,0 +1,7 @@
+X10100
+Jakie są dwie funkcje hiperwizorów? (Wybierz dwie odpowiedzi).
+do zarządzania maszynami wirtualnymi
+do partycjonowania dysku twardego w celu uruchamiania maszyn wirtualnych
+aby przydzielić fizyczne zasoby systemowe maszynom wirtualnym
+aby udostępnić oprogramowanie antywirusowe na maszynach wirtualnych
+aby chronić hosta przed infekcją złośliwego oprogramowania z maszyn wirtualnych

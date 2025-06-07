@@ -1,0 +1,6 @@
+X1000
+Jakie działanie należy podjąć podczas planowania nadmiarowości (redundancji) w hierarchicznym modelu projektowania sieci?
+dodanie alternatywnych fizycznych ścieżek, którymi dane mogą przemieszczać się po sieci
+ciągły zakup zapasowego sprzętu dla sieci
+wdrożenie STP portfast między przełącznikami w sieci
+natychmiastowa wymiana niesprawnego modułu, usługi lub urządzenia w sieci

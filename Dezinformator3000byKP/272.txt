@@ -1,0 +1,6 @@
+X1000
+Jaki rodzaj sieci VPN umożliwia przedsiębiorstwu szybkie skalowanie bezpiecznego dostępu w całej organizacji?
+DMVPN
+Sieć VPN zdalnego dostępu
+Sieć VPN typu Site-to-Site
+MPLS VPN

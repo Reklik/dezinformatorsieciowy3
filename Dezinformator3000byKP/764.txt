@@ -1,0 +1,6 @@
+X0010
+W którym ataku TCP cyberprzestępca próbuje przeciążyć docelowy host za pomocą niepełnych (half-open) połączeń TCP?
+reset attack
+session hijacking attack
+SYN flood attack
+port scan attack

@@ -1,0 +1,6 @@
+X1000
+Jakiego rodzaju medium stosują dostawcy usług, gdy przesyłają dane w sieciach WAN za pomocą technologii SONET, SDH czy też DWDM?
+Światłowód
+Satelitarne
+Wi-Fi
+Miedź

@@ -1,0 +1,4 @@
+X10
+Prawda czy fałsz: API to zestaw reguł opisujących, w jaki sposób jedna aplikacja może współdziałać z drugą, oraz instrukcje umożliwiające taką interakcję.
+Prawda
+Fałsz

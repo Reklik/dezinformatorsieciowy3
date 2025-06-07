@@ -1,0 +1,7 @@
+X01000
+Który pakiet OSPF zawiera różne typy LSA?
+LSack
+LSU
+DBD
+Hello
+LSR

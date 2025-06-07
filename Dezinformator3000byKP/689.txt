@@ -1,0 +1,6 @@
+X0001
+Jaka jest funkcja algorytmu HMAC (Hashed Message Authentication Code) podczas zestawiania tunelu IPsec VPN?
+chroni klucze IPsec podczas negocjacji sesji
+uwierzytelnia partnerów IPsec
+tworzy bezpieczny kanał do negocjacji kluczy
+gwarantuje integralność wiadomości

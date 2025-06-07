@@ -1,0 +1,3 @@
+X1
+Dopasuj stany OSPF do kolejności, w jakiej występują. (Nie wszystkie elementy muszą zostać wykorzystane).
+[img]56.png[/img]

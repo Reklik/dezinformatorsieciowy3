@@ -1,0 +1,6 @@
+X1000
+Które twierdzenie opisuje charakterystykę standardowych list ACL IPv4?
+Filtrują one ruch tylko na podstawie źródłowych adresów IP.
+Są one skonfigurowane w trybie konfiguracji interfejsu.
+Mogą one być utworzone z numerem, ale nie z nazwą.
+Mogą one być skonfigurowane do filtrowania ruchu opartego na źródłowym adresie IP i portach źródłowych.

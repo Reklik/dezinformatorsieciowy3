@@ -1,0 +1,6 @@
+X0100
+Klient potrzebuje połączenia WAN w obszarze miejskim, które zapewnia szybkie, dedykowane pasmo między dwoma lokacjami. Jaki typ połączenia WAN najlepiej spełni jego wymagania?
+Sieć z komutacją obwodów
+Ethernet WAN
+MPLS
+Sieć z przełączaniem pakietów

@@ -1,0 +1,6 @@
+X1000
+Jaki typ VPN łączy się przy użyciu funkcji Transport Layer Security (TLS)?
+SSL VPN
+MPLS VPN
+IPsec virtual tunnel interface
+dynamic multipoint VPN

@@ -1,0 +1,6 @@
+X0010
+Jaki jest cel ustalania stanu bazowego sieci?
+Aby zapewnić spis urządzeń sieciowych
+Dokumentować i analizować ruch sieciowy
+Aby pomóc w monitorowaniu i rozwiązywaniu problemów z wydajnością sieci
+Aby zweryfikować konfigurację routerów i przełączników w sieci

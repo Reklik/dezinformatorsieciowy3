@@ -1,0 +1,6 @@
+X1000
+Zapoznaj się z danymi wyjściowymi dziennika syslog Co to jest funkcja raportowania syslog?
+IFMGR
+NO_IFINDEX_FILE
+IFMGR-7
+ifIndex-table

@@ -1,0 +1,6 @@
+X0001
+Który rodzaj ataku DNS polega na tym, że cyberprzestępca przejmuje domenę nadrzędną i tworzy wiele subdomen do wykorzystania podczas ataków?
+Zatrucie pamięci podręcznej
+Wzmacnianie i odbijanie
+Tunelowanie
+Zacienianie

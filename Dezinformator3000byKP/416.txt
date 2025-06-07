@@ -1,0 +1,7 @@
+X01000
+Jak nazywa się warstwa w projekcie sieci przełączanej bez granic firmy Cisco, która jest uważana za szkielet używany do szybkiej łączności i izolacji błędów?
+Dostępu
+Szkieletowa
+Łącza danych
+Sieci
+Dostępu do sieci

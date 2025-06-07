@@ -1,0 +1,6 @@
+X0001
+Jaka jest funkcja warstwy dystrybucji?
+Izolowanie usterek
+Dostęp sieciowy dla użytkownika
+Szybkie połączenia w warstwie rdzenia
+Połączenie dużych sieci w szafach kablowych

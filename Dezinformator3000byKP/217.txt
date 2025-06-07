@@ -1,0 +1,4 @@
+X01
+Prawda czy fałsz? W przypadku przeciążenia NAT każdy wewnętrzny lokalny adres IP jest tłumaczony na unikalny wewnętrzny globalny adres IP na zasadzie jeden do jednego.
+Prawda
+Fałsz

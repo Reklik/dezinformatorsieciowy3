@@ -1,0 +1,6 @@
+X0010
+Które twierdzenie opisuje różnicę między działaniem list ACL przychodzących i wychodzących?
+Na interfejsie sieciowym, może być skonfigurowana więcej niż jedna przychodząca lista ACL i tylko jedna wychodząca lista ACL.
+Przychodzące listy ACL mogą być stosowane zarówno na routerach i przełącznikach, ale wychodzące listy ACL mogą być używane tylko na routerach.
+Przychodzące listy ACL są przetwarzane i przesyłane przed routingiem pakietów podczas, gdy wychodzące listy ACL są przetwarzane, gdy routing jest zakończony.
+W przeciwieństwie do wychodzących list ACL, przychodzące listy ACL mogą być używane do filtrowania pakietów przy pomocy wielu kryteriów.

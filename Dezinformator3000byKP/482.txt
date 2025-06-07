@@ -1,0 +1,6 @@
+X0010
+Która cecha ma największy wpływ na wybór przez projektanta sieci, przełącznika wielowarstwowego zamiast zwykłego przełącznika warstwy 2?
+zdolność zasilania bezpośrednio przyłączonych urządzeń przez sam przełącznik
+zdolność do agregacji wielu portów by uzyskać maksymalną przepustowość danych
+możliwość tworzenia tablicy routingu
+zdolność do przekierowywania ruchu wieloma drogami poprzez sieć przełączaną bazującą na numerach sieci VLAN

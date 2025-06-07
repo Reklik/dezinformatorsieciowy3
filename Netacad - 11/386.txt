@@ -1,0 +1,6 @@
+X0010
+Który termin jest używany do opisania sieci, która jest zawsze dostępna?
+Hierarchiczna
+Modułowa
+Stabilna
+Elastyczna

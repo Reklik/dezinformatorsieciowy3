@@ -1,0 +1,6 @@
+X0100
+Do czego używamy polecenia show cdp neighbors na ruterze?
+aby wyświetlić identyfikator rutera oraz inne informacje o sąsiadach OSPF
+aby wyświetlić nazwę urządzenia oraz inne informacje o bezpośrednio podłączonych sąsiadach
+aby wyświetlić stan linii (line) oraz inne informacje o bezpośrednio podłączonych sąsiadach
+aby wyświetlić tablicę wyboru trasy (routing table) oraz inne informacje o bezpośrednio dołączonych sąsiadach

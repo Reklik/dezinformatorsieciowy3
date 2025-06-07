@@ -1,0 +1,6 @@
+X0001
+Jaki typ VPN posiada implementacje zarówno w warstwie 2, jak i warstwie 3?
+IPsec virtual tunnel interface
+dynamic multipoint VPN
+GRE over IPsec
+MPLS VPN

@@ -1,0 +1,6 @@
+X0100
+Które z poniższych jest URL?
+https://www.cisco.com/c/en/us/solutions/design-zone.html#~all-guides
+https://www.cisco.com/c/en/us/solutions/design-zone.html
+http://www.cisco.com/c/en/us/solutions/design-zone.html
+#~all-guides

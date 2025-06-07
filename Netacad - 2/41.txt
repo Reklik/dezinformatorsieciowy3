@@ -1,0 +1,7 @@
+X00110
+Jakie są dwie cechy protokołu routingu OSPF? (Wybierz dwie odpowiedzi).
+Automatycznie sumaryzuje sieci na granicach klasowych
+Ma odległość administracyjną równą 100
+Oblicza metrykę przy pomocy pasma
+Używa algorytmu Dijkstry do budowy drzewa SPF
+Używany głównie jako EGP

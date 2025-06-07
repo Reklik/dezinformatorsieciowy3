@@ -1,0 +1,6 @@
+X0010
+Technik ma za zadanie użyć list ACL do zabezpieczenia routera. Kiedy technik użyłby remark w opcji konfiguracji lub poleceniu?
+aby ograniczyć dostęp do określonego ruchu poprzez interfejs
+do generowania i wysyłania wiadomości informacyjnej za każdym razem, gdy wpis ACE jest dopasowany
+aby dodać wpis tekstowy do celów dokumentacji
+aby zidentyfikować jeden konkretny adres IP

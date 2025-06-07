@@ -1,0 +1,4 @@
+X01
+Prawda lub fałsz. Administrator sieci uzyskuje dostęp do płaszczyzny sterowania w celu skonfigurowania urządzenia.
+Prawda
+Fałsz

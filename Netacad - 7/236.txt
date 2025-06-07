@@ -1,0 +1,6 @@
+X0010
+Który typ topologii opisuje wirtualne połączenie między źródłem a miejscem docelowym?
+Topologia okablowania
+Topologia fizyczna
+Topologia logiczna
+Topologia przewodowa

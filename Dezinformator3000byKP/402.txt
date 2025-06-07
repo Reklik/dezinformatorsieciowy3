@@ -1,0 +1,6 @@
+X0010
+Ten typ routera zapewnia kompleksowe dostarczanie usług abonenckich.
+Routery oddziałowe
+Routery brzegowe
+Routery dostawców usług sieciowych
+Routery przemysłowe

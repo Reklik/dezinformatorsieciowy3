@@ -1,0 +1,6 @@
+X0100
+Co wstępnie zapełnia FIB na urządzeniach Cisco, które używają CEF do przetwarzania pakietów?
+DSP
+tablica routingu
+tablica ARP
+tablica przyległości

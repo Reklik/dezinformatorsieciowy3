@@ -1,0 +1,6 @@
+X0010
+Który termin opisuje wymianę danych między serwerami wirtualnymi w centrum danych?
+Ruch pionowy
+Ruch szkieletowy
+Ruch wschód-zachód
+Ruch północ-południe

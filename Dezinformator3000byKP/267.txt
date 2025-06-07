@@ -1,0 +1,6 @@
+X0100
+Jaki typ VPN jest używany do łączenia się z użytkownikiem mobilnym?
+Site-to-site (lokacja-lokacja)
+Dostęp zdalny
+GRE
+IPsec

@@ -1,0 +1,7 @@
+X00010
+Sprzątacz próbuje wejść do laboratorium komputerowego, ale recepcjonista odmawia mu wstępu, ponieważ nie ma zaplanowanego sprzątania na ten dzień. Jaki typ ataku właśnie został zapobiegnięty?
+Trojan
+Podglądanie przez ramię
+War driving
+Socjotechnika
+Phishing

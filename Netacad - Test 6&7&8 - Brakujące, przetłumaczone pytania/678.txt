@@ -1,0 +1,9 @@
+X0000100
+Odwołując się do schematu: NAT jest skonfigurowany na RT1 i RT2. Komputer PC wysyła żądanie do serwera WWW. Jaki adres IPv4 będzie źródłowym adresem IP w pakiecie przesyłanym między RT2 a serwerem WWW?
+192.168.1.5
+203.0.113.10
+172.16.1.254
+172.16.1.10
+209.165.200.245
+192.0.2.2
+[img]678.png[/img]

@@ -1,0 +1,6 @@
+X1000
+Pod jakim warunkiem występuje przeciążenie w sieci konwergentnej z ruchem głosowym, wideo i transmisji danych?
+Jeśli wniosek o przepustowość przekracza ilość dostępnej przepustowości
+Jeśli ruch wideo wymaga większej przepustowości niż żądania ruchu głosowego
+Jeśli opóźnienie ruchu głosowego zaczyna się zmniejszać w całej sieci
+Jeśli użytkownik pobiera plik przekraczający ograniczenie plików ustawione na serwerze

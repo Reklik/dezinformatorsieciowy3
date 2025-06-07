@@ -1,0 +1,9 @@
+X0000100
+W tym stanie OSPF routery wysyłają sobie nawzajem pakiety DBD.
+Stan Down
+Stan Init
+Stan Two-Way
+Stan ExStart
+Stan Exchange
+Stan Loading
+Stan Full

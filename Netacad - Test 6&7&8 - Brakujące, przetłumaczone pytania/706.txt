@@ -1,0 +1,4 @@
+X10
+Jaki typ adresu reprezentuje 64.101.198.197?
+Public
+Private

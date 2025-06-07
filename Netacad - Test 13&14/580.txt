@@ -1,0 +1,7 @@
+X01010
+Które dwie warstwy modelu OSI są związane z funkcjami płaszczyzny sterowania siecią SDN i podejmują decyzje o przekazywaniu? (Wybierz dwie odpowiedzi).
+Warstwa 4
+Warstwa 2
+Warstwa 1
+Warstwa 3
+Warstwa 5

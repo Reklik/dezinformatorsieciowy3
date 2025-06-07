@@ -1,0 +1,4 @@
+X10
+Prawda lub fałsz. Ruch wschodnio-zachodni jest wymieniany między serwerami wirtualnymi w tym samym centrum danych.
+Prawda
+Fałsz

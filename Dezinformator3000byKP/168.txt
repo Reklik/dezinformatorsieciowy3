@@ -1,0 +1,8 @@
+X100100
+Komputery używane przez administratorów sieci w szkole znajdują się w sieci 10.7.0.0/27. Jakie (minimum) dwa polecenia są potrzebne do zastosowania listy ACL, która zapewni, że tylko urządzenia wykorzystywane przez administratorów sieciowych będą miały zapewniony dostęp Telnet do routerów? (Wybierz dwie odpowiedzi).
+access-class 5 in
+access-list 5 deny any
+access-list standard VTY permit 10.7.0.0 0.0.0.127
+access-list 5 permit 10.7.0.0 0.0.0.31
+ip access-group 5 out
+ip access-group 5 in

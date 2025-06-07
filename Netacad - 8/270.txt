@@ -1,0 +1,6 @@
+X0100
+Która funkcja opisuje SSL VPN?
+Obsługiwane są wszystkie aplikacje oCzęśće na protokole IP
+Wymaga tylko przeglądarki internetowej na hoście
+Można łączyć określone urządzenia o określonych konfiguracjach
+Używa uwierzytelniania dwukierunkowego za pomocą kluczy współdzielonych lub certyfikatów cyfrowych

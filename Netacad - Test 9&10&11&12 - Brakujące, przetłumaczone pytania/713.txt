@@ -1,0 +1,6 @@
+X0100
+Inżynier sieci wykonuje test polecenia ping i otrzymuje wartość pokazującą, ile czasu zajmuje pakietowi przebycie drogi od źródła do miejsca docelowego i z powrotem. Jaki termin opisuje tę wartość?
+jitter
+Opóźnienie
+Priorytet
+Przepustowość

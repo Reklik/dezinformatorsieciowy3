@@ -1,0 +1,4 @@
+X10
+Prawda lub fałsz. Hyperwizor typu 1 wymaga konsoli zarządzania w celu zarządzania hiperwizorem.
+Prawda
+Fałsz

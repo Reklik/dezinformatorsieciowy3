@@ -1,0 +1,6 @@
+X0010
+Który model chmury przedstawia dwie lub więcej chmur, w których każda część pozostaje odrębnym obiektem, ale obie są połączone za pomocą jednej architektury?
+Chmura publiczna
+Chmura prywatna
+Chmura hybrydowa
+Chmura społecznościowa

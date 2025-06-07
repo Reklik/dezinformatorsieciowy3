@@ -1,0 +1,6 @@
+X1000
+Komputer pracujący w sieci ma problemy z dostępem do Internetu, ale może drukować na drukarce lokalnej i wykonywać pozytywnie polecenie ping do innych komputerów znajdujących się w pobliżu. Inne komputery w tej samej sieci nie mają żadnych problemów. Gdzie leży problem?
+Komputer nie ma skonfigurowanej bramy domyślnej lub jest ona niepoprawnie skonfigurowana.
+Router będący bramą domyślną nie ma skonfigurowanej domyślnej trasy.
+Port przełącznika, do którego jest podłączony komputer, ma nieprawidłowo skonfigurowaną sieć VLAN.
+Łącze pomiędzy przełącznikiem, do którego jest podłączony komputer, a domyślną bramą routera jest wyłączone.

@@ -1,0 +1,8 @@
+X001011
+Jakie są powody, dla których API może wymagać klucza? (Wybierz trzy odpowiedzi)
+Aby anonimizować użytkowników korzystających z API
+Aby udostępniać API dowolnym użytkownikom
+Aby ograniczyć liczbę żądań danych na użytkownika
+Aby wyłączyć proces przechwytywania i śledzenia danych użytkowania
+Aby ograniczyć liczbę osób korzystających z API
+Aby uwierzytelnić źródło, aby się upewnić że jest upoważnione do korzystania z interfejsu API

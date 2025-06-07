@@ -1,0 +1,5 @@
+X100
+Która technologia światłowodowa dostawcy usług zwiększa pojemność transmisji danych przy użyciu różnych długości fal?
+DWDM
+SDH
+SONET

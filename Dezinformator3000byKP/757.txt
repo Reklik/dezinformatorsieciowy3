@@ -1,0 +1,6 @@
+X1000
+Po międzynarodowej kampanii reklamowej nowego produktu firma zauważa, że jej baza klientów i liczba zamówień przeciążają lokalne systemy komputerowe, a firma nie ma możliwości rozbudowy infrastruktury na miejscu. Jaka usługa lub technologia wspierałaby to wymaganie?
+usługi chmurowe (cloud services)
+dedykowane serwery
+centrum danych (data center)
+wirtualizacja

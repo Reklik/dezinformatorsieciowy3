@@ -1,0 +1,7 @@
+X00100
+Zapoznaj się z ilustracją . Jaki rodzaj adresu NAT to adres IP serwera WWW (tj. 209.165.201.10)?
+Zewnętrzny lokalny
+Wewnętrzny lokalny
+Zewnętrzny globalny
+Wewnętrzny globalny
+[img]213.png[/img]

@@ -1,0 +1,7 @@
+X00010
+Jakie funkcje wspiera warstwa dostępu w 3-warstwowym modelu, wykorzystywanym w projektowaniu sieci?
+Połączenia o dużym paśmie
+Routing
+Implementacja polityk
+Dostęp do sieci
+Połączenia do szkieletu

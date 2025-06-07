@@ -1,0 +1,6 @@
+X1000
+Administrator sieci wydaje polecenie copy tftp running-config na routerze. Co próbuje osiągnąć administrator?
+Skopiować plik konfiguracyjny z serwera TFTP do pamięci RAM routera
+Skopiować plik konfiguracyjny z pamięci RAM routera na serwer TFTP
+Skopiować plik konfiguracyjny z pamięci NVRAM routera na serwer TFTP
+Skopiować plik konfiguracyjny z serwera TFTP do pamięci NVRAM routera

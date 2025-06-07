@@ -1,0 +1,6 @@
+X0001
+Który termin jest używany do opisania zestawu instrukcji do wykonania przez narzędzie zarządzania konfiguracją Chef?
+Pillar
+Manifest
+Playbook
+Cookbook

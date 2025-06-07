@@ -1,0 +1,6 @@
+X0010
+Który scenariusz spowodowałby błędną konfigurację listy ACL i zablokowanie całego ruchu?
+Zastosuj standardową listę ACL w kierunku przychodzącym.
+Zastosuj nazwaną listę ACL do linii VTY.
+Zastosuj listę ACL, która zawiera wszystkie wpisy ACE deny.
+Zastosuj standardową ACL za pomocą polecenia ip access-group out.

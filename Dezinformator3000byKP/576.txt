@@ -1,0 +1,6 @@
+X1000
+Które znaki są używane, aby zamknąć klucz JSON?
+Cudzysłów
+Przecinki
+Nawiasy kwadratowe
+Dwukropek

@@ -1,0 +1,6 @@
+X0010
+Firma rozszerza swoją działalność na inne kraje. Wszystkie oddziały muszą być cały czas podłączone do centrali firmy. Która technologia sieciowa jest wymagana w tej sytuacji?
+Sieci LAN
+Sieć MAN
+Sieć WAN
+Sieć WLAN

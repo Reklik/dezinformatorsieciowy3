@@ -1,0 +1,6 @@
+X0100
+Jaki rodzaj ataku to atak na hasło?
+Rozpoznanie
+Dostęp
+DoS
+Socjotechnika

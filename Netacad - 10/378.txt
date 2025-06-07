@@ -1,0 +1,6 @@
+X0010
+Co to jest agent zarządzania SNMP?
+Komputer z zainstalowanym oprogramowaniem do zarządzania, używany przez administratora do monitorowania sieci
+Baza danych wydajności sieci, przechowywana na urządzeniu
+Oprogramowanie zainstalowane na urządzeniach zarządzanych przez protokół SNMP
+Protokół komunikacyjny używany przez SNMP

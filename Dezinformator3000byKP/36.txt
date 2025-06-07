@@ -1,0 +1,7 @@
+X00100
+Która z poniższych jest kolejnością pierwszeństwa przy wyborze identyfikatora routera?
+1. Identyfikator routera, który jest jawnie skonfigurowany 2. Najniższy adres pętli zwrotnej IPv4 3. Najniższy aktywny skonfigurowany adres IPv4
+1. Identyfikator routera, który jest jawnie skonfigurowany 2. Najniższy aktywny skonfigurowany adres IPv4 3. Najniższy adres pętli zwrotnej IPv4
+1. Identyfikator routera, który jest jawnie skonfigurowany 2. Najwyższy adres pętli zwrotnej IPv4 3. Najwyższy aktywny skonfigurowany adres IPv4
+1. Najwyższy adres pętli zwrotnej IPv4 2. Identyfikator routera, który jest jawnie skonfigurowany 3. Najwyższy aktywny skonfigurowany adres IPv4
+1. Najwyższy adres pętli zwrotnej IPv4 2. Najwyższy aktywny skonfigurowany adres IPv4 3. Identyfikator routera, który jest jawnie skonfigurowany

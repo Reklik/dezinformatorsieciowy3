@@ -1,0 +1,6 @@
+X0100
+Administrator sieci wdraża QoS z możliwością zapewnienia specjalnej kolejki dla ruchu głosowego, tak aby ruch głosowy był przekazywany przed ruchem sieciowym w innych kolejkach. Która metoda kolejkowania byłaby najlepszym wyborem?
+WFQ
+LLQ
+CBWFQ
+FIFO

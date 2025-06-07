@@ -1,0 +1,8 @@
+X011010
+Interfejs API jest uważany za RESTful, jeśli ma które z poniższych funkcji? (Wybierz trzy odpowiedzi).
+Stanowy
+Bezstanowy
+Możliwość pamięci podręcznej
+Brak pamieci podręcznej
+Klient - Serwer
+Serwer - Serwer

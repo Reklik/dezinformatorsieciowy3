@@ -1,0 +1,7 @@
+X01000
+Która metoda szyfrowania powtarza proces algorytmu trzykrotnie i jest uważana za bardzo godną zaufania przy użyciu bardzo krótkich czasów życia klucza?
+Rivest Cipher
+Potrójny DES
+Szyfr blokowy
+Data Encryption Standard
+Szyfr strumieniowy

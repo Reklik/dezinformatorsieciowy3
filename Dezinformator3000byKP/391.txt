@@ -1,0 +1,5 @@
+X010
+Która warstwa sieciowa integruje się ze szkieletem i użytkownikami, zapewniając inteligentne przełączanie, routing i bezpieczeństwo?
+Szkieletowa
+Dystrybucji
+Dostępu

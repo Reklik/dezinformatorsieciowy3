@@ -1,0 +1,6 @@
+X0001
+Co pomaga w działaniu hierarchicznego routingu OSPF?
+autosumaryzacja
+wybór desygnowanych routerów
+częste obliczenia SPF
+użycie wielu obszarów
