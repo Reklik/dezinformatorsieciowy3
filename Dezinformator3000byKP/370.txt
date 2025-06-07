@@ -1,5 +1,5 @@
 X0010
-Zapoznaj się z danymi wyjściowymi dziennika syslog Jaki jest mnemonik tej wiadomości syslog?
+Zapoznaj się z danymi wyjściowymi dziennika syslog Jaki jest mnemonik tej wiadomości syslog? *Jun 12 17:46:01.619: %IFMGR-7-NO_IFINDEX_FILE: Unable to open nvram:/ifIndex-table No such file or directory
 IFMGR
 Unable to open nvram (Nie można otworzyć nvram)
 NO_IFINDEX_FILE
