@@ -1,0 +1,6 @@
+X0100
+Pakiety głosowe są odbierane w ciągłym strumieniu przez telefon IP, ale z powodu przeciążenia sieci opóźnienie między poszczególnymi pakietami zmienia się i powoduje przerwanie rozmów. Jaki termin opisuje przyczynę tego stanu?
+buforowanie
+jitter
+opóźnienie
+kolejkowanie
