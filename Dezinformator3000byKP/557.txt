@@ -1,4 +1,4 @@
 X10
-Prawda czy Fałsz: bez agenta oznacza, że kontroler lub system główny przekazuje konfigurację do agenta.
+Prawda czy Fałsz:agentless oznacza, że kontroler lub system główny przekazuje konfigurację do agenta.
 Prawda
 Fałsz
