@@ -1,4 +1,4 @@
-X011100
+X111000
 Jakie trzy komponenty są używane w części zapytania typowego żądania RESTful API? (Wybierz trzy.)
 format
 parametry
