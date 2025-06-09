@@ -1,5 +1,5 @@
 X100
 Jaki typ ruchu wymaga, aby opóźnienie (latency) nie przekraczało 150 milisekund (ms)?
-voice
-video
-data
+głos
+wideo
+dane

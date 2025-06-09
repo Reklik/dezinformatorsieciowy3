@@ -1,5 +1,5 @@
 X0100
-Która funkcja systemu sieciowego oCzęśćego na intentach Cisco (IBNS) umożliwia operatorom sieci wyrażanie oczekiwanych zachowań sieciowych, które najlepiej wspierają intencje biznesowe?
+Która funkcja systemu sieciowego opartego na intentach Cisco (IBNS) umożliwia operatorom sieci wyrażanie oczekiwanych zachowań sieciowych, które najlepiej wspierają intencje biznesowe?
 Aktywacja
 Tłumaczenie
 Zapewnienie jakości
