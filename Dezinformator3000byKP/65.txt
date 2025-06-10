@@ -1,6 +1,6 @@
 X1000
 Router OSPF ma trzy bezpośrednio połączone sieci; 172.16.0.0/16, 172.16.1.0/16 i 172.16.2.0/16. Które polecenie network OSPF będzie rozgłaszać tylko sieć 172.16.1.0 do sąsiadów?
-router(config-router)# network 172.16.1.0 255.255.255.0 area 0
+router(config-router)# network 172.16.1.0 0.0.0.255 area 0
 router(config-router)# network 172.16.1.0 0.0.0.0 area 0
 router(config-router)# network 172.16.0.0 0.0.15.255 area 0
 router(config-router)# network 172.16.1.0 0.0.255.255 area 0
