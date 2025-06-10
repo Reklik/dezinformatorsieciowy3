@@ -1,0 +1,7 @@
+X00100
+Jeśli router ma dwa interfejsy i obsługuje ruch IPv4 oraz IPv6, ile list ACL można na nim utworzyć i zastosować?
+12
+4
+8
+16
+6

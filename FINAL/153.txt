@@ -1,0 +1,5 @@
+X001
+Jeśli pakiet o adresie źródłowym 192.168.10.244, adresie docelowym 172.17.200.56 i protokole 80 zostanie odebrany na interfejsie, czy pakiet zostanie dozwolony czy odrzucony?
+[img]153.png[/img]
+dozwolony
+odrzucony

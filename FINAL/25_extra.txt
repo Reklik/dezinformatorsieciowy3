@@ -1,0 +1,6 @@
+X0001
+Jaki typ oznaczenia QoS jest stosowany do ramek Ethernet?
+IP precedence
+DSCP
+ToS
+CoS

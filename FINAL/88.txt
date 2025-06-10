@@ -1,0 +1,7 @@
+X00100
+Odwołaj się do ilustracji. Administrator próbuje skonfigurować PAT na R1, ale PC-A nie może uzyskać dostępu do Internetu. Administrator próbuje pingować serwer w Internecie z PC-A i zbiera debugi pokazane na ilustracji. Na podstawie tego wyniku, jaka jest najprawdopodobniejsza przyczyna problemu?
+[img]88.png[/img]
+Interfejsy NAT wewnętrzny i zewnętrzny zostały skonfigurowane odwrotnie.
+Wewnętrzny adres globalny NAT nie znajduje się w tej samej podsieci co ISP.
+Adres na Fa0/0 powinien być 64.100.0.1.
+Lista dostępu NAT źródłowego dopasowuje niewłaściwy zakres adresów.

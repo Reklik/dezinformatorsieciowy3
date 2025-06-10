@@ -1,0 +1,12 @@
+X0001
+Jaka jest cecha REST API?
+ewoluowało w to, co stało się SOAP
+używane do wymiany informacji w formacie XML przez HTTP lub SMTP
+uważane za powolne, złożone i sztywne
+najbardziej powszechnie używane API dla usług internetowych
+
+
+
+
+
+

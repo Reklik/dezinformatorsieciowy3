@@ -1,0 +1,6 @@
+X0001
+Który krok w procesie routingu stanu łącza opisuje sytuację, gdy router wstawia najlepsze ścieżki do tabeli routingu?
+deklarowanie sąsiada jako niedostępnego
+wykonywanie algorytmu SPF
+równoważenie obciążenia ścieżek o jednakowym koszcie
+wybór najlepszej trasy

@@ -1,0 +1,6 @@
+X0100
+Jaki jest jeden z powodów użycia polecenia ip ospf priority, gdy używany jest protokół routingu OSPF?
+aby aktywować proces sąsiedztwa OSPF
+aby wpłynąć na proces wyboru DR/BDR
+aby zapewnić obejście dla łączności podczas procesu konwergencji
+aby usprawnić i przyspieszyć proces konwergencji

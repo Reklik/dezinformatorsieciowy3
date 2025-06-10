@@ -1,0 +1,6 @@
+X1000
+Administrator sieci otrzymał zadanie stworzenia planu odzyskiwania po awarii. W ramach tego planu administrator poszukuje zapasowej lokalizacji do przechowywania wszystkich danych z serwerów firmy. Jaka usługa lub technologia wspiera to wymaganie?
+centrum danych
+wirtualizacja
+dedykowane serwery
+sieci definiowane programowo (SDN)

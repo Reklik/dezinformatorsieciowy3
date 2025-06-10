@@ -1,0 +1,8 @@
+X000001
+Odwołaj się do ilustracji. Administrator próbuje wykonać kopię zapasową bieżącej konfiguracji działającej routera na dysk USB, wpisując polecenie copy usbflash0:/R1-config running-config w wierszu poleceń routera. Po odłączeniu dysku USB i podłączeniu go do komputera administrator odkrywa, że konfiguracja działająca nie została poprawnie skopiowana do pliku R1-config. Jaki jest problem?
+[img]127.png[/img]
+Plik już istnieje na dysku USB i nie można go nadpisać.
+Dysk nie został prawidłowo sformatowany systemem plików FAT16.
+Na dysku USB nie ma wolnego miejsca.
+Dysk USB nie jest rozpoznawany przez router.
+Polecenie użyte przez administratora jest niepoprawne.

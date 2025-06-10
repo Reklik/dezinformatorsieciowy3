@@ -1,0 +1,7 @@
+X00100
+Jak nazywa się warstwa w bezprzewodowej, przełączanej sieci Cisco, która jest uważana za szkielet wykorzystywany do szybkiego połączenia i izolacji awarii?
+warstwa łącza danych (data link)
+warstwa dostępu (access)
+warstwa szkieletu (core)
+warstwa sieciowa (network)
+warstwa dostępu do sieci (network access)

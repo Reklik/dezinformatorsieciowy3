@@ -1,0 +1,7 @@
+X01000
+Polityka korporacyjna wymaga, aby dostęp do sieci serwerów był ograniczony tylko do pracowników wewnętrznych. Jaki jest najlepszy typ listy ACL i miejsce jej zastosowania w tej sytuacji?
+[img]199.png[/img]
+rozszerzona ACL wychodząca na interfejsie S0/0/1 routera R2
+standardowa ACL wychodząca na interfejsie S0/0/0 routera R2
+standardowa ACL przychodząca na interfejsie WAN routera R2 łączącym się z Internetem
+rozszerzona ACL przychodząca na interfejsie S0/0/0 routera R2

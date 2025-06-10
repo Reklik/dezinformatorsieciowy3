@@ -1,0 +1,6 @@
+X1000
+Firma Anycompany zdecydowała się zmniejszyć swój ślad środowiskowy poprzez obniżenie kosztów energii, przeniesienie do mniejszej placówki oraz promowanie pracy zdalnej. Która usługa lub technologia wspiera to wymaganie?
+Usługi w chmurze (Cloud services)
+Centrum danych (Data center)
+APIC-EM
+Cisco ACI

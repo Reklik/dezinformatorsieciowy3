@@ -1,0 +1,6 @@
+X0100
+Jakie polecenie byłoby używane podczas konfigurowania NAT lub PAT, aby usunąć dynamiczne wpisy przed upływem czasu ich wygaśnięcia?
+clear ip dhcp
+clear ip nat translation
+clear access-list counters
+clear ip pat statistics

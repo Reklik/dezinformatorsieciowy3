@@ -1,6 +1,5 @@
-X100
+X001
 Jaki typ ruchu jest opisywany jako tolerujący pewien poziom opóźnienia, zmienności opóźnień i utraty pakietów bez zauważalnych skutków?
 głos
 wideo
 dane
-

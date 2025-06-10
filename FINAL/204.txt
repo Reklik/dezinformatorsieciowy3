@@ -1,0 +1,6 @@
+X0010
+Która baza danych OSPF jest identyczna na wszystkich zbieżnych routerach w tym samym obszarze OSPF?
+neighbor
+forwarding
+link-state
+adjacency

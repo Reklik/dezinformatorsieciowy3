@@ -1,0 +1,6 @@
+X0100
+Firma musi połączyć kilka oddziałów w obszarze metropolitalnym. Inżynier sieci szuka rozwiązania, które zapewni szybki, zbieżny ruch, w tym głos, wideo i dane na tej samej infrastrukturze sieciowej. Firma chce także łatwej integracji z istniejącą infrastrukturą LAN w biurach. Jaką technologię należy polecić?
+Frame Relay
+Ethernet WAN
+VSAT
+ISDN

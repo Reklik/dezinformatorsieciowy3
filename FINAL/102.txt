@@ -1,0 +1,8 @@
+X001000
+Odwołaj się do ilustracji. Administrator konfiguruje następującą listę ACL, aby uniemożliwić urządzeniom z podsieci 192.168.1.0 dostęp do serwera pod adresem 10.1.1.5. Gdzie administrator powinien umieścić tę listę ACL, aby efektywnie wykorzystać zasoby sieci?
+[img]102.png[/img]
+[img]102_b.png[/img]
+przychodząco na routerze A Fa0/0
+wychodząco na routerze B Fa0/0
+wychodząco na routerze A Fa0/1
+przychodząco na routerze B Fa0/1

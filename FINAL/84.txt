@@ -1,0 +1,9 @@
+X0001010
+Odwołaj się do ilustracji. Administrator najpierw skonfigurował rozszerzoną listę ACL, jak pokazano w wyniku polecenia show access-lists. Następnie edytował tę listę za pomocą poniższych poleceń. Jakie dwa wnioski można wyciągnąć z nowej konfiguracji? (Wybierz dwa.)
+[img]84.png[/img]
+[img]84_b.png[/img]
+Pakiety TFTP będą dozwolone.
+Pakiety Ping będą dozwolone.
+Pakiety Telnet będą dozwolone.
+Pakiety SSH będą dozwolone.
+Wszystkie pakiety TCP i UDP będą odrzucone.​

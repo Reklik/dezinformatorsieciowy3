@@ -1,0 +1,5 @@
+X010
+Która wersja SNMP jest używana do współdziałania i obejmuje raportowanie integralności wiadomości?
+Wersja 2
+Wersja 3
+Oba

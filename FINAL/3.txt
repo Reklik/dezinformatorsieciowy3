@@ -1,0 +1,6 @@
+X0100
+Jaki typ sieci wykorzystuje jedną wspólną infrastrukturę do przesyłania sygnałów głosowych, danych i wideo?
+bezgraniczna
+zbieżna
+zarządzana
+przełączana

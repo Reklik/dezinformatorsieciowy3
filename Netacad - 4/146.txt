@@ -1,4 +1,4 @@
-X0010
+X0001
 Które stwierdzenie o działaniu standardowej ACL jest nieprawidłowe?
 Router wyodrębnia źródłowy adres IPv4 z nagłówka pakietów.
 Router rozpoczyna od góry listy ACL i porównuje adres z każdym wpisem ACE w kolejności sekwencyjnej.

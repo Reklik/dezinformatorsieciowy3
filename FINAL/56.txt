@@ -1,0 +1,5 @@
+X010
+Lista ACL jest zastosowana przychodząco na interfejsie routera. Lista ACL zawiera jeden wpis. Jeśli pakiet o adresie źródłowym 192.168.100.219, adresie docelowym 64.100.40.10 i protokole 54 zostanie odebrany na tym interfejsie, czy pakiet zostanie dozwolony czy odrzucony?
+[img]56.png[/img]
+odrzucony
+dozwolony

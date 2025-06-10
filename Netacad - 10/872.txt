@@ -1,0 +1,5 @@
+X100
+Która wersja SNMP nie zapewnia zaszyfrowanych komunikatów zarządzania?
+Wersja 2
+Wersja 3
+Oba

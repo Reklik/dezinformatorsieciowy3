@@ -1,0 +1,6 @@
+X0010
+Która grupa API jest używana przez kontroler SDN do komunikacji z różnymi aplikacjami?
+eastbound APIs
+westbound APIs
+northbound APIs
+southbound APIs

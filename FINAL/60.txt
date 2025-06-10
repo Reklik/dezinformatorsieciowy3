@@ -1,0 +1,6 @@
+X0010
+Użytkownik zgłasza, że po wpisaniu adresu URL korporacyjnej strony internetowej w przeglądarce wyświetla się komunikat o błędzie, że strona nie może zostać wyświetlona. Technik pomocy technicznej prosi użytkownika o wpisanie adresu IP serwera WWW, aby sprawdzić, czy strona się wyświetli. Jaką metodę rozwiązywania problemów stosuje technik?
+odgórną (top-down)
+oddolną (bottom-up)
+dzielenia i podbijania (divide-and-conquer)
+podstawienia (substitution)

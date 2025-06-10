@@ -1,0 +1,7 @@
+X00010
+Odwołaj się do ilustracji. Administrator sieci wdrożył QoS i skonfigurował sieć tak, aby oznaczać ruch na telefonach VoIP oraz na przełącznikach warstwy 2 i warstwy 3. Gdzie powinno nastąpić wstępne oznaczanie, aby ustanowić granicę zaufania?
+[img]70.png[/img]
+Granica zaufania 4 (Trust Boundary 4)
+Granica zaufania 3 (Trust Boundary 3)
+Granica zaufania 1 (Trust Boundary 1)
+Granica zaufania 2 (Trust Boundary 2)

@@ -1,0 +1,8 @@
+X001101
+Jakie są trzy korzyści z chmury obliczeniowej? (Wybierz trzy.)
+Wykorzystuje klientów końcowych do wykonywania znacznej ilości wstępnego przetwarzania danych i ich przechowywania.
+Wykorzystuje oprogramowanie open-source do rozproszonego przetwarzania dużych zbiorów danych.
+Usprawnia operacje IT organizacji poprzez subskrypcję tylko potrzebnych usług.
+Umożliwia dostęp do danych organizacyjnych z dowolnego miejsca i o dowolnym czasie.
+Przekształca surowe dane w istotne informacje poprzez odkrywanie wzorców i relacji.
+Eliminuje lub ogranicza potrzebę posiadania lokalnego sprzętu IT, jego konserwacji i zarządzania.

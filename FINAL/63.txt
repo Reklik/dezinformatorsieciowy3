@@ -1,0 +1,6 @@
+X0100
+Który element architektury ACI tłumaczy polityki aplikacji na programowanie sieci?
+hipernadzorca (the hypervisor)
+Kontroler Infrastruktury Polityk Aplikacji (Application Policy Infrastructure Controller)
+przełącznik Nexus 9000
+punkty końcowe profilu sieci aplikacji (Application Network Profile endpoints)

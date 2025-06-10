@@ -1,0 +1,6 @@
+X0100
+Jaki jest cel ustalenia punktu odniesienia dla sieci (network baseline)?
+Zapewnia statystyczną średnią wydajności sieci.
+Tworzy punkt odniesienia do przyszłych ocen sieci.
+Zarządza wydajnością urządzeń sieciowych.
+Sprawdza konfigurację zabezpieczeń urządzeń sieciowych.

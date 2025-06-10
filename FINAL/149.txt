@@ -1,0 +1,6 @@
+X1000
+Który mechanizm kolejkowania nie przewiduje priorytetyzacji ani buforowania, lecz po prostu przesyła pakiety w kolejności ich przybycia?
+FIFO
+LLQ
+CBWFQ
+WFQ

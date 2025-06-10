@@ -1,0 +1,6 @@
+X1000
+Firma nawiązała współpracę z firmą zajmującą się bezpieczeństwem sieci w celu identyfikacji luk w sieci korporacyjnej. Firma wysyła zespół do przeprowadzenia testów penetracyjnych. Dlaczego zespół używa fuzzers?
+aby odkrywać luki bezpieczeństwa komputera
+aby wykrywać wszelkie dowody włamania lub złośliwego oprogramowania w komputerze lub sieci
+aby inżynierować wstecznie pliki binarne podczas pisania exploitów i analizy złośliwego oprogramowania
+aby wykrywać zainstalowane narzędzia w plikach i katalogach, które umożliwiają atakującym zdalny dostęp i kontrolę nad komputerem lub siecią

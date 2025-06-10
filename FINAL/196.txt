@@ -1,0 +1,8 @@
+X010011
+Które trzy czynniki związane z ruchem sieciowym wpłyną na wybór konkretnego typu łącza WAN? (Wybierz trzy.)
+koszt łącza
+ilość ruchu
+odległość między lokalizacjami
+niezawodność
+wymagania dotyczące bezpieczeństwa
+typ ruchu

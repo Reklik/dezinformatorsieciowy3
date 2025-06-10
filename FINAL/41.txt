@@ -1,0 +1,7 @@
+X10001
+Jakie są dwie zasady składniowe dotyczące zapisu tablicy JSON? (Wybierz dwie.)
+Każda wartość w tablicy jest oddzielona przecinkiem.
+Tablica może zawierać tylko jeden typ wartości.
+Między każdą wartością w tablicy musi być spacja.
+Średnik oddziela klucz i listę wartości.
+Wartości są ujęte w nawiasy kwadratowe.

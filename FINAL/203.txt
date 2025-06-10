@@ -1,0 +1,8 @@
+X000010
+Odwołaj się do ilustracji. Administrator sieci skonfigurował standardową listę ACL, która zezwala tylko dwóm sieciom LAN podłączonym do R1 na dostęp do sieci łączącej się z interfejsem G0/1 routera R2. Zgodnie z najlepszymi praktykami, w jakim miejscu powinna być zastosowana standardowa lista ACL?
+[img]203.png[/img]
+R2 G0/1 inbound
+R2 S0/0/1 outbound
+R1 S0/0/0 outbound
+R2 G0/1 outbound
+R2 G0/0 outbound

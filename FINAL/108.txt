@@ -1,0 +1,6 @@
+X0100
+Administrator konfiguruje OSPF z jedną strefą na routerze. Jedną z sieci, która musi być rozgłaszana, jest 192.168.0.0 255.255.254.0. Jakiej maski dzikiej karty powinien użyć administrator w poleceniu network OSPF?
+0.7.255
+0.1.255
+0.3.255
+0.15.255

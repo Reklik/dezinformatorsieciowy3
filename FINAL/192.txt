@@ -1,0 +1,6 @@
+X0001
+Jaki protokół pozwala menedżerowi na odpytywanie agentów w celu uzyskania informacji z MIB agenta?
+CBWFQ
+SYSLOG
+TFTP
+SNMP

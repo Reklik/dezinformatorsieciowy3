@@ -1,0 +1,6 @@
+X1000
+Dwa routery z włączonym OSPF są połączone łączem punkt-punkt. W stanie ExStart, który router zostanie wybrany jako pierwszy do wysyłania pakietów DBD?
+router z najwyższym identyfikatorem routera (router ID)
+router z najniższym adresem IP na łączącym interfejsie
+router z najwyższym adresem IP na łączącym interfejsie
+router z najniższym identyfikatorem routera (router ID)

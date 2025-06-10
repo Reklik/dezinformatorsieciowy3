@@ -1,0 +1,7 @@
+X01010
+Inżynier sieci zauważył, że niektóre oczekiwane wpisy tras w sieci nie są wyświetlane w tabeli routingu. Które dwa polecenia dostarczą dodatkowych informacji o stanie sąsiedztw routera, interwałach timerów i identyfikatorze obszaru? (Wybierz dwa.)
+show ip protocols
+show ip ospf neighbor
+show running-configuration
+show ip ospf interface
+show ip route ospf

@@ -1,0 +1,6 @@
+X0100
+Które stwierdzenie opisuje cechę przełączników Cisco Catalyst 2960?
+Najlepiej nadają się jako przełączniki warstwy dystrybucyjnej.
+Nowe przełączniki Cisco Catalyst 2960-C obsługują PoE pass-through.
+Są to przełączniki modułowe.
+Nie obsługują aktywnego wirtualnego interfejsu przełączanego (SVI) w wersjach IOS starszych niż 15.x.

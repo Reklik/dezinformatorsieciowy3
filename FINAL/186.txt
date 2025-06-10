@@ -1,0 +1,6 @@
+X0010
+Jakie polecenie byłoby używane podczas konfigurowania NAT lub PAT, aby zdefiniować pulę adresów do tłumaczenia?
+ip nat inside source static 172.19.89.13 198.133.219.65
+ip nat inside source list 24 interface serial 0/1/0 overload
+ip nat pool POOL-STAT 64.100.14.17 64.100.14.30 netmask 255.255.255.240
+ip nat outside

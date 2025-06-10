@@ -1,0 +1,6 @@
+X0010
+Jakie polecenie byłoby używane podczas konfigurowania NAT lub PAT, aby zidentyfikować adresy inside local, które mają być tłumaczone?
+ip nat inside source list 24 interface serial 0/1/0 overload
+ip nat inside source list 14 pool POOL-STAT overload
+access-list 10 permit 172.19.89.0 0.0.0.255
+ip nat inside source list ACCTNG pool POOL-STAT

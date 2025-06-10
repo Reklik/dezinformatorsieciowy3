@@ -1,0 +1,6 @@
+X0010
+Który krok w procesie routingu stanu łącza opisuje sytuację, gdy router rozgłasza informacje o stanie łącza i kosztach dotyczące każdego bezpośrednio podłączonego łącza?
+tworzenie tabeli topologii
+wybieranie identyfikatora routera
+wymiana ogłoszeń stanu łącza
+wstrzykiwanie trasy domyślnej

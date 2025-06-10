@@ -1,0 +1,12 @@
+X010
+Jaki typ ruchu jest opisany jako mający niższy priorytet, jeśli nie jest krytyczny dla misji?
+wideo (video)
+dane (data)
+głos (voice)
+
+
+
+
+
+
+

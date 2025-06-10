@@ -1,0 +1,7 @@
+X10010
+Które dwa protokoły IPsec są używane do zapewnienia integralności danych? (Wybierz dwa.)
+MD5
+DH
+AES
+SHA
+RSA

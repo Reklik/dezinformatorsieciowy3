@@ -1,0 +1,6 @@
+X0001
+Która cecha projektowa ograniczy rozmiar domeny awarii w sieci korporacyjnej?
+zakup sprzętu korporacyjnego zaprojektowanego do obsługi dużego wolumenu ruchu
+instalacja redundantnych zasilaczy
+zastosowanie projektu scentralizowanego rdzenia
+zastosowanie podejścia z blokiem przełączników budynkowych

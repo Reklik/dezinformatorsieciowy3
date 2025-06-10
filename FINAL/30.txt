@@ -1,0 +1,9 @@
+X0110100
+Odwołaj się do ilustracji. Jakie trzy wnioski można wyciągnąć z wyświetlonego wyniku? (Wybierz trzy.)
+[img]30.png[/img]
+DR można osiągnąć przez interfejs GigabitEthernet 0/0.
+Minęło 9 sekund od wysłania ostatniego pakietu hello.
+Ten interfejs używa domyślnego priorytetu.
+Identyfikatory routerów nie były kryterium wyboru DR i BDR.
+Identyfikator routera DR to 3.3.3.3
+BDR ma trzech sąsiadów.

@@ -1,0 +1,6 @@
+X0100
+Klient potrzebuje połączenia WAN w obszarze metropolitalnym, które zapewnia dużą prędkość i dedykowaną przepustowość między dwiema lokalizacjami. Jaki typ połączenia WAN najlepiej spełni to wymaganie?
+sieć pakietowa (packet-switched network)
+Ethernet WAN
+sieć komutowana łączy (circuit-switched network)
+MPLS

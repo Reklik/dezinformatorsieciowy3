@@ -1,0 +1,5 @@
+X010
+Jaki typ ruchu jest opisany jako wymagający wyższego priorytetu, jeśli jest interaktywny?
+głos (voice)
+dane (data)
+wideo (video)

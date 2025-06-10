@@ -1,0 +1,6 @@
+X1000
+Jakie polecenie byłoby używane podczas konfigurowania NAT lub PAT, aby wyświetlić wszystkie skonfigurowane tłumaczenia statyczne?
+show ip nat translations
+show ip pat translations
+show ip cache
+show running-config

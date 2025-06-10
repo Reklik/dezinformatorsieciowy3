@@ -1,0 +1,14 @@
+X00010
+Jaki typ serwera byłby używany do przechowywania historycznych zapisów komunikatów z monitorowanych urządzeń sieciowych?
+DNS
+drukarka (print)
+DHCP
+syslog
+uwierzytelnianie (authentication)
+
+
+
+
+
+
+

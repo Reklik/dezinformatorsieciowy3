@@ -1,0 +1,6 @@
+X0010
+Jaki protokół używa mniejszych numerów strat, aby wskazać, że serwer jest bliżej autoryzowanego źródła czasu niż serwery z większymi numerami strat?
+TFTP
+SYSLOG
+NTP
+MPLS

@@ -1,0 +1,5 @@
+X010
+Jeśli pakiet o adresie źródłowym 198.133.219.100, adresie docelowym 198.133.219.170 i protokole 23 zostanie odebrany na interfejsie, czy pakiet zostanie dozwolony czy odrzucony?
+[img]137.png[/img]
+dozwolony
+odrzucony

@@ -1,0 +1,7 @@
+X00110
+Które dwa stwierdzenia opisują użycie algorytmów asymetrycznych? (Wybierz dwa.)
+Klucze publiczne i prywatne mogą być używane zamiennie.
+Jeśli klucz publiczny jest używany do szyfrowania danych, do odszyfrowania musi być użyty klucz publiczny.
+Jeśli klucz prywatny jest używany do szyfrowania danych, do odszyfrowania musi być użyty klucz publiczny.
+Jeśli klucz publiczny jest używany do szyfrowania danych, do odszyfrowania musi być użyty klucz prywatny.
+Jeśli klucz prywatny jest używany do szyfrowania danych, do odszyfrowania musi być użyty klucz prywatny.

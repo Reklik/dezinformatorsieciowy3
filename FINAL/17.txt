@@ -1,0 +1,7 @@
+X01001
+Jakie są dwie cechy ruchu wideo? (Wybierz dwie.)
+Ruch wideo zużywa mniej zasobów sieciowych niż ruch głosowy.
+Opóźnienie ruchu wideo nie powinno przekraczać 400 ms.
+Ruch wideo jest bardziej odporny na straty niż ruch głosowy.
+Ruch wideo wymaga minimum 30 kb/s przepustowości.
+Ruch wideo jest nieprzewidywalny i niespójny.

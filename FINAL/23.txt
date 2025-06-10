@@ -1,0 +1,6 @@
+X0100
+Jeśli host zewnętrzny nie ma wstępnie zainstalowanego klienta Cisco AnyConnect, w jaki sposób uzyska dostęp do obrazu klienta?
+Klient Cisco AnyConnect jest domyślnie zainstalowany w większości głównych systemów operacyjnych.
+Host inicjuje połączenie VPN bez klienta (clientless) za pomocą zgodnej przeglądarki internetowej, aby pobrać klienta.
+Host inicjuje połączenie bez klienta z serwerem TFTP, aby pobrać klienta.
+Host inicjuje połączenie bez klienta z serwerem FTP, aby pobrać klienta.

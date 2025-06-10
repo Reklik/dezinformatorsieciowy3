@@ -1,0 +1,6 @@
+X1000
+Jak wirtualizacja pomaga w odzyskiwaniu po awarii w centrum danych?
+Sprzęt nie musi być identyczny.
+Zasilanie jest zawsze zapewnione.
+Zużywana jest mniejsza ilość energii.
+Szybsze jest udostępnianie serwerów.

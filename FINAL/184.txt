@@ -1,0 +1,5 @@
+X001
+Jaki typ ruchu jest opisywany jako korzystający z protokołu TCP lub UDP w zależności od potrzeby odzyskiwania błędów?
+wideo (video)
+głos (voice)
+dane (data)

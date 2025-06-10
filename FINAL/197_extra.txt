@@ -1,0 +1,5 @@
+X0010
+Jakie polecenie byłoby używane podczas konfigurowania NAT lub PAT, aby powiązać adresy inside local z pulą adresów dostępną do tłumaczenia PAT?
+ip nat translation timeout 36000
+ip nat inside source list 14 pool POOL-STAT overload
+ip nat inside source static 172.19.89.13 198.133.219.65

@@ -1,0 +1,6 @@
+X1000
+Jaką funkcjonalność zapewnia mGRE technologii DMVPN?
+Pozwala na tworzenie dynamicznie przydzielanych tuneli przez stałe źródło tunelu w huba oraz dynamicznie przydzielane miejsca docelowe tunelu w ramionach (spokes).
+Zapewnia bezpieczny transport prywatnych informacji przez sieci publiczne, takie jak Internet.
+Jest to rozwiązanie programowe Cisco do budowania wielu VPN-ów w łatwy, dynamiczny i skalowalny sposób.
+Tworzy rozproszoną bazę danych mapowania publicznych adresów IP dla wszystkich ramion tuneli VPN.

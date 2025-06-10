@@ -1,0 +1,6 @@
+X0001
+Które zasoby wirtualne byłyby zainstalowane na serwerze sieciowym, aby zapewnić bezpośredni dostęp do zasobów sprzętowych?
+VMware Fusion
+konsola zarządzająca (management console)
+dedykowana VLAN
+hiperwizor typu 1 (Type 1 hypervisor)

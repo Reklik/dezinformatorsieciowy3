@@ -1,0 +1,7 @@
+X00011
+Które dwa scenariusze są przykładami zdalnych VPN-ów dostępowych? (Wybierz dwa.)
+Wszyscy użytkownicy w dużym oddziale mają dostęp do zasobów firmy poprzez jedno połączenie VPN.
+Małe biuro z trzema pracownikami korzysta z Cisco ASA do utworzenia połączenia VPN z centralą.
+Producent zabawek ma stałe połączenie VPN z jednym ze swoich dostawców części.
+Mobilny przedstawiciel handlowy łączy się z siecią firmową przez Internet z hotelu.
+Pracownik pracujący z domu używa oprogramowania klienckiego VPN na laptopie, aby połączyć się z siecią firmową.

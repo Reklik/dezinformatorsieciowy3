@@ -1,0 +1,5 @@
+X100
+Która wersja SNMP zawiera rozszerzone kody błędów z typami?
+Wersja 2
+Wersja 3
+Oba

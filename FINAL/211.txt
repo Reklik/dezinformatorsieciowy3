@@ -1,0 +1,7 @@
+X01000
+Która technika QoS wygładza szybkość wysyłania pakietów?
+policing
+shaping
+ważona wczesna detekcja losowa (weighted random early detection)
+usługi zintegrowane (Integrated Services, IntServ)
+oznaczanie (marking)

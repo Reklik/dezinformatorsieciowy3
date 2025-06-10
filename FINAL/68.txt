@@ -1,0 +1,7 @@
+X00101
+W dużej sieci korporacyjnej, które dwie funkcje wykonują routery na warstwie dystrybucyjnej? (Wybierz dwie.)
+łączą użytkowników z siecią
+zapewniają szybkie szkieletowe połączenie sieciowe
+łączą zdalne sieci
+zapewniają Power over Ethernet dla urządzeń
+zapewniają bezpieczeństwo ruchu danych

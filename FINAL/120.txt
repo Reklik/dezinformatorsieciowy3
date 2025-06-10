@@ -1,0 +1,7 @@
+X00100
+Odwołaj się do ilustracji. Jaki wniosek można wyciągnąć z tej sieci wielodostępowej OSPF?
+[img]120.png[/img]
+Jeśli DR przestanie wysyłać pakiety Hello, zostanie wybrany BDR, który następnie awansuje na DR.
+Wraz z wyborem DR liczba sąsiedztw zmniejsza się z 6 do 3.
+Po wyborze DR wszystkie inne routery niebędące DR stają się DROTHER.
+Wszystkie routery DROTHER wysyłają LSA do DR i BDR na adres multicast 224.0.0.5.

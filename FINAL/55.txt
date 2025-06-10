@@ -1,0 +1,5 @@
+X010
+Jeśli pakiet o adresie źródłowym 192.168.101.45, adresie docelowym 64.100.40.4 i protokole 23 zostanie odebrany na interfejsie, czy pakiet zostanie dozwolony czy odrzucony?
+[img]55.png[/img]
+dozwolony (permitted)
+odrzucony (denied)

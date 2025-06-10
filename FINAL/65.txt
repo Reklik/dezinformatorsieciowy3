@@ -1,0 +1,7 @@
+X01000
+Odwołaj się do ilustracji. Komputer o adresie 10.1.1.45 nie może uzyskać dostępu do Internetu. Jaka jest najbardziej prawdopodobna przyczyna problemu?
+[img]65.png[/img]
+Pula NAT została wyczerpana.
+W puli NAT użyto niewłaściwej maski sieci.
+Lista dostępu 1 nie została prawidłowo skonfigurowana.
+Interfejsy wewnętrzny i zewnętrzny zostały skonfigurowane odwrotnie.

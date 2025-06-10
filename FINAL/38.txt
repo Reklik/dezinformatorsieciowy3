@@ -1,0 +1,7 @@
+X01000
+Odwołaj się do ilustracji. R1 jest skonfigurowany dla NAT, jak pokazano. Co jest nie tak z konfiguracją?
+[img]38.png[/img]
+NAT-POOL2 nie jest powiązany z ACL 1.
+Interfejs Fa0/0 powinien być zidentyfikowany jako zewnętrzny interfejs NAT.
+Pula NAT jest niepoprawna.
+Lista dostępu access-list 1 jest błędnie skonfigurowana.

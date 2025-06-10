@@ -1,0 +1,6 @@
+X0010
+Administrator konfiguruje OSPF z jedną strefą na routerze. Jedną z sieci, która musi być rozgłaszana, jest 192.168.0.0 255.255.252.0. Jakiej maski dzikiej karty (wildcard mask) powinien użyć administrator w instrukcji sieci OSPF?
+0.0.127
+0.0.31
+0.3.255
+0.0.63

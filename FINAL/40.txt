@@ -1,0 +1,5 @@
+X001
+Firma nawiązała współpracę z firmą zajmującą się bezpieczeństwem sieci w celu identyfikacji luk w korporacyjnej sieci. Firma ta wysyła zespół do przeprowadzenia testów penetracyjnych sieci firmowej. Dlaczego zespół używa aplikacji takich jak John the Ripper, THC Hydra, RainbowCrack i Medusa?
+aby przechwytywać i analizować pakiety w tradycyjnych sieciach Ethernet LAN lub WLAN
+aby badać i testować odporność zapory sieciowej przy użyciu specjalnie spreparowanych pakietów
+aby wielokrotnie zgadywać w celu złamania hasła

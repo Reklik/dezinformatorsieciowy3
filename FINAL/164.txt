@@ -1,0 +1,8 @@
+X011000
+Odwołaj się do ilustracji. Projektant stron internetowych zgłasza, że serwer web-s1.cisco.com jest niedostępny przez przeglądarkę internetową. Technik używa narzędzi wiersza poleceń, aby zweryfikować problem i rozpocząć proces rozwiązywania problemu. Jakie dwie rzeczy można ustalić na podstawie problemu? (Wybierz dwie.)
+[img]164.png[/img]
+Serwer WWW o adresie 192.168.0.10 jest osiągalny z hosta źródłowego.
+DNS nie może przetłumaczyć nazwy web-s1.cisco.com na adres IP.
+Router między hostem źródłowym a serwerem web-s1.cisco.com jest wyłączony.
+Istnieje problem z oprogramowaniem serwera WWW na web-s1.cisco.com.
+Brama domyślna między hostem źródłowym a serwerem 192.168.0.10 jest wyłączona.

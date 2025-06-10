@@ -1,0 +1,7 @@
+X00001
+Odwołaj się do ilustracji. Wielu pracowników traci czas firmy, korzystając z mediów społecznościowych na komputerach służbowych. Firma chce zablokować ten dostęp. Jaki jest najlepszy typ i miejsce zastosowania listy ACL w tej sytuacji?
+[img]87.png[/img]
+rozszerzona ACL wychodząca na interfejsie WAN R2 w kierunku Internetu
+standardowa ACL wychodząca na interfejsie WAN R2 w kierunku Internetu
+standardowa ACL wychodząca na R2 S0/0/0
+rozszerzone ACL przychodzące na R1 G0/0 i G0/1

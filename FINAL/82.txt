@@ -1,0 +1,7 @@
+X00100
+Odwołaj się do ilustracji. Jaki jest cel polecenia oznaczonego strzałką w części konfiguracji routera szerokopasmowego Cisco?
+[img]82.png[/img]
+określa, które adresy są dozwolone do wejścia do routera
+określa, które adresy mogą być tłumaczone
+określa, które adresy są przypisane do puli NAT
+określa, które adresy są dozwolone do wyjścia z routera

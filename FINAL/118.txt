@@ -1,0 +1,6 @@
+X1000
+Jaki protokół jest neutralnym wobec dostawcy protokołem warstwy 2, który reklamuje tożsamość i możliwości urządzenia hosta innym podłączonym urządzeniom sieciowym?
+LLDP
+NTP
+TFTP
+SNMP

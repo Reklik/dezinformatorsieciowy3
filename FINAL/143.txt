@@ -1,0 +1,8 @@
+X110010
+Które trzy stwierdzenia są ogólnie uważane za najlepsze praktyki dotyczące umieszczania list ACL? (Wybierz trzy.)
+Filtrować niechciany ruch zanim przejdzie przez łącze o niskiej przepustowości.
+Umieszczać standardowe ACL blisko docelowego adresu IP ruchu.
+Umieszczać standardowe ACL blisko źródłowego adresu IP ruchu.
+Umieszczać rozszerzone ACL blisko docelowego adresu IP ruchu.
+Umieszczać rozszerzone ACL blisko źródłowego adresu IP ruchu.
+Dla każdej przychodzącej ACL na interfejsie powinna być dopasowana wychodząca ACL.

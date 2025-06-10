@@ -1,0 +1,6 @@
+X0001
+Który krok w procesie routingu stanu łącza opisuje sytuację, gdy router uruchamia algorytm w celu określenia najlepszej ścieżki do każdego celu?
+tworzenie tabeli topologii
+wybieranie identyfikatora routera
+deklarowanie sąsiada jako niedostępnego
+wykonywanie algorytmu SPF

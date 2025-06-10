@@ -1,0 +1,6 @@
+X0100
+Firma nawiązała współpracę z firmą zajmującą się bezpieczeństwem sieci w celu identyfikacji luk w sieci korporacyjnej. Firma wysyła zespół do przeprowadzenia testów penetracyjnych. Dlaczego zespół używa narzędzi kryminalistycznych (forensic tools)?
+aby uzyskać specjalnie zaprojektowane systemy operacyjne z preinstalowanymi narzędziami zoptymalizowanymi do włamań
+aby wykryć wszelkie dowody włamania lub złośliwego oprogramowania w komputerze lub sieci
+aby wykryć zainstalowane narzędzia w plikach i katalogach, które umożliwiają atakującym zdalny dostęp i kontrolę nad komputerem lub siecią
+aby inżynierować wstecznie pliki binarne podczas pisania exploitów i analizy złośliwego oprogramowania

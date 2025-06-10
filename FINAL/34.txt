@@ -1,0 +1,6 @@
+X0100
+Jakie polecenie byłoby używane podczas konfigurowania NAT lub PAT, aby wyświetlić informacje o parametrach konfiguracji NAT oraz liczbie adresów w puli?
+show running-config
+show ip nat statistics
+show ip cache
+show version

@@ -1,0 +1,8 @@
+X011100
+Jakie trzy typy VPN są przykładami zarządzanych przez przedsiębiorstwo VPN site-to-site? (Wybierz trzy.)
+Layer 3 MPLS VPN
+IPsec VPN
+Cisco Dynamic Multipoint VPN
+GRE over IPsec VPN
+clientless SSL VPN
+client-based IPsec VPN

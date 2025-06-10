@@ -1,0 +1,6 @@
+X0010
+Jaki protokół jest używany w systemie składającym się z trzech elementów — menedżera, agentów i bazy danych informacji?
+MPLS
+SYSLOG
+SNMP
+TFTP

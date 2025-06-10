@@ -1,0 +1,6 @@
+X0010
+Technik sieciowy konfiguruje SNMPv3 i ustawił poziom zabezpieczeń na SNMPv3 authPriv. Jaka jest cecha używania tego poziomu?
+uwierzytelnia pakiet za pomocą samego algorytmu SHA
+uwierzytelnia pakiet przez dopasowanie ciągu nazwy użytkownika lub ciągu wspólnoty
+uwierzytelnia pakiet za pomocą HMAC z MD5 lub metodą SHA
+uwierzytelnia pakiet za pomocą HMAC MD5 lub HMAC SHA oraz nazwy użytkownika

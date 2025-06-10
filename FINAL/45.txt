@@ -1,0 +1,6 @@
+X0001
+Firma nawiązała współpracę z firmą zajmującą się bezpieczeństwem sieci w celu identyfikacji luk w korporacyjnej sieci. Firma ta wysyła zespół do przeprowadzenia testów penetracyjnych sieci firmowej. Dlaczego zespół używa analizatorów pakietów (packet sniffers)?
+aby wykryć zainstalowane narzędzia w plikach i katalogach, które zapewniają atakującym zdalny dostęp i kontrolę nad komputerem lub siecią
+aby wykryć jakiekolwiek ślady ataku lub złośliwego oprogramowania w komputerze lub sieci
+aby badać i testować odporność zapory sieciowej przy użyciu specjalnie spreparowanych pakietów
+aby przechwytywać i analizować pakiety w tradycyjnych sieciach Ethernet LAN lub WLAN

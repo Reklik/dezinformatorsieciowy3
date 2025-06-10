@@ -1,0 +1,7 @@
+X01000
+Odwołaj się do ilustracji. Administrator sieci skonfigurował OSPFv2 na dwóch routerach Cisco. Routery nie mogą utworzyć sąsiedztwa. Co należy zrobić, aby naprawić problem na routerze R2?
+[img]150.png[/img]
+Wprowadzić polecenie no passive-interface Serial0/1.
+Wprowadzić polecenie network 192.168.2.6 0.0.0.0 area 0 na routerze R2.
+Zmienić router-id routera R2 na 2.2.2.2.
+Wprowadzić polecenie network 192.168.3.1 0.0.0.0 area 0 na routerze R2.

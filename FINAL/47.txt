@@ -1,0 +1,3 @@
+X1
+Dopasuj metodę HTTP do operacji RESTful.
+[img]47.png[/img]

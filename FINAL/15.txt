@@ -1,0 +1,7 @@
+X00100
+Rozważ poniższy wynik dotyczący listy kontroli dostępu (ACL), która została zastosowana na routerze za pomocą polecenia access-class in. Co może ustalić administrator sieci na podstawie pokazanego wyniku?
+[img]15.png[/img]
+Dwa urządzenia podłączone do routera mają adresy IP z zakresu 192.168.10.x.
+Dwa urządzenia mogły uzyskać dostęp do routera za pomocą SSH lub Telnetu.
+Ruch z jednego urządzenia nie został dopuszczony do wejścia przez jeden port routera i przekierowania przez inny port.
+Ruch z dwóch urządzeń został dopuszczony do wejścia przez jeden port routera i przekierowania przez inny port.

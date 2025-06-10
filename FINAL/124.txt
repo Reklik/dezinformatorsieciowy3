@@ -1,0 +1,6 @@
+X0010
+Firma skonsolidowała kilka serwerów i szuka programu lub oprogramowania sprzętowego do tworzenia i kontrolowania maszyn wirtualnych, które mają dostęp do całego sprzętu skonsolidowanych serwerów. Która usługa lub technologia spełni to wymaganie?
+Cisco ACI
+software defined networking
+hiperwizor typu 1 (Type-1 hypervisor)
+APIC-EM
