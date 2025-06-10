@@ -1,0 +1,6 @@
+X0010
+Firma Anycompany zdecydowała się zmniejszyć swój ślad środowiskowy poprzez obniżenie kosztów energii, przeprowadzkę do mniejszej placówki i promowanie pracy zdalnej. Która usługa lub technologia spełni to wymaganie?
+centrum danych (data center)
+wirtualizacja (virtualization)
+usługi w chmurze (cloud services)
+dedykowane serwery (dedicated servers)

@@ -1,0 +1,7 @@
+X10000
+Jaka jest główna funkcja hiperwizora?
+Jest używany do tworzenia i zarządzania wieloma instancjami maszyn wirtualnych na hoście.
+Jest urządzeniem filtrującym i sprawdzającym dane uwierzytelniające.
+Jest urządzeniem synchronizującym grupę czujników.
+Jest oprogramowaniem używanym do koordynacji i przygotowania danych do analizy.
+Jest używany przez dostawców usług internetowych do monitorowania zasobów chmury obliczeniowej.

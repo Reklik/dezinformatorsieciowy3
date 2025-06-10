@@ -1,0 +1,7 @@
+X10010
+Jakie są dwa cechy, które należy wziąć pod uwagę podczas tworzenia nazwanej listy ACL? (Wybierz dwa.)
+Używaj znaków alfanumerycznych w razie potrzeby.
+*Używaj znaków specjalnych, takich jak ! lub , aby podkreślić ważność listy ACL.
+Modyfikuj listę ACL za pomocą edytora tekstu.
+Bądź opisowy podczas tworzenia nazwy listy ACL.
+Używaj spacji, aby ułatwić czytanie i oddzielić nazwę od opisu.

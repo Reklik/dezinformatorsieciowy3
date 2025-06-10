@@ -1,0 +1,6 @@
+X1000
+Który typ VPN jest preferowany pod względem wsparcia i łatwości wdrożenia dla zdalnego dostępu?
+SSL VPN
+GRE over IPsec
+dynamic multipoint VPN
+IPsec virtual tunnel interface

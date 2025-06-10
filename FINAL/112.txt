@@ -1,0 +1,7 @@
+X01000
+Odwołaj się do ilustracji. Administrator sieci musi dodać wpis ACE do listy ACL o nazwie TRAFFIC-CONTROL, który zablokuje ruch IP z podsieci 172.23.16.0/20. Który wpis ACE spełni to wymaganie?
+[img]112.png[/img]
+5 deny 172.23.16.0 0.0.15.255
+5 deny 172.23.16.0 0.0.255.255
+15 deny 172.23.16.0 0.0.15.255
+30 deny 172.23.16.0 0.0.15.255

@@ -1,0 +1,7 @@
+X00110
+Które dwie rzeczy powinien zmodyfikować administrator sieci na routerze, aby przeprowadzić odzyskiwanie hasła? (Wybierz dwie.)
+plik obrazu systemu
+system plików NVRAM
+wartość rejestru konfiguracyjnego
+plik konfiguracji startowej
+ROM systemowy

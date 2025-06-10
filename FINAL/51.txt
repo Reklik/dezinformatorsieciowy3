@@ -1,0 +1,6 @@
+X0001
+Jaka jest cecha dwupoziomowej topologii spine-leaf w architekturze Cisco ACI fabric?
+Przełączniki spine i leaf są zawsze połączone przez przełączniki rdzeniowe.
+Przełączniki spine łączą się z przełącznikami leaf i ze sobą nawzajem dla zapewnienia nadmiarowości.
+Przełączniki leaf zawsze łączą się z przełącznikami spine i są połączone między sobą przez łącze typu trunk.
+Przełączniki leaf zawsze łączą się z przełącznikami spine, ale nigdy nie łączą się ze sobą nawzajem.

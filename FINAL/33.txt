@@ -1,0 +1,6 @@
+X0010
+Co jest używane do wstępnego wypełnienia tabeli sąsiedztwa (adjacency table) na urządzeniach Cisco, które używają CEF do przetwarzania pakietów?
+FIB
+tabela routingu (routing table)
+tabela ARP
+DSP

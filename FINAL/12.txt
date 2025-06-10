@@ -1,0 +1,6 @@
+X0100
+Która publiczna technologia dostępu WAN wykorzystuje miedziane linie telefoniczne, aby zapewnić dostęp abonentom, którzy są multipleksowani do pojedynczego połączenia T3?
+ISDN
+DSL
+kabel
+dial-up

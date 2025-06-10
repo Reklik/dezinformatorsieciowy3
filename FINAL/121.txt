@@ -1,0 +1,7 @@
+X00100
+Odwołaj się do ilustracji. Administrator sieci ma adres IP 192.168.11.10 i potrzebuje dostępu do zarządzania routerem R1. Jaki typ listy ACL i jej umiejscowienie będzie najlepsze w tej sytuacji?
+[img]121.png[/img]
+rozszerzona ACL wychodząca na interfejsie WAN R2 w kierunku Internetu
+standardowa ACL przychodząca na liniach vty R1
+rozszerzone ACL przychodzące na interfejsach G0/0 i G0/1 R1
+rozszerzona ACL wychodząca na interfejsie S0/0/1 R2

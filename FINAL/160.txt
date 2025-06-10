@@ -1,0 +1,7 @@
+X00001
+Odwołaj się do ilustracji. Firma zdecydowała, że żaden ruch inicjowany z innych istniejących lub przyszłych sieci nie może być przesyłany do sieci Badawczo-Rozwojowej. Ponadto żaden ruch pochodzący z sieci Badawczo-Rozwojowej nie może być przesyłany do innych istniejących lub przyszłych sieci w firmie. Administrator sieci zdecydował, że rozszerzone listy ACL lepiej spełnią te wymagania. Na podstawie podanych informacji, co zrobi administrator sieci?
+[img]160.png[/img]
+Jedna lista ACL zostanie zastosowana na interfejsie Gi0/0 routera R1, a druga lista ACL na interfejsie Gi0/0 routera R2.
+Tylko numerowana lista ACL zadziała w tej sytuacji.
+Jedna lista ACL zostanie zastosowana na interfejsie Gi0/0 routera R2, a druga na interfejsie S0/0/0 routera R2.
+Dwie listy ACL (po jednej w każdym kierunku) zostaną zastosowane na interfejsie Gi0/0 routera R2.

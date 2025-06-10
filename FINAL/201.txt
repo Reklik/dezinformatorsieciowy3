@@ -1,0 +1,6 @@
+X0010
+Technik pracuje na przełączniku warstwy 2 i zauważa, że na porcie G0/5 ciągle pojawia się komunikat %CDP-4-DUPLEX_MISMATCH. Jakie polecenie powinien wydać technik na przełączniku, aby rozpocząć proces rozwiązywania problemu?
+show cdp neighbors
+show ip interface brief
+show interface g0/5
+show cdp

@@ -1,0 +1,6 @@
+X10000
+Kiedy router z włączonym OSPF przejdzie ze stanu Down do stanu Init?
+gdy interfejs z OSPF stanie się aktywny
+zaraz po uruchomieniu routera
+gdy router otrzyma pakiet hello od sąsiedniego routera
+zaraz po zakończeniu procesu wyboru DR/BDR

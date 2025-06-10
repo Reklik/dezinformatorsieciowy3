@@ -3,4 +3,3 @@ Które z poniższych stwierdzeń jest URN?
 https://www.cisco.com/c/en/us/solutions/design-zone.html#~all-guides
 https://www.cisco.com/c/en/us/solutions/design-zone.html
 www.cisco.com/c/en/us/solutions/design-zone.html
-#~all-guides

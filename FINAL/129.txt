@@ -1,0 +1,7 @@
+X00010
+Odwołaj się do ilustracji. Pracownicy w sieci 192.168.11.0/24 pracują nad krytycznie wrażliwymi informacjami i nie mają mieć dostępu poza swoją sieć. Jaki jest najlepszy typ listy ACL i jej miejsce zastosowania w tej sytuacji?
+[img]129.png[/img]
+standardowa ACL przychodząca na liniach vty routera R1
+rozszerzona ACL przychodząca na interfejsie G0/0 routera R1
+standardowa ACL przychodząca na interfejsie G0/1 routera R1
+rozszerzona ACL przychodząca na interfejsie S0/0/1 routera R3

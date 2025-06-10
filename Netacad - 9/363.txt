@@ -1,6 +1,6 @@
 X0010
 Co się dzieje, gdy router brzegowy korzystający z IntServ QoS stwierdzi, że ścieżka danych nie może obsługiwać żądanego poziomu QoS?
-Dane są przekazywane wzdłuż ścieżki przy użyciu podejścia oCzęśćego na najlepszych staraniach.
-Dane są przekazywane wzdłuż ścieżki za pomocą DiffServ.
-Dane nie są przekazywane wzdłuż ścieżki.
-Dane są przekazywane wzdłuż ścieżki za pomocą IntServ, ale nie pod warunkiem preferencyjnego traktowania.
+Dane są przesyłane wzdłuż ścieżki na zasadzie "best-effort"
+Dane są przesyłane wzdłuż ścieżki przy użyciu DiffServ
+Dane nie są przesyłane wzdłuż ścieżki
+Dane są przesyłane wzdłuż ścieżki przy użyciu IntServ, ale nie otrzymują priorytetowego traktowania.

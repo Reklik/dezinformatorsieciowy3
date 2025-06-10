@@ -1,0 +1,6 @@
+X1000
+Jaki krok QoS musi nastąpić przed oznaczeniem pakietów?
+klasyfikacja (classifying)
+kształtowanie (shaping)
+kolejkowanie (queuing)
+policing

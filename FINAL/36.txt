@@ -1,0 +1,3 @@
+X1
+Dopasuj typ urządzenia lub usługi WAN do opisu. (Nie wszystkie opcje są używane.)
+[img]36.png[/img]

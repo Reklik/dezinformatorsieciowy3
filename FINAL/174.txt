@@ -1,0 +1,7 @@
+X01000
+Odwołaj się do ilustracji. Administrator sieci skonfigurował OSPFv2 na dwóch routerach Cisco, ale PC1 nie może połączyć się z PC2. Jaki jest najbardziej prawdopodobny problem?
+[img]174.png[/img]
+Interfejs Fa0/0 nie został aktywowany dla OSPFv2 na routerze R2.
+Interfejs Fa0/0 jest skonfigurowany jako interfejs pasywny na routerze R2.
+Interfejs S0/0 jest skonfigurowany jako interfejs pasywny na routerze R2.
+Interfejs S0/0 nie został aktywowany dla OSPFv2 na routerze R2.

@@ -1,0 +1,6 @@
+X0100
+Jaki typ pakietu OSPF jest używany przez router do wykrywania sąsiednich routerów i nawiązywania sąsiedztwa?
+aktualizacja stanu łącza (link-state update)
+hello
+opis bazy danych (database description)
+żądanie stanu łącza (link-state request)

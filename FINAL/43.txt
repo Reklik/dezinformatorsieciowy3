@@ -1,0 +1,6 @@
+X0010
+Atakujący przekierowuje ruch do fałszywej bramy domyślnej w celu przechwycenia ruchu danych w przełączanej sieci. Jaki typ ataku może to osiągnąć?
+TCP SYN flood
+DNS tunneling
+Podszywanie się pod DHCP (DHCP spoofing)
+Zatrucie pamięci podręcznej ARP (ARP cache poisoning)

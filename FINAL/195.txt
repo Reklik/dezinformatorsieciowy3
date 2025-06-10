@@ -1,0 +1,7 @@
+X01000
+Jakie pojęcie opisuje dodanie wartości do nagłówka pakietu, jak najbliżej źródła, tak aby pakiet odpowiadał zdefiniowanej polityce?
+policing
+oznaczanie ruchu (traffic marking)
+ważona wczesna detekcja losowa (WRED)
+kształtowanie ruchu (traffic shaping)
+odrzucanie z końca kolejki (tail drop)

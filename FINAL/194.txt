@@ -1,0 +1,5 @@
+X100
+Jaki typ ruchu jest opisany jako mogący tolerować pewien poziom opóźnień, jittera i strat bez zauważalnych skutków?
+głos (voice)
+wideo (video)
+dane (data)

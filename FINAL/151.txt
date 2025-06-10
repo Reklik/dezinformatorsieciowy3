@@ -1,0 +1,6 @@
+X0001
+Administrator sieci rozwiązuje problem z sąsiedztwem OSPF. Co powinien zrobić administrator?
+Upewnić się, że priorytet routera jest unikalny dla każdego routera.
+Upewnić się, że wybór DR/BDR został zakończony.
+Upewnić się, że identyfikator routera jest zawarty w pakiecie hello.
+Upewnić się, że timery hello i dead są takie same na wszystkich routerach.

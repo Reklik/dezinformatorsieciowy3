@@ -1,0 +1,8 @@
+X001000
+Odwołaj się do ilustracji. Administrator sieci konfiguruje listę ACL, aby ograniczyć połączenia z liniami vty routera R1 tylko do stacji roboczych grupy IT w sieci 192.168.22.0/28. Administrator pomyślnie weryfikuje połączenia Telnet z komputera o adresie IP 192.168.22.5 do R1 przed zastosowaniem listy ACL. Jednak po zastosowaniu ACL do interfejsu Fa0/0 połączenia Telnet są odrzucane. Jaka jest przyczyna niepowodzenia połączenia?
+[img]31.png[/img]
+Hasło enable secret nie jest skonfigurowane na R1.
+Sieć grupy IT jest uwzględniona w instrukcji deny.
+Polecenie permit ACE określa błędny numer portu.
+Polecenie permit ACE powinno określać protokół ip zamiast tcp.
+Polecenie login nie zostało wprowadzone dla linii vty.

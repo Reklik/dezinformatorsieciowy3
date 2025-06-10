@@ -1,0 +1,5 @@
+X001
+Jaki typ ruchu jest opisywany jako przewidywalny i płynny?
+wideo (video)
+dane (data)
+głos (voice)

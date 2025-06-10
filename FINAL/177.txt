@@ -1,0 +1,6 @@
+X1000
+Który typ VPN polega na przesyłaniu ruchu przez szkielet sieci za pomocą etykiet dystrybuowanych między routerami rdzeniowymi?
+MPLS VPN
+GRE over IPsec
+IPsec virtual tunnel interface
+dynamic multipoint VPN

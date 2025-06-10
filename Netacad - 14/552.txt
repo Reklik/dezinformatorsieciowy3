@@ -2,5 +2,5 @@ X1000
 Które z poniższych jest URI?
 https://www.cisco.com/c/en/us/solutions/design-zone.html#~all-guides
 https://www.cisco.com/c/en/us/solutions/design-zone.html
-http://www.cisco.com/c/en/us/solutions/design-zone.html
+www.cisco.com/c/en/us/solutions/design-zone.html
 #~all-guides

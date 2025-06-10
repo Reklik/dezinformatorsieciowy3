@@ -1,0 +1,6 @@
+X0001
+Który typ VPN umożliwia ruch multicast i broadcast przez bezpieczne połączenie site-to-site VPN?
+dynamic multipoint VPN
+SSL VPN
+IPsec virtual tunnel interface
+GRE over IPsec

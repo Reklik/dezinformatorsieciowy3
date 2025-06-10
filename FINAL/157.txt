@@ -1,0 +1,5 @@
+X100
+Jaki typ ruchu jest opisany jako wymagający opóźnienia nie przekraczającego 400 milisekund (ms)?
+wideo (video)
+dane (data)
+głos (voice)

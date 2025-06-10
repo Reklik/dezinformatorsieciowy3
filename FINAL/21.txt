@@ -1,0 +1,7 @@
+X00001
+Odwołaj się do ilustracji. Który adres lub adresy reprezentują wewnętrzny adres globalny (inside global address)?
+[img]21.png[/img]
+168.0.100
+1.1.2
+dowolny adres w sieci 10.1.1.0
+165.20.25

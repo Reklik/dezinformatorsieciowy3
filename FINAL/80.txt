@@ -1,0 +1,7 @@
+X00001
+Odwołaj się do ilustracji. Podczas gdy ruch jest przesyłany przez interfejs wyjściowy z zastosowaniem QoS, jaka technika unikania przeciążenia jest używana?
+[img]80.png[/img]
+kształtowanie ruchu (traffic shaping)
+ważona wczesna detekcja losowa (weighted random early detection)
+klasyfikacja i oznaczanie (classification and marking)
+kontrola ruchu (traffic policing)

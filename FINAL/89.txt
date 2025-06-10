@@ -1,0 +1,6 @@
+X0100
+Dlaczego QoS jest ważnym zagadnieniem w sieci zbieżnej, która łączy komunikację głosową, wideo i dane?
+Komunikacja danych musi mieć pierwszy priorytet.
+Komunikacja głosowa i wideo jest bardziej wrażliwa na opóźnienia.
+Sprzęt starszej generacji nie jest w stanie przesyłać głosu i wideo bez QoS.
+Komunikacja danych jest wrażliwa na jitter.

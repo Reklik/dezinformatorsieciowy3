@@ -1,0 +1,7 @@
+X01000
+Odwołaj się do ilustracji. Jeśli przełącznik zrestartuje się i wszystkie routery będą musiały ponownie nawiązać sąsiedztwa OSPF, które routery staną się nowym DR i BDR?
+[img]94.png[/img]
+Router R3 stanie się DR, a router R1 stanie się BDR.
+Router R4 stanie się DR, a router R3 stanie się BDR.
+Router R1 stanie się DR, a router R2 stanie się BDR.
+Router R3 stanie się DR, a router R2 stanie się BDR.

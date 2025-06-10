@@ -1,0 +1,6 @@
+X0010
+Centrum danych niedawno zaktualizowało serwer fizyczny, aby obsługiwał wiele systemów operacyjnych na jednym procesorze. Teraz centrum danych może zapewnić każdemu klientowi oddzielny serwer WWW bez konieczności przydzielania fizycznego, oddzielnego serwera dla każdego klienta. Jaki trend sieciowy jest wdrażany przez centrum danych w tej sytuacji?
+współpraca online
+BYOD (Bring Your Own Device)
+wirtualizacja
+utrzymanie integralności komunikacji

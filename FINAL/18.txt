@@ -1,0 +1,7 @@
+X00010
+Odwołaj się do ilustracji. Technik konfiguruje R2 do statycznego NAT, aby klient mógł uzyskać dostęp do serwera WWW. Jaki może być możliwy powód, dla którego komputer kliencki nie może uzyskać dostępu do serwera WWW?
+[img]18.png[/img]
+Polecenie IP NAT jest niepoprawne.
+Interfejs Fa0/1 powinien być zidentyfikowany jako zewnętrzny interfejs NAT.
+Interfejs S0/0/0 powinien być zidentyfikowany jako zewnętrzny interfejs NAT.
+W konfiguracji brakuje poprawnej listy kontroli dostępu.

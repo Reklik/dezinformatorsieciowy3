@@ -1,0 +1,7 @@
+X00001
+Odwołaj się do ilustracji. Jaką metodę można zastosować, aby router OSPF ogłaszał trasę domyślną do sąsiednich routerów OSPF?
+[img]39.png[/img]
+Użyj statycznej trasy wskazującej na ISP i rozpowszechnij ją (redistribute).
+Użyj polecenia redistribute static na R0-A.
+Użyj polecenia default-information originate na ISP.
+Użyj polecenia default-information originate na R0-A.

@@ -1,0 +1,6 @@
+X0001
+Jaki typ API byłby używany, aby umożliwić upoważnionym sprzedawcom organizacji dostęp do wewnętrznych danych sprzedaży z ich urządzeń mobilnych?
+open
+partner
+public
+private

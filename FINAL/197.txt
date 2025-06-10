@@ -1,0 +1,6 @@
+X0010
+Jaki protokół jest neutralnym wobec dostawcy protokołem odkrywania na warstwie 2, który musi być osobno skonfigurowany do wysyłania i odbierania pakietów informacyjnych?
+SNMP
+MPLS
+LLDP
+NTP

@@ -1,0 +1,7 @@
+X01000
+Odwołaj się do ilustracji. Jaki format danych jest używany do reprezentowania danych dla aplikacji automatyzacji sieci?
+[img]136.png[/img]
+XML
+HTML
+YAML
+JSON

@@ -1,0 +1,6 @@
+X0100
+Jakiego typu zasoby są wymagane dla hiperwizora typu 1?
+dedykowana VLAN
+konsola zarządzająca
+system operacyjny hosta
+serwer z uruchomionym VMware Fusion

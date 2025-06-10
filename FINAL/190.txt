@@ -1,0 +1,6 @@
+X0001
+Która tabela OSPF jest identyczna na wszystkich zbieżnych routerach w tym samym obszarze OSPF?
+tabela routingu (routing)
+tabela sąsiedztwa (neighbor)
+tabela sąsiedztwa adjacencji (adjacency)
+tabela topologii (topology)

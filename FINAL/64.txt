@@ -1,0 +1,8 @@
+X001010
+Jakie dwie informacje powinny być uwzględnione na diagramie topologii logicznej sieci? (Wybierz dwie.)
+typ urządzenia
+specyfikacja kabla
+identyfikator interfejsu
+wersja OS/IOS
+typ połączenia
+typ i identyfikator kabla

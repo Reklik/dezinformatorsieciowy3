@@ -1,0 +1,8 @@
+X001000
+Odwołaj się do ilustracji. Które urządzenia znajdują się w domenie awarii, gdy przełącznik S3 traci zasilanie?
+[img]111.png[/img]
+S4 and PC_2
+PC_3 and AP_2
+AP_2 and AP_1
+PC_3 and PC_2
+S1 and S4

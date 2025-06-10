@@ -1,0 +1,6 @@
+X0010
+Firma opracowuje politykę bezpieczeństwa dla bezpiecznej komunikacji. Podczas wymiany krytycznych wiadomości między centralą a oddziałem, wartość skrótu powinna być ponownie obliczana tylko przy użyciu wcześniej ustalonego kodu, co zapewnia ważność źródła danych. Który aspekt bezpiecznej komunikacji jest poruszany?
+integralność danych (data integrity)
+bezpieczeństwo przed wyparciem się autorstwa (non-repudiation)
+uwierzytelnianie źródła (origin authentication)
+poufność danych (data confidentiality)

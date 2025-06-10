@@ -1,0 +1,6 @@
+X0100
+Student, który spędza letni semestr za granicą, zrobił setki zdjęć na smartfonie i chce je zabezpieczyć na wypadek utraty. Która usługa lub technologia spełni to wymaganie?
+Cisco ACI
+usługi w chmurze (cloud services)
+software defined networking
+dedykowane serwery

@@ -1,0 +1,6 @@
+X1000
+Które podejście do rozwiązywania problemów jest bardziej odpowiednie dla doświadczonego administratora sieci niż dla mniej doświadczonego?
+mniej ustrukturyzowane podejście oparte na wykształconym przypuszczeniu
+podejście porównujące działające i niedziałające komponenty w celu znalezienia istotnych różnic
+ustrukturyzowane podejście zaczynające od warstwy fizycznej i przechodzące w górę przez warstwy modelu OSI, aż do zidentyfikowania przyczyny problemu
+podejście zaczynające się od aplikacji użytkownika końcowego i schodzące w dół przez warstwy modelu OSI, aż do zidentyfikowania przyczyny problemu

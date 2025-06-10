@@ -1,0 +1,7 @@
+X00100
+Odwołaj się do ilustracji. Jeśli administrator sieci utworzył standardową listę ACL, która zezwala tylko urządzeniom podłączonym do sieci R2 G0/0 na dostęp do urządzeń w interfejsie R1 G0/1, jak należy zastosować tę listę ACL?
+[img]27.png[/img]
+przychodząco (inbound) na interfejsie R2 G0/0
+wychodząco (outbound) na interfejsie R1 G0/1
+przychodząco (inbound) na interfejsie R1 G0/1
+wychodząco (outbound) na interfejsie R2 S0/0/1

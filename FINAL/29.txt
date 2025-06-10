@@ -1,0 +1,7 @@
+X00110
+Jakie są dwa typy połączeń VPN? (Wybierz dwa.)
+PPPoE
+Frame Relay
+site-to-site
+zdalny dostęp (remote access)
+łącze dzierżawione (leased line)

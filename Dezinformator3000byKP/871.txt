@@ -1,0 +1,5 @@
+X001
+Która wersja SNMP zapewnia usługi dla modeli zabezpieczeń?
+Wersja 2
+Wersja 3
+Oba

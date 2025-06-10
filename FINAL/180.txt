@@ -1,0 +1,6 @@
+X0001
+Jakie polecenie byłoby używane podczas konfigurowania NAT lub PAT, aby zidentyfikować interfejs jako część zewnętrznej sieci globalnej?
+ip pat inside
+access-list 10 permit 172.19.89.0 0.0.0.255
+ip nat inside
+ip nat outside

@@ -1,0 +1,6 @@
+X0010
+Administrator sieci zmodyfikował router z włączonym OSPF, ustawiając interwał hello na 20 sekund. Jaki jest domyślny nowy czas interwału dead?
+40 sekund
+60 sekund
+80 sekund
+100 sekund

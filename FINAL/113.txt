@@ -1,0 +1,6 @@
+X0100
+Który krok w procesie routingu stanu łącza opisuje sytuację, gdy router tworzy bazę danych stanu łącza na podstawie otrzymanych LSA?
+wykonywanie algorytmu SPF
+tworzenie tabeli topologii
+wybieranie identyfikatora routera
+deklarowanie sąsiada jako niedostępnego

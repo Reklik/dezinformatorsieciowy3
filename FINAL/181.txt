@@ -1,0 +1,6 @@
+X0010
+Aby uniknąć zakupu nowego sprzętu, firma chce wykorzystać bezczynne zasoby systemowe i skonsolidować liczbę serwerów, umożliwiając jednocześnie uruchamianie wielu systemów operacyjnych na jednej platformie sprzętowej. Która usługa lub technologia spełni to wymaganie?
+centrum danych (data center)
+usługi w chmurze (cloud services)
+wirtualizacja (virtualization)
+dedykowane serwery (dedicated servers)

@@ -1,0 +1,7 @@
+X10001
+Które dwa scenariusze spowodowałyby niedopasowanie dupleksu? (Wybierz dwa.)
+połączenie urządzenia z autonegocjacją z innym, które jest ręcznie ustawione na pełny dupleks
+uruchamianie i zatrzymywanie interfejsu routera podczas normalnej pracy
+połączenie urządzenia z interfejsem działającym z prędkością 100 Mbps z innym o interfejsie 1000 Mbps
+nieprawidłowa konfiguracja routingu dynamicznego
+ręczne ustawienie dwóch połączonych urządzeń na różne tryby dupleksu

@@ -1,0 +1,6 @@
+X0100
+Firma nawiązała współpracę z firmą zajmującą się bezpieczeństwem sieci w celu identyfikacji luk w korporacyjnej sieci. Firma ta wysyła zespół do przeprowadzenia testów penetracyjnych sieci firmowej. Dlaczego zespół miałby używać debugerów?
+aby wykryć zainstalowane narzędzia w plikach i katalogach, które umożliwiają atakującym zdalny dostęp i kontrolę nad komputerem lub siecią
+aby inżynierować wstecznie pliki binarne podczas pisania exploitów i analizowania złośliwego oprogramowania
+aby uzyskać specjalnie zaprojektowane systemy operacyjne z wbudowanymi narzędziami zoptymalizowanymi do hakowania
+aby wykryć jakiekolwiek ślady ataku lub złośliwego oprogramowania w komputerze lub sieci

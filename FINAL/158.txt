@@ -1,0 +1,8 @@
+X010010
+Odwołaj się do ilustracji. Które dwie konfiguracje byłyby użyte do utworzenia i zastosowania standardowej listy dostępu na R1, tak aby tylko urządzenia z sieci 10.0.70.0/25 miały dostęp do wewnętrznego serwera baz danych? (Wybierz dwa.)
+[img]158.png[/img]
+R1(config)# interface GigabitEthernet0/0; R1(config-if)# ip access-group 5 out
+R1(config)# access-list 5 permit 10.0.54.0 0.0.1.255
+R1(config)# interface Serial0/0/0; R1(config-if)# ip access-group 5 in
+R1(config)# access-list 5 permit 10.0.70.0 0.0.0.127
+R1(config)# access-list 5 permit any

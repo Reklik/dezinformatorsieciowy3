@@ -1,0 +1,6 @@
+X0010
+Który protokół zapewnia usługi uwierzytelniania, integralności i poufności i jest typem VPN?
+MD5
+AES
+IPsec
+ESP

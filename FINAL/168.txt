@@ -1,0 +1,13 @@
+X0010
+Który typ VPN zapewnia elastyczną opcję połączenia centralnej lokalizacji z oddziałami?
+IPsec virtual tunnel interface
+MPLS VPN
+dynamic multipoint VPN
+GRE over IPsec
+
+
+
+
+
+
+

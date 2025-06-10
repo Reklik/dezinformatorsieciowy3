@@ -1,0 +1,8 @@
+X110001
+Jakie są trzy zalety stosowania prywatnych adresów IP i NAT? (Wybierz trzy.)
+ukrywa prywatne adresowanie LAN przed urządzeniami zewnętrznymi podłączonymi do Internetu
+umożliwia rozbudowę sieci LAN bez potrzeby dodatkowych publicznych adresów IP
+zmniejsza wykorzystanie CPU na routerach klientów
+tworzy wiele publicznych adresów IP
+poprawia wydajność routera podłączonego do Internetu
+oszczędza zarejestrowane publiczne adresy IP

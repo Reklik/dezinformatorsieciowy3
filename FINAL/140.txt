@@ -1,0 +1,6 @@
+X0001
+Który typ VPN wykorzystuje konfigurację hub-and-spoke do ustanowienia topologii pełnej siatki (full mesh)?
+MPLS VPN
+GRE over IPsec
+IPsec virtual tunnel interface
+dynamic multipoint VPN

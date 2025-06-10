@@ -1,0 +1,7 @@
+X00100
+Na którym etapie zbierania objawów inżynier sieci określa, czy problem występuje w warstwie rdzeniowej, dystrybucyjnej czy dostępowej sieci?
+Określenie właściciela (Determine ownership).
+Określenie objawów (Determine the symptoms).
+Zawężenie zakresu (Narrow the scope).
+Dokumentacja objawów (Document the symptoms).
+Zbieranie informacji (Gather information).

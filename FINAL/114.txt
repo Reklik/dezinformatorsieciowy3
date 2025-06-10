@@ -1,0 +1,6 @@
+X0001
+Jaki protokół wykorzystuje agentów, którzy znajdują się na zarządzanych urządzeniach, do zbierania i przechowywania informacji o urządzeniu i jego działaniu?
+SYSLOG
+TFTP
+CBWFQ
+SNMP

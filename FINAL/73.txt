@@ -1,0 +1,6 @@
+X1000
+Grupa użytkowników w tej samej sieci skarży się na powolne działanie swoich komputerów. Po zbadaniu technik ustalił, że te komputery są częścią sieci zombie. Jaki typ złośliwego oprogramowania jest używany do kontrolowania tych komputerów?
+botnet
+spyware
+wirus (virus)
+rootkit

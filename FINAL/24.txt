@@ -1,0 +1,7 @@
+X10010
+Firma rozważa aktualizację połączenia WAN w kampusie. Które dwie opcje WAN są przykładami prywatnej architektury WAN? (Wybierz dwie.)
+łącze dzierżawione (leased line)
+kabel (cable)
+cyfrowa linia abonencka (digital subscriber line)
+Ethernet WAN
+miejska sieć Wi-Fi (municipal Wi-Fi)

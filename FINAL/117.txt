@@ -1,0 +1,5 @@
+X010
+Jaki typ ruchu jest opisywany jako mający dużą objętość danych na pakiet?
+dane (data)
+wideo (video)
+głos (voice)

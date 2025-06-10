@@ -1,0 +1,8 @@
+X001001
+Odwołaj się do ilustracji. Routery R1 i R2 są połączone łączem szeregowym. Jeden z routerów jest skonfigurowany jako nadrzędny NTP, a drugi jako klient NTP. Jakie dwie informacje można uzyskać z częściowego wyniku polecenia show ntp associations detail na R2? (Wybierz dwie.)
+[img]25.png[/img]
+Oba routery są skonfigurowane do używania NTPv2.
+Router R1 jest nadrzędny, a R2 jest klientem.
+Adres IP R2 to 192.168.1.2.
+Router R2 jest nadrzędny, a R1 jest klientem.
+Adres IP R1 to 192.168.1.2.

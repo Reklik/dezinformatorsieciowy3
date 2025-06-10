@@ -1,0 +1,14 @@
+X01100
+Gdy QoS jest wdrażane w sieci zbieżnej, które dwa czynniki można kontrolować, aby poprawić wydajność sieci dla ruchu w czasie rzeczywistym? (Wybierz dwa.)
+adresowanie pakietów (packet addressing)
+opóźnienie (delay)
+jitter
+trasowanie pakietów (packet routing)
+prędkość łącza (link speed)
+
+
+
+
+
+
+

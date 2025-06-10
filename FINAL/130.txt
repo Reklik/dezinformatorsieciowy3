@@ -1,0 +1,7 @@
+X10001
+W sieci OSPF, które dwa stwierdzenia opisują bazę danych stanu łącza (LSDB)? (Wybierz dwa.)
+Można ją wyświetlić za pomocą polecenia show ip ospf database.
+Tabela sąsiadów jest tworzona na podstawie LSDB.
+Zawiera listę tylko najlepszych tras do danej sieci.
+Zawiera listę wszystkich sąsiednich routerów, z którymi router nawiązał dwukierunkową komunikację.
+Wszystkie routery w obrębie obszaru mają identyczną bazę danych stanu łącza.

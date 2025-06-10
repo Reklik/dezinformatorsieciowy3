@@ -1,4 +1,4 @@
-X0001
+X0100
 Inżynier sieci diagnozuje problem, polegający na tym, iż użytkownicy nie mogą skorzystać z zasobów serwera FTP, podczas gdy mogą z powodzeniem skorzystać ze strony zlokalizowanej na tym samym serwerze. Jaka metoda rozwiązywania problemu byłaby najbardziej efektywna w tym przypadku?
 porównać ustawienia IP na komputerach użytkowników
 odgórna

@@ -1,0 +1,7 @@
+X10100
+Jakie są dwie korzyści z rozszerzenia łączności warstwy dostępowej do użytkowników za pomocą medium bezprzewodowego? (Wybierz dwie.)
+obniżone koszty
+zmniejszona liczba krytycznych punktów awarii
+zwiększona elastyczność
+zwiększona dostępność przepustowości
+zwiększone możliwości zarządzania siecią

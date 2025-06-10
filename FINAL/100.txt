@@ -1,0 +1,6 @@
+X1000
+Jaki protokół wysyła okresowe reklamy między połączonymi urządzeniami Cisco, aby poznać nazwę urządzenia, wersję IOS oraz liczbę i typ interfejsów?
+CDP
+SNMP
+NTP
+LLDP

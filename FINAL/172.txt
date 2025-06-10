@@ -1,0 +1,6 @@
+X0001
+Który krok w procesie routingu stanu łącza opisuje sytuację, gdy router wysyła pakiety Hello na wszystkich interfejsach z włączonym OSPF?
+wymiana ogłoszeń stanu łącza (exchanging link-state advertisements)
+wybór routera wyznaczonego (electing the designated router)
+wstrzykiwanie trasy domyślnej (injecting the default route)
+ustanawianie sąsiedztw (establishing neighbor adjacencies)

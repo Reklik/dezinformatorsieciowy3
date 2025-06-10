@@ -1,0 +1,7 @@
+X11000
+Jakie są dwie korzyści ze stosowania pułapek SNMP (SNMP traps)? (Wybierz dwie.)
+Eliminują potrzebę niektórych okresowych zapytań pollingowych.
+Zmniejszają obciążenie sieci i zasobów agenta.
+Ograniczają dostęp tylko do systemów zarządzania.
+Mogą dostarczać statystyki dotyczące pakietów TCP/IP przepływających przez urządzenia Cisco.
+Mogą pasywnie nasłuchiwać eksportowanych datagramów NetFlow.

@@ -1,0 +1,8 @@
+X010000
+Odwołaj się do ilustracji. Z jakiej lokalizacji ten router załadował system IOS?
+[img]75.png[/img]
+pamięć flash (flash memory)
+NVRAM
+RAM
+ROM
+serwer TFTP

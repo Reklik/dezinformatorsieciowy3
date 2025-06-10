@@ -1,0 +1,3 @@
+X1
+Dopasuj metodę RESTful API do funkcji CRUD.
+[img]207.png[/img]

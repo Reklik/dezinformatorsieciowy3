@@ -1,0 +1,7 @@
+X01001
+Które dwa stwierdzenia są cechami wirusa? (Wybierz dwa.)
+Wirus ma lukę umożliwiającą, mechanizm rozprzestrzeniania i ładunek.
+Wirus może być uśpiony, a następnie aktywować się w określonym czasie lub dacie.
+Wirus dostarcza atakującemu poufne dane, takie jak hasła.
+Wirus replikuje się samodzielnie, wykorzystując luki w zabezpieczeniach sieci.
+Wirus zazwyczaj wymaga aktywacji przez użytkownika końcowego.

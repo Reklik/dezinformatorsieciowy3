@@ -1,0 +1,6 @@
+X0001
+Jaki protokół synchronizuje się z prywatnym zegarem nadrzędnym lub z publicznie dostępnym serwerem w Internecie?
+MPLS
+CBWFQ
+TFTP
+NTP

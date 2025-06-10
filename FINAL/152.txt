@@ -1,0 +1,7 @@
+X00100
+Odwołaj się do ilustracji. Uprawnienia dostępu do Internetu dla pracownika zostały cofnięte z powodu nadużycia, ale pracownik nadal potrzebuje dostępu do zasobów firmy. Jaki jest najlepszy typ listy ACL i jej miejsce zastosowania w tej sytuacji?
+[img]152.png[/img]
+standardowa ACL przychodząca na interfejsie WAN R2 łączącym się z Internetem
+standardowa ACL wychodząca na interfejsie WAN R2 w kierunku Internetu
+standardowa ACL przychodząca na interfejsie G0/0 routera R1
+standardowa ACL wychodząca na interfejsie G0/0 routera R1

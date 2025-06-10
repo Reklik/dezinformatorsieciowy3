@@ -1,0 +1,6 @@
+X0100
+Technik sieciowy konfiguruje SNMPv3 i ustawił poziom bezpieczeństwa na auth. Jaki jest efekt tego ustawienia?
+uwierzytelnia pakiet poprzez dopasowanie ciągu znaków nazwy użytkownika lub ciągu społeczności (community string)
+uwierzytelnia pakiet przy użyciu metody HMAC z MD5 lub metody SHA
+uwierzytelnia pakiet przy użyciu algorytmów HMAC MD5 lub HMAC SHA oraz szyfruje pakiet za pomocą DES, 3DES lub AES
+uwierzytelnia pakiet wyłącznie przy użyciu algorytmu SHA

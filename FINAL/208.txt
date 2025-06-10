@@ -1,0 +1,5 @@
+X001
+Jaki typ ruchu jest opisany jako wymagający co najmniej 384 Kbps przepustowości?
+głos (voice)
+dane (data)
+wideo (video)

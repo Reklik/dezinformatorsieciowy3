@@ -1,0 +1,6 @@
+X1000
+Która z cech charakteryzuje hiperwizor typu 2?
+nie wymaga oprogramowania konsoli zarządzającej
+ma bezpośredni dostęp do zasobów sprzętowych serwera
+najlepiej nadaje się do środowisk korporacyjnych
+instaluje się bezpośrednio na sprzęcie

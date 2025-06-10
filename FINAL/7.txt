@@ -1,0 +1,6 @@
+X0010
+Jaką cechę ma sieć OSPF z jedną strefą?
+Wszystkie routery współdzielą wspólną bazę danych przekazywania.
+Wszystkie routery mają tę samą tabelę sąsiadów.
+Wszystkie routery znajdują się w obszarze rdzeniowym (backbone).
+Wszystkie routery mają tę samą tablicę routingu.

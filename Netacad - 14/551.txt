@@ -2,4 +2,4 @@ X0010
 Które z poniższych stwierdzeń jest URN?
 https://www.cisco.com/c/en/us/solutions/design-zone.html#~all-guides
 https://www.cisco.com/c/en/us/solutions/design-zone.html
-http://www.cisco.com/c/en/us/solutions/design-zone.html#~all-guides
+www.cisco.com/c/en/us/solutions/design-zone.html

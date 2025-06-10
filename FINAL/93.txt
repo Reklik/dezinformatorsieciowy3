@@ -1,0 +1,6 @@
+X0010
+Jaki jest końcowy stan operacyjny, który powstanie między routerem DR a DROTHER w OSPF po osiągnięciu konwergencji?
+loading
+established
+full
+two-way

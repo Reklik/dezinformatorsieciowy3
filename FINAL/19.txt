@@ -1,0 +1,6 @@
+X0010
+Podczas konfigurowania sieci w małym biurze, administrator sieci decyduje się dynamicznie przypisywać prywatne adresy IP do stacji roboczych i urządzeń mobilnych. Która funkcja musi być włączona na routerze firmowym, aby urządzenia biurowe miały dostęp do Internetu?
+UPnP
+Filtrowanie MAC
+NAT
+QoS

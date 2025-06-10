@@ -1,0 +1,6 @@
+X0100
+Który typ VPN przesyła pakiety przez wirtualne interfejsy tunelowe w celu szyfrowania i przesyłania?
+MPLS VPN
+IPsec virtual tunnel interface
+dynamic multipoint VPN
+GRE over IPsec

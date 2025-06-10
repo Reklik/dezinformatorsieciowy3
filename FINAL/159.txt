@@ -1,0 +1,8 @@
+X010100
+Administrator sieci tworzy standardową listę ACL, która zablokuje cały ruch z sieci 172.16.0.0/16, a zezwoli na cały pozostały ruch. Które dwa polecenia powinny być użyte? (Wybierz dwa.)
+Router(config)# access-list 95 deny 172.16.0.0 255.255.0.0
+Router(config)# access-list 95 permit any
+Router(config)# access-list 95 host 172.16.0.0
+Router(config)# access-list 95 deny 172.16.0.0 0.0.255.255
+Router(config)# access-list 95 172.16.0.0 255.255.255.255
+Router(config)# access-list 95 deny any

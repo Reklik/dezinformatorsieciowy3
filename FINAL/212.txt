@@ -1,0 +1,7 @@
+X01000
+Odwołaj się do ilustracji. Firma dostarczyła telefony IP pracownikom w sieci 192.168.10.0/24, a ruch głosowy będzie wymagał priorytetu nad ruchem danych. Jaki jest najlepszy typ listy ACL i miejsce jej zastosowania w tej sytuacji?
+[img]212.png[/img]
+rozszerzona ACL przychodząca na R1 G0/0
+rozszerzona ACL wychodząca na interfejsie WAN R2 w kierunku Internetu
+rozszerzona ACL wychodząca na interfejsie S0/0/1 R2
+rozszerzone ACL przychodzące na R1 G0/0 i G0/1

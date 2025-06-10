@@ -1,0 +1,6 @@
+X0100
+Czym jest WAN?
+infrastruktura sieciowa obejmująca ograniczony obszar fizyczny, taki jak miasto
+infrastruktura sieciowa zapewniająca dostęp do innych sieci na dużym obszarze geograficznym
+infrastruktura sieciowa zapewniająca dostęp na małym obszarze geograficznym
+infrastruktura sieciowa zaprojektowana do przechowywania, pobierania i replikacji danych

@@ -1,0 +1,7 @@
+X00010
+Odwołaj się do ilustracji. Router R1 jest skonfigurowany z statycznym NAT. Adresowanie na routerze i serwerze WWW jest poprawne, ale nie ma łączności między serwerem WWW a użytkownikami w Internecie. Jaka może być przyczyna braku łączności?
+[img]134.png[/img]
+Interfejs Fa0/0 powinien być skonfigurowany poleceniem ip nat outside.
+Wewnętrzny adres globalny jest niepoprawny.
+Konfiguracja NAT routera zawiera niepoprawny adres inside local.
+Konfiguracja NAT na interfejsie S0/0/1 jest niepoprawna.

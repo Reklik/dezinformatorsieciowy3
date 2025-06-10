@@ -1,0 +1,7 @@
+X00010
+Odwołaj się do ilustracji. Jeśli identyfikator routera (router ID) nie został ręcznie skonfigurowany, jaki identyfikator routera OSPF będzie używał router Branch1?
+[img]162.png[/img]
+0.0.1
+1.0.1
+168.1.100
+165.201.1

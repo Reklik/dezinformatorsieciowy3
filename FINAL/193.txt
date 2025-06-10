@@ -1,0 +1,3 @@
+X1
+Dopasuj każdy składnik połączenia WAN do jego opisu. (Nie wszystkie opcje są używane.)
+[img]193.png[/img]

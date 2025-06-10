@@ -1,0 +1,5 @@
+X001
+Która wersja SNMP jest obsługiwana przez oprogramowanie Cisco IOS?
+Wersja 2
+Wersja 3
+Oba

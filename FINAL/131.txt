@@ -1,0 +1,6 @@
+X1000
+W sieci OSPF, która struktura OSPF jest używana do tworzenia tabeli sąsiadów na routerze?
+baza danych sąsiedztwa (adjacency database)
+baza danych stanu łącza (link-state database)
+tabela routingu (routing table)
+tabela przekazywania (forwarding database)

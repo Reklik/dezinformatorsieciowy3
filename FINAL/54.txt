@@ -1,0 +1,15 @@
+X11000
+Jakie są dwa typy ataków wykorzystywane na otwartych resolverach DNS? (Wybierz dwa.)
+amplifikacja i odbicie (amplification and reflection)
+wykorzystanie zasobów (resource utilization)
+szybki flux (fast flux)
+zatrucie ARP (ARP poisoning)
+tłumienie (cushioning)
+
+
+
+
+
+
+
+

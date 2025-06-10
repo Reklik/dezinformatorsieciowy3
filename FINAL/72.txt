@@ -1,0 +1,7 @@
+X10100
+Jakie są dwa cele przeprowadzenia ataku rozpoznawczego na sieć? (Wybierz dwa.)
+skanowanie dostępności
+pobieranie i modyfikacja danych
+zbieranie informacji o sieci i urządzeniach
+uniemożliwienie innym użytkownikom dostępu do systemu
+eskalacja uprawnień dostępu

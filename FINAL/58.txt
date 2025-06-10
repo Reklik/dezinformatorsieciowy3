@@ -1,0 +1,6 @@
+X0001
+W JSON, co jest zawarte w nawiasach kwadratowych [ ]?
+wartości zagnieżdżone (nested values)
+pary klucz/wartość (key/value pairs)
+obiekt (an object)
+tablica (an array)

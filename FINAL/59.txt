@@ -1,0 +1,8 @@
+X000111
+Jakie są trzy składniki wykorzystywane w części zapytania typowego żądania RESTful API? (Wybierz trzy.)
+zasoby (resources)
+protokół (protocol)
+serwer API (API server)
+format
+klucz (key)
+parametry (parameters)
